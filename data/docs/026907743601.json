@@ -1,0 +1,18 @@
+{
+ "ref": "026907743601",
+ "refDisplay": "0269 07 743601",
+ "title": "TRAVERSE PLANCHER",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0111"
+  }
+ ]
+}

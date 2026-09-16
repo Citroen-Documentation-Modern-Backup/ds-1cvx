@@ -1,0 +1,18 @@
+{
+ "ref": "026908982801",
+ "refDisplay": "0269 08 982801",
+ "title": "PANNEAUX DE PORTE AVANT",
+ "nature": "",
+ "applicability": "SEDUCTION JUSQU’A OPR 05284",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0135"
+  }
+ ]
+}

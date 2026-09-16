@@ -1,0 +1,18 @@
+{
+ "ref": "026901330115",
+ "refDisplay": "0269 01 330115",
+ "title": "BOITE DE VITESSES AUTOMATIQUE",
+ "nature": "",
+ "applicability": "INJECTION ET ZPJ ET BVA ET 4HP18 JUSQU’A OPR 06047",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0017"
+  }
+ ]
+}

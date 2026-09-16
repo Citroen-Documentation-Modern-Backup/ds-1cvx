@@ -1,0 +1,18 @@
+{
+ "ref": "026905545050",
+ "refDisplay": "0269 05 545050",
+ "title": "ECLAIREUR BOITE GANTS - ECLAIREUR PORTE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0202"
+  }
+ ]
+}

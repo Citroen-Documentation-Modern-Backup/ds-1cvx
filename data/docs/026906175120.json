@@ -1,0 +1,18 @@
+{
+ "ref": "026906175120",
+ "refDisplay": "0269 06 175120",
+ "title": "TUBULURE DE REMPLISSAGE RESERVOIR",
+ "nature": "",
+ "applicability": "ESSENCE ET GAZOLE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

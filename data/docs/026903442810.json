@@ -1,0 +1,18 @@
+{
+ "ref": "026903442810",
+ "refDisplay": "0269 03 442810",
+ "title": "REPARTITEUR DIRECTION",
+ "nature": "",
+ "applicability": "DIRECTION ASSISTEE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0339"
+  }
+ ]
+}

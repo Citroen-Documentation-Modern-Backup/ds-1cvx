@@ -1,0 +1,18 @@
+{
+ "ref": "026901322501",
+ "refDisplay": "0269 01 322501",
+ "title": "CONVERTISSEUR",
+ "nature": "",
+ "applicability": "BVA ET 4HP18",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0016"
+  }
+ ]
+}

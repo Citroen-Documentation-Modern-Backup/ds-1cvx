@@ -1,0 +1,18 @@
+{
+ "ref": "026908932330B",
+ "refDisplay": "0269 08 932330B",
+ "title": "SIEGES ARRIERE - MATELASSURE - COIFFE",
+ "nature": "",
+ "applicability": "BERLINE 5PTES ET HARMONIE ET SENSATION DEPUIS OPR 05285 JUSQU’A OPR 05622",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0231"
+  }
+ ]
+}

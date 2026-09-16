@@ -1,0 +1,19 @@
+{
+ "ref": "1CVX01632290",
+ "refDisplay": "1CVX 0 163 2290",
+ "title": "BOITIER INTERFACE CAPTEUR DISTANCE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0337"
+  }
+ ]
+}

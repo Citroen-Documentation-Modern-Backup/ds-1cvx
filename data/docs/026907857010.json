@@ -1,0 +1,18 @@
+{
+ "ref": "026907857010",
+ "refDisplay": "0269 07 857010",
+ "title": "VIDE POCHES - BOITE A GANTS - SERRURE",
+ "nature": "",
+ "applicability": "CONDUITE A DROITE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0214"
+  }
+ ]
+}

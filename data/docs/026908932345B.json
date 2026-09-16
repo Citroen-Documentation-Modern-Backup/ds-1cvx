@@ -1,0 +1,18 @@
+{
+ "ref": "026908932345B",
+ "refDisplay": "0269 08 932345B",
+ "title": "SIEGES ARRIERE - MATELASSURE - COIFFE",
+ "nature": "",
+ "applicability": "BERLINE 5PTES ET AMBIANCE DEPUIS OPR 05623",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0231"
+  }
+ ]
+}

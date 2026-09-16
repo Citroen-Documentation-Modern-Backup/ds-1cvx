@@ -1,0 +1,23 @@
+{
+ "ref": "026901348080",
+ "refDisplay": "0269 01 348080",
+ "title": "FIXATION MOTOPROPULSEUR",
+ "nature": "",
+ "applicability": "GAZOLE ET 2,088L ET TURBO ET BVM",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0020"
+  }
+ ]
+}

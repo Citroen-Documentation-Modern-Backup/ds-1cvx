@@ -1,0 +1,19 @@
+{
+ "ref": "1CVX04114395",
+ "refDisplay": "1CVX 0 411 4395",
+ "title": "VERROU DE TRAPPE CENDRIER",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0212"
+  }
+ ]
+}

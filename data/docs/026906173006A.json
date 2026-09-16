@@ -1,0 +1,18 @@
+{
+ "ref": "026906173006A",
+ "refDisplay": "0269 06 173006A",
+ "title": "CANALISATION FIX FILTRE CARBURANT",
+ "nature": "",
+ "applicability": "ESSENCE ET INJECTION TURBO ECHANGEUR ET 1,998L ET BREAK",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

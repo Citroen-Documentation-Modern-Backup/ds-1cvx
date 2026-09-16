@@ -1,0 +1,18 @@
+{
+ "ref": "026908934455C",
+ "refDisplay": "0269 08 934455C",
+ "title": "BANQUETTE ARRIERE - MATELASSURE - COIFFE",
+ "nature": "",
+ "applicability": "V6.24 DEPUIS OPR 05285 JUSQU’A OPR 05970",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0231"
+  }
+ ]
+}

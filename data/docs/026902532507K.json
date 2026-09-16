@@ -1,0 +1,18 @@
+{
+ "ref": "026902532507K",
+ "refDisplay": "0269 02 532507K",
+ "title": "ALTERNATEUR - DETAILS",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0303"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "026905501184",
+ "refDisplay": "0269 05 501184",
+ "title": "FAISCEAU PRINCIPAL COMPARTIMENT MOTEUR",
+ "nature": "",
+ "applicability": "AMBIANCE ET EXCLUSIVE DEPUIS OPR 06146",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0308"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "026905545010",
+ "refDisplay": "0269 05 545010",
+ "title": "PLAFONNIERS - LECTEUR CARTE",
+ "nature": "",
+ "applicability": "TOIT OUVRANT CDE ELECT",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0202"
+  }
+ ]
+}

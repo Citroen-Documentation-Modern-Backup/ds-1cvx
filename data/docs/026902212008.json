@@ -1,0 +1,18 @@
+{
+ "ref": "026902212008",
+ "refDisplay": "0269 02 212008",
+ "title": "BOUGIES - MODULE - BOBINE ALLUMAGE",
+ "nature": "",
+ "applicability": "ESSENCE ET 24SOUPAPES",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0013"
+  }
+ ]
+}

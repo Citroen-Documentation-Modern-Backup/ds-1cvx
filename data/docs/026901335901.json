@@ -1,0 +1,18 @@
+{
+ "ref": "026901335901",
+ "refDisplay": "0269 01 335901",
+ "title": "COMMANDE BVA",
+ "nature": "",
+ "applicability": "BVA",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0018"
+  }
+ ]
+}

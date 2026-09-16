@@ -1,0 +1,18 @@
+{
+ "ref": "026906642607B",
+ "refDisplay": "0269 06 642607B",
+ "title": "AEROTHERME - RACCORDS EAU",
+ "nature": "",
+ "applicability": "2,963L ET 2,975L ET BVA JUSQU’A OPR 06202 SAUF PAYS CHAUDS",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0347"
+  }
+ ]
+}

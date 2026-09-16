@@ -1,0 +1,18 @@
+{
+ "ref": "026902533224",
+ "refDisplay": "0269 02 533224",
+ "title": "DEMARREUR - DETAILS",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0302"
+  }
+ ]
+}

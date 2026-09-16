@@ -1,0 +1,23 @@
+{
+ "ref": "026908980201A",
+ "refDisplay": "0269 08 980201A",
+ "title": "GARNITURE DE COFFRE",
+ "nature": "",
+ "applicability": "BERLINE 5PTES DEPUIS OPR 05285",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0122"
+  },
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0234"
+  }
+ ]
+}

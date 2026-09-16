@@ -1,0 +1,19 @@
+{
+ "ref": "1CVX02732342",
+ "refDisplay": "1CVX 0 273 2342",
+ "title": "TIGE DE COMMANDE DE HAUTEUR AV",
+ "nature": "",
+ "applicability": "- OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU -",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0337"
+  }
+ ]
+}

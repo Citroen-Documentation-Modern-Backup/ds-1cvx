@@ -1,0 +1,18 @@
+{
+ "ref": "026901223015C",
+ "refDisplay": "0269 01 223015C",
+ "title": "CARTER HUILE FILTRE SONDE",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,998L ET CARBURATEUR ET INJECTION ET REFRIGERATION DEPUIS OPR 06141",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0008"
+  }
+ ]
+}

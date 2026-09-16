@@ -1,0 +1,23 @@
+{
+ "ref": "026908922530A",
+ "refDisplay": "0269 08 922530A",
+ "title": "SIEGES AVANT - ARMATURE",
+ "nature": "",
+ "applicability": "CDE SIEGE AV ELECT CONDUCTEUR ET CONDUITE A DROITE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0333"
+  }
+ ]
+}

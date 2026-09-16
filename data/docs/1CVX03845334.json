@@ -1,0 +1,19 @@
+{
+ "ref": "1CVX03845334",
+ "refDisplay": "1CVX 0 384 5334",
+ "title": "MOTEUR D’ESSUIE VITRE AVANT",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0322"
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "ref": "1CVX04114350",
+ "refDisplay": "1CVX 0 411 4350",
+ "title": "PORTE DE BOITE A GANTS SUPERIEURE",
+ "nature": "",
+ "applicability": "- DEPUIS OPR 06444 OU - DEPUIS OPR 06444 OU - DEPUIS OPR 06444 OU - DEPUIS OPR 06444 OU - OU - OU - DEPUIS OPR 06444 OU - DEPUIS OPR 06444 OU - DEPUIS OPR 06444 OU - DEPUIS OPR 06444 OU - OU - OU - OU - OU - DEPUIS OPR 06444 OU - DEPUIS OPR 06444 OU - DEPUIS OPR 06444 OU - DEPUIS OPR 06444 OU - DEPUIS OPR 06444 OU - DEPUIS OPR 06444 OU - DEPUIS OPR 06444 OU - DEPUIS OPR 06444 OU - DEPUIS OPR 06444 OU - DEPUIS OPR 06444",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0212"
+  }
+ ]
+}

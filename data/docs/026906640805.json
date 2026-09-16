@@ -1,0 +1,18 @@
+{
+ "ref": "026906640805",
+ "refDisplay": "0269 06 640805",
+ "title": "CONDENSEUR - DESHYDRATEUR",
+ "nature": "",
+ "applicability": " DEPUIS DATE 19930901",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0347"
+  }
+ ]
+}

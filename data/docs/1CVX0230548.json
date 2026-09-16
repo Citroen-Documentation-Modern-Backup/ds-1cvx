@@ -1,0 +1,19 @@
+{
+ "ref": "1CVX0230548",
+ "refDisplay": "1CVX 0 23 0548",
+ "title": "CAPACITE DE DEGAZAGE",
+ "nature": "",
+ "applicability": "- OU - OU - OU - OU - OU -",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0009"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "026906236012",
+ "refDisplay": "0269 06 236012",
+ "title": "DURIT RACCORD DE REFROIDISSEMENT",
+ "nature": "",
+ "applicability": "GAZOLE ET TURBO ECH ET 2,088L ET BVM",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0009"
+  }
+ ]
+}

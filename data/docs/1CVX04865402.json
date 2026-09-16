@@ -1,0 +1,19 @@
+{
+ "ref": "1CVX04865402",
+ "refDisplay": "1CVX 0 486 5402",
+ "title": "CABLE NEGATIF DE BATTERIE",
+ "nature": "",
+ "applicability": "- OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU -",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0305"
+  }
+ ]
+}

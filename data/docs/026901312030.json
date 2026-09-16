@@ -1,0 +1,18 @@
+{
+ "ref": "026901312030",
+ "refDisplay": "0269 01 312030",
+ "title": "EMBRAYAGE - MECANISME - DISQUE - BUTEE",
+ "nature": "",
+ "applicability": "INJECTION TURBO XU10J2TE ET ME5T",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0016"
+  }
+ ]
+}

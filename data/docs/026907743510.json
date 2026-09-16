@@ -1,0 +1,18 @@
+{
+ "ref": "026907743510",
+ "refDisplay": "0269 07 743510",
+ "title": "AILE AV-PASSAGE ROUE-ENJOLIVEUR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0104"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "026905501222B",
+ "refDisplay": "0269 05 501222B",
+ "title": "FAISCEAU MOTEUR",
+ "nature": "",
+ "applicability": "GAZOLE ET 2,088L ET TURBO DEPUIS OPR 05810",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0308"
+  }
+ ]
+}

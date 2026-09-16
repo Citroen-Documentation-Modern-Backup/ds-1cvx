@@ -1,0 +1,19 @@
+{
+ "ref": "1CVX02781317",
+ "refDisplay": "1CVX 0 278 1317",
+ "title": "TUBE ACCU FREIN A RACCORD 2 VOIES",
+ "nature": "",
+ "applicability": "- OU - OU - OU - OU - OU - OU - OU -",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0042"
+  }
+ ]
+}

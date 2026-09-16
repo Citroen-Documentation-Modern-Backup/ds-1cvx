@@ -1,0 +1,18 @@
+{
+ "ref": "026901241039",
+ "refDisplay": "0269 01 241039",
+ "title": "MOTOVENTILATEUR BUSE CONDUIT D’AIR",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,998L ET INJECTION TURBO ECHANGEUR",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0009"
+  }
+ ]
+}

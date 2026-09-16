@@ -1,0 +1,18 @@
+{
+ "ref": "026903394230",
+ "refDisplay": "0269 03 394230",
+ "title": "CANALISATION ALIMENT FREIN",
+ "nature": "",
+ "applicability": "CONDUITE A GAUCHE ET SUSPENSION HYDRACTIVE ET ANTI-BLOCAGE ROUE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0042"
+  }
+ ]
+}

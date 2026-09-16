@@ -1,0 +1,18 @@
+{
+ "ref": "026906182306",
+ "refDisplay": "0269 06 182306",
+ "title": "ECRANS THERMIQUE D’ECHAPPEMENT",
+ "nature": "",
+ "applicability": "ESSENCE ET INJECTION TURBO ECHANGEUR ET 1,998L",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0011"
+  }
+ ]
+}

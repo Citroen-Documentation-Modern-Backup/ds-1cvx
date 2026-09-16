@@ -1,0 +1,18 @@
+{
+ "ref": "026906642602",
+ "refDisplay": "0269 06 642602",
+ "title": "AEROTHERME - RACCORDS EAU",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,998L ET BVA ET INJECTION ET INJ MONOPOINT",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0347"
+  }
+ ]
+}

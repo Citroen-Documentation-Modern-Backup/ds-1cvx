@@ -1,0 +1,23 @@
+{
+ "ref": "026907843501",
+ "refDisplay": "0269 07 843501",
+ "title": "VITRE CUSTODE - MOTOREDUCTEUR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0121"
+  },
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0329"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "026901123010",
+ "refDisplay": "0269 01 123010",
+ "title": "ARBRE A CAMES COURROIE PIGNON",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,998L ET CARBURATEUR ET 1,998L ET INJ MONOPOINT JUSQU’A OPR 05897",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0007"
+  }
+ ]
+}

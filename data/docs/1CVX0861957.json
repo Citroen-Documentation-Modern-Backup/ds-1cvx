@@ -1,0 +1,19 @@
+{
+ "ref": "1CVX0861957",
+ "refDisplay": "1CVX 0 86 1957",
+ "title": "FINITION DE LEVIER",
+ "nature": "",
+ "applicability": "- OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU -",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0018"
+  }
+ ]
+}

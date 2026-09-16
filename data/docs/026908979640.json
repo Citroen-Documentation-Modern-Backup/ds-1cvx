@@ -1,0 +1,18 @@
+{
+ "ref": "026908979640",
+ "refDisplay": "0269 08 979640",
+ "title": "GARNITURES INTERIEURES AR 4/5 PTES",
+ "nature": "",
+ "applicability": "BERLINE 5PTES ET SEDUCTION ET PRESENCE ET DETENTE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0234"
+  }
+ ]
+}

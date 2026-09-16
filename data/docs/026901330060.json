@@ -1,0 +1,18 @@
+{
+ "ref": "026901330060",
+ "refDisplay": "0269 01 330060",
+ "title": "BOITE DE VITESSES MECANIQUE",
+ "nature": "",
+ "applicability": "DIESEL ET XUD11A ET BE3/5NKG ET CT22X18 ET BREAK",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0017"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "026902533030",
+ "refDisplay": "0269 02 533030",
+ "title": "DEMARREUR FIXATIONS",
+ "nature": "",
+ "applicability": "GAZOLE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0302"
+  }
+ ]
+}

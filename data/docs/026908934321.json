@@ -1,0 +1,18 @@
+{
+ "ref": "026908934321",
+ "refDisplay": "0269 08 934321",
+ "title": "BANQUETTE ARRIERE - ARMATURE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0230"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "026902141908A",
+ "refDisplay": "0269 02 141908A",
+ "title": "PEDALE ACCELERATEUR CABLE",
+ "nature": "",
+ "applicability": "ESSENCE ET 24SOUPAPES ET CONDUITE A DROITE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

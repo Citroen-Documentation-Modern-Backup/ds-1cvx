@@ -1,0 +1,19 @@
+{
+ "ref": "1CVX030103",
+ "refDisplay": "1CVX 0 3 0103",
+ "title": "COMPRESSIONS",
+ "nature": "",
+ "applicability": "- OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU -",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0049"
+  }
+ ]
+}

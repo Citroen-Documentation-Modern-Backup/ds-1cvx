@@ -1,0 +1,18 @@
+{
+ "ref": "026901312040",
+ "refDisplay": "0269 01 312040",
+ "title": "EMBRAYAGE - MECANISME - DISQUE - BUTEE",
+ "nature": "",
+ "applicability": "ZPJ ET ME5T",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0016"
+  }
+ ]
+}

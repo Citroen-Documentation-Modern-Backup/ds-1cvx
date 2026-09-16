@@ -1,0 +1,18 @@
+{
+ "ref": "026902141907",
+ "refDisplay": "0269 02 141907",
+ "title": "PEDALE ACCELERATEUR CABLE",
+ "nature": "",
+ "applicability": "ESSENCE ET 2,963L ET 2,975L ET INJECTION ET CONDUITE A GAUCHE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

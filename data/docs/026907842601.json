@@ -1,0 +1,23 @@
+{
+ "ref": "026907842601",
+ "refDisplay": "0269 07 842601",
+ "title": "VITRE PORTE LATERALE AR BATTANTE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0329"
+  }
+ ]
+}

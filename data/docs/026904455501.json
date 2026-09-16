@@ -1,0 +1,23 @@
+{
+ "ref": "026904455501",
+ "refDisplay": "0269 04 455501",
+ "title": "FREIN A MAIN DETAILS",
+ "nature": "",
+ "applicability": "CONDUITE A GAUCHE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0046"
+  },
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0351"
+  }
+ ]
+}

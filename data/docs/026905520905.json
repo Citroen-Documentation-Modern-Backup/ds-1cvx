@@ -1,0 +1,18 @@
+{
+ "ref": "026905520905",
+ "refDisplay": "0269 05 520905",
+ "title": "COMBINE DE BORD COMPLET",
+ "nature": "",
+ "applicability": "MONTAGE MULTIPLEXE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0213"
+  }
+ ]
+}

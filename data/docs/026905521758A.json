@@ -1,0 +1,18 @@
+{
+ "ref": "026905521758A",
+ "refDisplay": "0269 05 521758A",
+ "title": "CAPSULE CABLE REGULATEUR VITESSES",
+ "nature": "",
+ "applicability": "ESSENCE ET 2,963L ET 2,975L ET INJECTION ET BVA DEPUIS OPR 04958",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0344"
+  }
+ ]
+}

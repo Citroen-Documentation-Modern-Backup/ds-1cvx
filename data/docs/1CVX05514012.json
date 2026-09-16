@@ -1,0 +1,19 @@
+{
+ "ref": "1CVX05514012",
+ "refDisplay": "1CVX 0 551 4012",
+ "title": "STATION FEU AV D",
+ "nature": "",
+ "applicability": "- OU - OU - OU -",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0942"
+  }
+ ]
+}

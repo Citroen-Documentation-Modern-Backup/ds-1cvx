@@ -1,0 +1,18 @@
+{
+ "ref": "026904454001",
+ "refDisplay": "0269 04 454001",
+ "title": "DOSEUR FREINS",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0047"
+  }
+ ]
+}

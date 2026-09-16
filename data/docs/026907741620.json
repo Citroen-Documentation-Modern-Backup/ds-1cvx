@@ -1,0 +1,18 @@
+{
+ "ref": "026907741620",
+ "refDisplay": "0269 07 741620",
+ "title": "BAIE ET VITRE PARE-BRISE",
+ "nature": "",
+ "applicability": "BREAK 5PTES",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0106"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "026902141905A",
+ "refDisplay": "0269 02 141905A",
+ "title": "PEDALE ACCELERATEUR CABLE",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,998L ET INJ MONOPOINT ET (XT) EXPORT",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

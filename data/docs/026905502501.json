@@ -1,0 +1,18 @@
+{
+ "ref": "026905502501",
+ "refDisplay": "0269 05 502501",
+ "title": "FAISCEAU ARRIERE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0310"
+  }
+ ]
+}

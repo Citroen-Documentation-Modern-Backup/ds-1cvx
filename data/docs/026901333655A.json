@@ -1,0 +1,18 @@
+{
+ "ref": "026901333655A",
+ "refDisplay": "0269 01 333655A",
+ "title": "REGULATEUR",
+ "nature": "",
+ "applicability": "BVA ET 4HP18",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0017"
+  }
+ ]
+}

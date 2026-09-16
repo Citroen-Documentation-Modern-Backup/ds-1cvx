@@ -1,0 +1,19 @@
+{
+ "ref": "1CVX01512001",
+ "refDisplay": "1CVX 0 151 2001",
+ "title": "GEOMETRIE DU TRAIN AV",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0337"
+  }
+ ]
+}

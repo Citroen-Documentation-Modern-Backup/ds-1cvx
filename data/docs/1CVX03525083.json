@@ -1,0 +1,24 @@
+{
+ "ref": "1CVX03525083",
+ "refDisplay": "1CVX 0 352 5083",
+ "title": "CAPTEUR DE TEMPERATURE EXTERIEURE",
+ "nature": "",
+ "applicability": "- OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU -",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0136"
+  },
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0331"
+  }
+ ]
+}

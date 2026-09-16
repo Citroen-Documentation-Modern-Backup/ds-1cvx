@@ -1,0 +1,18 @@
+{
+ "ref": "026901121015",
+ "refDisplay": "0269 01 121015",
+ "title": "VILEBREQUIN POULIE",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,998L ET INJECTION ET 1,998L ET INJ MONOPOINT JUSQU’A OPR 05897",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0005"
+  }
+ ]
+}

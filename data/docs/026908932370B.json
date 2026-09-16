@@ -1,0 +1,18 @@
+{
+ "ref": "026908932370B",
+ "refDisplay": "0269 08 932370B",
+ "title": "SIEGES ARRIERE - MATELASSURE - COIFFE",
+ "nature": "",
+ "applicability": "BREAK 5PTES JUSQU’A OPR 05970",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0231"
+  }
+ ]
+}

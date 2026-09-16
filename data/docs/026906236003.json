@@ -1,0 +1,18 @@
+{
+ "ref": "026906236003",
+ "refDisplay": "0269 06 236003",
+ "title": "DURIT RACCORD DE REFROIDISSEMENT",
+ "nature": "",
+ "applicability": "INJECTION ET 1,998L ET BVA SAUF INJECTION TURBO ECHANGEUR",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0009"
+  }
+ ]
+}

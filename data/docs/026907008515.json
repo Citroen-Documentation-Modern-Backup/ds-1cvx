@@ -1,0 +1,18 @@
+{
+ "ref": "026907008515",
+ "refDisplay": "0269 07 008515",
+ "title": "ARCS DE PAVILLON",
+ "nature": "",
+ "applicability": "BREAK 5PTES JUSQU’A OPR 05744",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0144"
+  }
+ ]
+}

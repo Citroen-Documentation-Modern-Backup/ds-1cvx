@@ -1,0 +1,18 @@
+{
+ "ref": "026905521220",
+ "refDisplay": "0269 05 521220",
+ "title": "TRANSMISSION COMPTEUR",
+ "nature": "",
+ "applicability": "INDICATEUR INFO AUTONOMIE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0213"
+  }
+ ]
+}

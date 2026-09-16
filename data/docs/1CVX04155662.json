@@ -1,0 +1,19 @@
+{
+ "ref": "1CVX04155662",
+ "refDisplay": "1CVX 0 415 5662",
+ "title": "ANTI-DEMARRAGE 9471-59",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0216"
+  }
+ ]
+}

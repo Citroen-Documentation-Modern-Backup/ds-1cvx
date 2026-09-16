@@ -1,0 +1,18 @@
+{
+ "ref": "026901121040",
+ "refDisplay": "0269 01 121040",
+ "title": "VILEBREQUIN POULIE",
+ "nature": "",
+ "applicability": "GAZOLE ET 2,088L ET TURBO",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0005"
+  }
+ ]
+}

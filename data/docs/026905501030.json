@@ -1,0 +1,18 @@
+{
+ "ref": "026905501030",
+ "refDisplay": "0269 05 501030",
+ "title": "FAISCEAUX COMPLEMENTAIRES AV",
+ "nature": "",
+ "applicability": "(S) SUEDE ET (N) NORVEGE ET (SF) FINLANDE ET (DK) DANEMARK",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0308"
+  }
+ ]
+}

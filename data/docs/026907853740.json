@@ -1,0 +1,18 @@
+{
+ "ref": "026907853740",
+ "refDisplay": "0269 07 853740",
+ "title": "CONSOLE PLANCHER PARTIE AR - CENDRIER",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0216"
+  }
+ ]
+}

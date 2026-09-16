@@ -1,0 +1,18 @@
+{
+ "ref": "026905564410",
+ "refDisplay": "0269 05 564410",
+ "title": "LAVE PROJECTEUR - RESERVOIR - POMPE",
+ "nature": "",
+ "applicability": "(N) NORVEGE ET (S) SUEDE ET (SF) FINLANDE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0321"
+  }
+ ]
+}

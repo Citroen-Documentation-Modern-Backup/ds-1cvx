@@ -1,0 +1,19 @@
+{
+ "ref": "1CVX03656548",
+ "refDisplay": "1CVX 0 365 6548",
+ "title": "ENJOLIVEUR CDE OUVERTURE INT AR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0140"
+  }
+ ]
+}

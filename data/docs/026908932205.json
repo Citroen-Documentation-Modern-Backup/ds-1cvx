@@ -1,0 +1,23 @@
+{
+ "ref": "026908932205",
+ "refDisplay": "0269 08 932205",
+ "title": "SIEGES ARRIERE - ARMATURE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0230"
+  },
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0333"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "ref": "026908980210",
+ "refDisplay": "0269 08 980210",
+ "title": "GARNITURE DE COFFRE",
+ "nature": "",
+ "applicability": "BREAK 5PTES",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0122"
+  },
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0234"
+  }
+ ]
+}

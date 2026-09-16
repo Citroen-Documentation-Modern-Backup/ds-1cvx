@@ -1,0 +1,23 @@
+{
+ "ref": "026908616215",
+ "refDisplay": "0269 08 616215",
+ "title": "CEINTURES DE SECURITE AVANT",
+ "nature": "",
+ "applicability": "CEINTURE AVEC PRETENSIONNEUR DEPUIS OPR 05929",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0237"
+  },
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0952"
+  }
+ ]
+}

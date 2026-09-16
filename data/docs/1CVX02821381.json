@@ -1,0 +1,19 @@
+{
+ "ref": "1CVX02821381",
+ "refDisplay": "1CVX 0 282 1381",
+ "title": "TUBE D’ELECTROVANNE A REGULATEUR AR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0337"
+  }
+ ]
+}

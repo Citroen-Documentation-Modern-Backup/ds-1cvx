@@ -1,0 +1,18 @@
+{
+ "ref": "026901330035",
+ "refDisplay": "0269 01 330035",
+ "title": "BOITE DE VITESSES MECANIQUE",
+ "nature": "",
+ "applicability": "1,998L ET INJECTION TURBO ECHANGEUR DEPUIS OPR 05684",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0017"
+  }
+ ]
+}

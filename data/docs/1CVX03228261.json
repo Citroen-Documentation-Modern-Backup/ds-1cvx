@@ -1,0 +1,19 @@
+{
+ "ref": "1CVX03228261",
+ "refDisplay": "1CVX 0 322 8261",
+ "title": "PANNEAU AR + PLANCHER + AILE D OU 1 COTE",
+ "nature": "",
+ "applicability": "- OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU -",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0116"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "ref": "026907852120",
+ "refDisplay": "0269 07 852120",
+ "title": "BANDES - ENJOLIVEURS - BAGUETTES LAT",
+ "nature": "",
+ "applicability": "V6.24",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0132"
+  },
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0138"
+  },
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0236"
+  }
+ ]
+}

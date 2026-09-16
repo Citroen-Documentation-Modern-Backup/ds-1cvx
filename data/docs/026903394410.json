@@ -1,0 +1,18 @@
+{
+ "ref": "026903394410",
+ "refDisplay": "0269 03 394410",
+ "title": "CANALISATION RETOUR SUSPENSION AV",
+ "nature": "",
+ "applicability": "CONDUITE A GAUCHE JUSQU’A OPR 05928 SAUF 24SOUPAPES",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0337"
+  }
+ ]
+}

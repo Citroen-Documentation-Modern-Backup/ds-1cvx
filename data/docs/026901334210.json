@@ -1,0 +1,18 @@
+{
+ "ref": "026901334210",
+ "refDisplay": "0269 01 334210",
+ "title": "LIGNE PRIMAIRE BVM",
+ "nature": "",
+ "applicability": "ME5T ET ESSENCE ET 2,975L ET INJECTION ET 24SOUPAPES",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0017"
+  }
+ ]
+}

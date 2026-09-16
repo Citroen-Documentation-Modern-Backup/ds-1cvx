@@ -1,0 +1,18 @@
+{
+ "ref": "026902532035",
+ "refDisplay": "0269 02 532035",
+ "title": "ALTERNATEUR ET FIXATIONS",
+ "nature": "",
+ "applicability": "GAZOLE SAUF REFRIGERATION",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0303"
+  }
+ ]
+}

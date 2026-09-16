@@ -1,0 +1,18 @@
+{
+ "ref": "026903394505",
+ "refDisplay": "0269 03 394505",
+ "title": "FIXATIONS CANALISATIONS HYDRAULIQUES",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0337"
+  }
+ ]
+}

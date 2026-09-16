@@ -1,0 +1,18 @@
+{
+ "ref": "026906235501",
+ "refDisplay": "0269 06 235501",
+ "title": "RADIATEUR",
+ "nature": "",
+ "applicability": "1,998L ET CARBURATEUR ET INJECTION ET INJ MONOPOINT SAUF REFRIGERATION",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0009"
+  }
+ ]
+}

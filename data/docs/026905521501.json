@@ -1,0 +1,23 @@
+{
+ "ref": "026905521501",
+ "refDisplay": "0269 05 521501",
+ "title": "ORDINATEUR DE BORD PUPITRE CONTROLE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0319"
+  },
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0350"
+  }
+ ]
+}

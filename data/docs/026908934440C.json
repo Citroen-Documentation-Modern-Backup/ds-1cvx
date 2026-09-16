@@ -1,0 +1,18 @@
+{
+ "ref": "026908934440C",
+ "refDisplay": "0269 08 934440C",
+ "title": "BANQUETTE ARRIERE - MATELASSURE - COIFFE",
+ "nature": "",
+ "applicability": "SENSATION DEPUIS OPR 05623",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0231"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "ref": "026908622101",
+ "refDisplay": "0269 08 622101",
+ "title": "SUPPORT DE ROUE DE SECOURS",
+ "nature": "",
+ "applicability": "BERLINE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0116"
+  },
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0120"
+  }
+ ]
+}

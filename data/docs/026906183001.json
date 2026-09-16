@@ -1,0 +1,18 @@
+{
+ "ref": "026906183001",
+ "refDisplay": "0269 06 183001",
+ "title": "COLLECTEUR CATALYSEUR ECHAPP AV",
+ "nature": "",
+ "applicability": "1,998L ET CARBURATEUR ET 1,998L ET INJECTION",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0011"
+  }
+ ]
+}

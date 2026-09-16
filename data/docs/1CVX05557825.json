@@ -1,0 +1,24 @@
+{
+ "ref": "1CVX05557825",
+ "refDisplay": "1CVX 0 555 7825",
+ "title": "DEFLECTEUR DE TOIT OUVRANT",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0149"
+  },
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0328"
+  }
+ ]
+}

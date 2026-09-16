@@ -1,0 +1,19 @@
+{
+ "ref": "1CVX04555597",
+ "refDisplay": "1CVX 0 455 5597",
+ "title": "PLAQUE DECORATIVE AR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0236"
+  }
+ ]
+}

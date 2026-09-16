@@ -1,0 +1,19 @@
+{
+ "ref": "1CVX03506389",
+ "refDisplay": "1CVX 0 350 6389",
+ "title": "ENJOLIVEUR SUPERIEUR DE PORTE AV",
+ "nature": "",
+ "applicability": "- OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU -",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0132"
+  }
+ ]
+}

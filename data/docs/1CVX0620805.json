@@ -1,0 +1,19 @@
+{
+ "ref": "1CVX0620805",
+ "refDisplay": "1CVX 0 62 0805",
+ "title": "MECANISME D’EMBRAYAGE",
+ "nature": "",
+ "applicability": "- OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU -",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0016"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "026906175508A",
+ "refDisplay": "0269 06 175508A",
+ "title": "DEPOLLUTION CANISTER ABSORBEUR",
+ "nature": "",
+ "applicability": "ESSENCE ET 24SOUPAPES DEPUIS OPR 05139",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0012"
+  }
+ ]
+}

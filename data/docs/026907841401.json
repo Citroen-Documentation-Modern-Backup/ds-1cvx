@@ -1,0 +1,23 @@
+{
+ "ref": "026907841401",
+ "refDisplay": "0269 07 841401",
+ "title": "VITRE PORTE LATERALE AV BATTANTE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0133"
+  },
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0329"
+  }
+ ]
+}

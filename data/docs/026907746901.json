@@ -1,0 +1,18 @@
+{
+ "ref": "026907746901",
+ "refDisplay": "0269 07 746901",
+ "title": "PLANCHER JUPE PANNEAU LONGERON AR",
+ "nature": "",
+ "applicability": "BERLINE 5PTES",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0116"
+  }
+ ]
+}

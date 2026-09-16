@@ -1,0 +1,23 @@
+{
+ "ref": "026901348040",
+ "refDisplay": "0269 01 348040",
+ "title": "FIXATION MOTOPROPULSEUR",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,998L ET INJECTION TURBO ECHANGEUR ET BVA",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0020"
+  }
+ ]
+}

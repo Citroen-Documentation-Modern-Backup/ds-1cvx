@@ -1,0 +1,19 @@
+{
+ "ref": "1CVX05445566",
+ "refDisplay": "1CVX 0 544 5566",
+ "title": "KIT TELEPHONE MAIN LIBRE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0350"
+  }
+ ]
+}

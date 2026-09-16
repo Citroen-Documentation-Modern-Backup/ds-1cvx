@@ -1,0 +1,18 @@
+{
+ "ref": "026907841101",
+ "refDisplay": "0269 07 841101",
+ "title": "PORTES LATERALES AV BATTANTES",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0132"
+  }
+ ]
+}

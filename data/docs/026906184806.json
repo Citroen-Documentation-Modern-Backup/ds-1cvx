@@ -1,0 +1,18 @@
+{
+ "ref": "026906184806",
+ "refDisplay": "0269 06 184806",
+ "title": "ECHAPPEMENT INTERMEDIAIRE ET AR",
+ "nature": "",
+ "applicability": "1,998L ET INJECTION TURBO ECHANGEUR",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0011"
+  }
+ ]
+}

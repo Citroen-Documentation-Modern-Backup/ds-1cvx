@@ -1,0 +1,18 @@
+{
+ "ref": "026905501209B",
+ "refDisplay": "0269 05 501209B",
+ "title": "FAISCEAU MOTEUR",
+ "nature": "",
+ "applicability": "ESSENCE ET 2,963L ET 2,975L ET INJECTION JUSQU’A OPR 05809",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0308"
+  }
+ ]
+}

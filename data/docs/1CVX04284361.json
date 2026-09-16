@@ -1,0 +1,19 @@
+{
+ "ref": "1CVX04284361",
+ "refDisplay": "1CVX 0 428 4361",
+ "title": "VERIN DE PORTE BOITE A GANTS",
+ "nature": "",
+ "applicability": "- DEPUIS OPR 06444 OU - DEPUIS OPR 06444 OU - DEPUIS OPR 06444 OU - DEPUIS OPR 06444 OU - OU - OU - DEPUIS OPR 06444 OU - DEPUIS OPR 06444 OU - DEPUIS OPR 06444 OU - DEPUIS OPR 06444 OU - OU - OU - OU - OU - DEPUIS OPR 06444 OU - DEPUIS OPR 06444 OU - DEPUIS OPR 06444 OU - DEPUIS OPR 06444 OU - DEPUIS OPR 06444 OU - DEPUIS OPR 06444 OU - DEPUIS OPR 06444 OU - DEPUIS OPR 06444 OU - DEPUIS OPR 06444 OU - DEPUIS OPR 06444",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0214"
+  }
+ ]
+}

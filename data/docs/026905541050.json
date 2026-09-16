@@ -1,0 +1,23 @@
+{
+ "ref": "026905541050",
+ "refDisplay": "0269 05 541050",
+ "title": "PROJECTEURS COMPLEMENTAIRES - KIT",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0203"
+  },
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0314"
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "ref": "1CVX03066002",
+ "refDisplay": "1CVX 0 306 6002",
+ "title": "1 SERRURE DE CAPOT",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0105"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "026906235512",
+ "refDisplay": "0269 06 235512",
+ "title": "RADIATEUR",
+ "nature": "",
+ "applicability": "2,088L ET GAZOLE ET TURBO ECH",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0009"
+  }
+ ]
+}

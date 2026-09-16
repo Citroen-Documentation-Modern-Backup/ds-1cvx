@@ -1,0 +1,18 @@
+{
+ "ref": "026901114040",
+ "refDisplay": "0269 01 114040",
+ "title": "CARTER CYLINDRES",
+ "nature": "",
+ "applicability": "ESSENCE ET 2,963L ET 2,975L ET INJECTION ET 24SOUPAPES",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0004"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "ref": "026905544005",
+ "refDisplay": "0269 05 544005",
+ "title": "FEUX ARRIERE",
+ "nature": "",
+ "applicability": "BREAK",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0203"
+  },
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0314"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "026903394110",
+ "refDisplay": "0269 03 394110",
+ "title": "CANALISATION ALIMENT SUSPENSION AV",
+ "nature": "",
+ "applicability": "DIRECTION ASSISTEE ET SUSPENSION HYDRACTIVE DEPUIS OPR 05929",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0337"
+  }
+ ]
+}

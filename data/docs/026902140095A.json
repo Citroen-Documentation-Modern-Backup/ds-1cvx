@@ -1,0 +1,18 @@
+{
+ "ref": "026902140095A",
+ "refDisplay": "0269 02 140095A",
+ "title": "RONDELLE DE CALAGE D’INJECTEURS",
+ "nature": "",
+ "applicability": "DIESEL XU",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

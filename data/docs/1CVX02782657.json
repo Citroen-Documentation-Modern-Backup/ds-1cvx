@@ -1,0 +1,19 @@
+{
+ "ref": "1CVX02782657",
+ "refDisplay": "1CVX 0 278 2657",
+ "title": "TUBE ALIMENTATION FREIN ARRIERE D",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0042"
+  }
+ ]
+}

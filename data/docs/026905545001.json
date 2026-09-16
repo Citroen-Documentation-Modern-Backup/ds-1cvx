@@ -1,0 +1,18 @@
+{
+ "ref": "026905545001",
+ "refDisplay": "0269 05 545001",
+ "title": "PLAFONNIERS - LECTEUR CARTE",
+ "nature": "",
+ "applicability": " SAUF TOIT OUVRANT",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0202"
+  }
+ ]
+}

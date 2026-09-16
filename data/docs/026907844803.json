@@ -1,0 +1,18 @@
+{
+ "ref": "026907844803",
+ "refDisplay": "0269 07 844803",
+ "title": "AILE AR DOUBLURE ENJOLIVEUR",
+ "nature": "",
+ "applicability": "BREAK 5PTES DEPUIS OPR 05745",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0118"
+  }
+ ]
+}

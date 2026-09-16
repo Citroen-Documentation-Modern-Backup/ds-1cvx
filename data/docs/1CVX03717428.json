@@ -1,0 +1,19 @@
+{
+ "ref": "1CVX03717428",
+ "refDisplay": "1CVX 0 371 7428",
+ "title": "PANNEAU COTE INF G",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0143"
+  }
+ ]
+}

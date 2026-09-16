@@ -1,0 +1,19 @@
+{
+ "ref": "1CVX04579079",
+ "refDisplay": "1CVX 0 457 9079",
+ "title": "GARNITURE DE BRANCARD DE PAVILLON",
+ "nature": "",
+ "applicability": "- OU - OU - OU - OU - OU - OU - OU - OU - OU - OU -",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0234"
+  }
+ ]
+}

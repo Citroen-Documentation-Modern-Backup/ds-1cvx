@@ -1,0 +1,18 @@
+{
+ "ref": "026902140008",
+ "refDisplay": "0269 02 140008",
+ "title": "COLLECTEUR REPARTITEUR ADMISSION",
+ "nature": "",
+ "applicability": "ESSENCE ET 24SOUPAPES JUSQU’A OPR 05137",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

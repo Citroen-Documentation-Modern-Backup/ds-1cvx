@@ -1,0 +1,19 @@
+{
+ "ref": "1CVX03509914",
+ "refDisplay": "1CVX 0 350 9914",
+ "title": "1/2 PORTE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0132"
+  }
+ ]
+}

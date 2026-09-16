@@ -1,0 +1,18 @@
+{
+ "ref": "026908982803",
+ "refDisplay": "0269 08 982803",
+ "title": "PANNEAUX DE PORTE AVANT",
+ "nature": "",
+ "applicability": "SEDUCTION ET PRESENCE ET DETENTE DEPUIS OPR 05285",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0135"
+  }
+ ]
+}

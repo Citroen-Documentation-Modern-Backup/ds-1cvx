@@ -1,0 +1,23 @@
+{
+ "ref": "026905502450",
+ "refDisplay": "0269 05 502450",
+ "title": "FAISCEAU INTERMEDIAIRE HABITACLE",
+ "nature": "",
+ "applicability": "RADIO TELEPHONE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0309"
+  },
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0310"
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "ref": "1CVX03516316",
+ "refDisplay": "1CVX 0 351 6316",
+ "title": "POIGNEE EXT ET SUPPORT DE PORTE AV 1 COTE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0134"
+  }
+ ]
+}

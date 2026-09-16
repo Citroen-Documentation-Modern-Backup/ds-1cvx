@@ -1,0 +1,18 @@
+{
+ "ref": "026904371110",
+ "refDisplay": "0269 04 371110",
+ "title": "TRANSMISSION TRANSVERSALE",
+ "nature": "",
+ "applicability": "BVM ET BE3/5",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0022"
+  }
+ ]
+}

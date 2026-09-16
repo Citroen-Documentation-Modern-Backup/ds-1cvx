@@ -1,0 +1,18 @@
+{
+ "ref": "026903394405",
+ "refDisplay": "0269 03 394405",
+ "title": "CANALISATION RETOUR DIRECTION",
+ "nature": "",
+ "applicability": "DIRAVI SAUF 24SOUPAPES",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0339"
+  }
+ ]
+}

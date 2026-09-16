@@ -1,0 +1,23 @@
+{
+ "ref": "026901348050",
+ "refDisplay": "0269 01 348050",
+ "title": "FIXATION MOTOPROPULSEUR",
+ "nature": "",
+ "applicability": "ESSENCE ET 2,975L ET INJECTION ET 24SOUPAPES ET BVM",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0020"
+  }
+ ]
+}

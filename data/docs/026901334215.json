@@ -1,0 +1,18 @@
+{
+ "ref": "026901334215",
+ "refDisplay": "0269 01 334215",
+ "title": "LIGNE PRIMAIRE BVM",
+ "nature": "",
+ "applicability": "ME5T ET GAZOLE ET 2,088L ET TURBO",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0017"
+  }
+ ]
+}

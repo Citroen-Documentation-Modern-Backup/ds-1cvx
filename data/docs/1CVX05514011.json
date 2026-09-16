@@ -1,0 +1,19 @@
+{
+ "ref": "1CVX05514011",
+ "refDisplay": "1CVX 0 551 4011",
+ "title": "STATION MOTOVENTILATEUR",
+ "nature": "",
+ "applicability": "- OU - OU - OU -",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0942"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "026906641201",
+ "refDisplay": "0269 06 641201",
+ "title": "PULSEUR - ENTREE AIR - MODULE -REDUCTEUR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0347"
+  }
+ ]
+}

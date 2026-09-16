@@ -1,0 +1,18 @@
+{
+ "ref": "026905616010",
+ "refDisplay": "0269 05 616010",
+ "title": "BOITIER MULTIFONCTIONS",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0942"
+  }
+ ]
+}

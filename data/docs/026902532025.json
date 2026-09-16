@@ -1,0 +1,18 @@
+{
+ "ref": "026902532025",
+ "refDisplay": "0269 02 532025",
+ "title": "ALTERNATEUR ET FIXATIONS",
+ "nature": "",
+ "applicability": "ESSENCE ET REFRIGERATION SAUF 2,963L SAUF 2,975L",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0303"
+  }
+ ]
+}

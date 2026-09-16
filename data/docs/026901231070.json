@@ -1,0 +1,18 @@
+{
+ "ref": "026901231070",
+ "refDisplay": "0269 01 231070",
+ "title": "POMPE A EAU JOINT COLLECTEUR EAU",
+ "nature": "",
+ "applicability": "GAZOLE ET 2,138L",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0009"
+  }
+ ]
+}

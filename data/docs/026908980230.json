@@ -1,0 +1,23 @@
+{
+ "ref": "026908980230",
+ "refDisplay": "0269 08 980230",
+ "title": "GARNITURE DE COFFRE",
+ "nature": "",
+ "applicability": "BREAK 5PTES ET VAREBILLER ET (N) NORVEGE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0122"
+  },
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0234"
+  }
+ ]
+}

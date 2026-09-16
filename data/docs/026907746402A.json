@@ -1,0 +1,18 @@
+{
+ "ref": "026907746402A",
+ "refDisplay": "0269 07 746402A",
+ "title": "PIED D ENTREE AV ET COTE D AUVENT",
+ "nature": "",
+ "applicability": "BREAK 5PTES DEPUIS OPR 05745",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0126"
+  }
+ ]
+}

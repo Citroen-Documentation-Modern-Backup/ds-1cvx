@@ -1,0 +1,19 @@
+{
+ "ref": "1CVX0500428",
+ "refDisplay": "1CVX 0 50 0428",
+ "title": "SILENCIEUX INTERMEDIAIRE ET AR",
+ "nature": "",
+ "applicability": "- OU -",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0011"
+  }
+ ]
+}

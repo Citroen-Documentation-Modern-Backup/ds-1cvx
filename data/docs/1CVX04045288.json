@@ -1,0 +1,24 @@
+{
+ "ref": "1CVX04045288",
+ "refDisplay": "1CVX 0 404 5288",
+ "title": "LAMPE DE FEU DE RECUL",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0203"
+  },
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0314"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "026907741001",
+ "refDisplay": "0269 07 741001",
+ "title": "FACADE TRAVERSE JUPE AV",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0103"
+  }
+ ]
+}

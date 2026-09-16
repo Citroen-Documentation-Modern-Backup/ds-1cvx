@@ -1,0 +1,18 @@
+{
+ "ref": "026907842701",
+ "refDisplay": "0269 07 842701",
+ "title": "CDE PORTE LATERALE AR BATTANTE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0140"
+  }
+ ]
+}

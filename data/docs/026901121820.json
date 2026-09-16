@@ -1,0 +1,18 @@
+{
+ "ref": "026901121820",
+ "refDisplay": "0269 01 121820",
+ "title": "BIELLES - CHEMISES - PISTONS - SEGMENTS",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,998L ET INJECTION ET 1,998L ET INJ MONOPOINT",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0005"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "026901330110",
+ "refDisplay": "0269 01 330110",
+ "title": "BOITE DE VITESSES AUTOMATIQUE",
+ "nature": "",
+ "applicability": "INJECTION ET INJECTION TURBO XU10J2TE ET BVA ET 4HP18",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0017"
+  }
+ ]
+}

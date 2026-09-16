@@ -1,0 +1,28 @@
+{
+ "ref": "026908616410",
+ "refDisplay": "0269 08 616410",
+ "title": "CEINTURES DE SECURITE ARRIERE",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 05284",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0238"
+  },
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0239"
+  },
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0952"
+  }
+ ]
+}

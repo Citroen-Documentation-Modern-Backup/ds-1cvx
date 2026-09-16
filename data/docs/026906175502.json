@@ -1,0 +1,18 @@
+{
+ "ref": "026906175502",
+ "refDisplay": "0269 06 175502",
+ "title": "DEPOLLUTION CANISTER ABSORBEUR",
+ "nature": "",
+ "applicability": "INJECTION ET 1,998L",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0012"
+  }
+ ]
+}

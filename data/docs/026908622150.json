@@ -1,0 +1,23 @@
+{
+ "ref": "026908622150",
+ "refDisplay": "0269 08 622150",
+ "title": "CRIC DE LEVAGE - MANIVELLE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0116"
+  }
+ ]
+}

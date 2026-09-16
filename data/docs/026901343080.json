@@ -1,0 +1,18 @@
+{
+ "ref": "026901343080",
+ "refDisplay": "0269 01 343080",
+ "title": "DIFFERENTIEL AV",
+ "nature": "",
+ "applicability": "4HP18 DEPUIS BOITE 0205973",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0017"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "026901333060",
+ "refDisplay": "0269 01 333060",
+ "title": "REFROIDISSEMENT D’HUILE",
+ "nature": "",
+ "applicability": "ZPJ ET BVA ET 4HP18",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0017"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "ref": "026901348020",
+ "refDisplay": "0269 01 348020",
+ "title": "FIXATION MOTOPROPULSEUR",
+ "nature": "",
+ "applicability": "1,998L ET CARBURATEUR ET INJ MONOPOINT ET INJECTION ET BVA",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0020"
+  }
+ ]
+}

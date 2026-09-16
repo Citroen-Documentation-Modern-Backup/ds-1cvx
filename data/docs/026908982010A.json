@@ -1,0 +1,18 @@
+{
+ "ref": "026908982010A",
+ "refDisplay": "0269 08 982010A",
+ "title": "GARNITURE DE PAVILLON",
+ "nature": "",
+ "applicability": "TOIT OUVRANT DEPUIS OPR 05285",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0235"
+  }
+ ]
+}

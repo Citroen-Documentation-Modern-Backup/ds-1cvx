@@ -1,0 +1,19 @@
+{
+ "ref": "1CVX03147223",
+ "refDisplay": "1CVX 0 314 7223",
+ "title": "LONGERON,DEMI FACADE G OU TOLE AV PASS ROUE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0110"
+  }
+ ]
+}

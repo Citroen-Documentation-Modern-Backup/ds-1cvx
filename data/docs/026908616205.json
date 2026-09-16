@@ -1,0 +1,23 @@
+{
+ "ref": "026908616205",
+ "refDisplay": "0269 08 616205",
+ "title": "CEINTURES DE SECURITE AVANT",
+ "nature": "",
+ "applicability": " DEPUIS OPR 05285 JUSQU’A OPR 05928",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0237"
+  },
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0952"
+  }
+ ]
+}

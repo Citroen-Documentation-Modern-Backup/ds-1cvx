@@ -1,0 +1,19 @@
+{
+ "ref": "1CVX01001932",
+ "refDisplay": "1CVX 0 100 1932",
+ "title": "TUBE B V A ECHANGEUR",
+ "nature": "",
+ "applicability": "- OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU -",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0017"
+  }
+ ]
+}

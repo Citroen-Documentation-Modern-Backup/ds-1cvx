@@ -1,0 +1,18 @@
+{
+ "ref": "026902170005",
+ "refDisplay": "0269 02 170005",
+ "title": "FILTRE AIR RACCORD RESONATEUR AIR",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,998L ET INJECTION ET DEPOLLUE ET (XT) EXPORT",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

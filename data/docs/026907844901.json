@@ -1,0 +1,23 @@
+{
+ "ref": "026907844901",
+ "refDisplay": "0269 07 844901",
+ "title": "VOLET AR VITRE ENJOLIVEUR",
+ "nature": "",
+ "applicability": "BERLINE 5PTES",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0117"
+  },
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0123"
+  }
+ ]
+}

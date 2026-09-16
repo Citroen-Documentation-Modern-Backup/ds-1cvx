@@ -1,0 +1,19 @@
+{
+ "ref": "1CVX03606550",
+ "refDisplay": "1CVX 0 360 6550",
+ "title": "GARNITURES D’ETANCHEITE PORTES AR 2 COTES",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0138"
+  }
+ ]
+}

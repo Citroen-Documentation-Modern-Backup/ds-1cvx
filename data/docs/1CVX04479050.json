@@ -1,0 +1,19 @@
+{
+ "ref": "1CVX04479050",
+ "refDisplay": "1CVX 0 447 9050",
+ "title": "TABLETTE LATERALE",
+ "nature": "",
+ "applicability": "- OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU -",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0240"
+  }
+ ]
+}

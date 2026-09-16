@@ -1,0 +1,28 @@
+{
+ "ref": "026907852110A",
+ "refDisplay": "0269 07 852110A",
+ "title": "BANDES - ENJOLIVEURS - BAGUETTES LAT",
+ "nature": "",
+ "applicability": "BERLINE 5PTES DEPUIS DATE 19910601",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0132"
+  },
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0138"
+  },
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0236"
+  }
+ ]
+}

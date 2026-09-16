@@ -1,0 +1,18 @@
+{
+ "ref": "026903441501",
+ "refDisplay": "0269 03 441501",
+ "title": "ANTIVOL DE DIRECTION",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0036"
+  }
+ ]
+}

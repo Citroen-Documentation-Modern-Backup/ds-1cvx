@@ -1,0 +1,19 @@
+{
+ "ref": "1CVX04238862",
+ "refDisplay": "1CVX 0 423 8862",
+ "title": "NAPPES CHAUFFANTES DE BANQUETTES AR 2 COTES",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0220"
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "ref": "1CVX04964957",
+ "refDisplay": "1CVX 0 496 4957",
+ "title": "GALET TENDEUR AUTOMATIQUE",
+ "nature": "",
+ "applicability": "- OU - OU - DEPUIS OPR 06779 OU - DEPUIS OPR 06779 OU - DEPUIS OPR 06779 OU - DEPUIS OPR 06779 OU - DEPUIS OPR 06779 OU - DEPUIS OPR 06779",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0303"
+  }
+ ]
+}

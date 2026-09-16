@@ -1,0 +1,18 @@
+{
+ "ref": "026901335650",
+ "refDisplay": "0269 01 335650",
+ "title": "COMMANDE VITESSES COTE BV",
+ "nature": "",
+ "applicability": "BE3",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0018"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "026906640825",
+ "refDisplay": "0269 06 640825",
+ "title": "TUYAU FLUIDE REFRI - FIXATIONS",
+ "nature": "",
+ "applicability": " DEPUIS DATE 19930901 SAUF ZPJ SAUF ZPJ4",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0347"
+  }
+ ]
+}

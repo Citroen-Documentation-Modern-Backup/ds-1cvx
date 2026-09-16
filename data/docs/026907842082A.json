@@ -1,0 +1,23 @@
+{
+ "ref": "026907842082A",
+ "refDisplay": "0269 07 842082A",
+ "title": "RETROVISEUR EXTERIEUR",
+ "nature": "",
+ "applicability": "RETRO EXT PASSAGER CDE ELECTRIQUE ET CONDUITE A DROITE JUSQU’A DATE 19910701",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0136"
+  },
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0331"
+  }
+ ]
+}

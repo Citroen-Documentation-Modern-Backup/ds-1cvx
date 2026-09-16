@@ -1,0 +1,23 @@
+{
+ "ref": "026907842501",
+ "refDisplay": "0269 07 842501",
+ "title": "PORTES LATERALES AR BATTANTES",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0138"
+  },
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0857"
+  }
+ ]
+}

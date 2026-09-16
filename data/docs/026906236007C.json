@@ -1,0 +1,18 @@
+{
+ "ref": "026906236007C",
+ "refDisplay": "0269 06 236007C",
+ "title": "DURIT RACCORD DE REFROIDISSEMENT",
+ "nature": "",
+ "applicability": "INJECTION ET ZPJ ET BVA SAUF PAYS CHAUDS",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0009"
+  }
+ ]
+}

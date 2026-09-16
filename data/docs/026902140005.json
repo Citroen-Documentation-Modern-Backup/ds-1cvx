@@ -1,0 +1,18 @@
+{
+ "ref": "026902140005",
+ "refDisplay": "0269 02 140005",
+ "title": "COLLECTEUR REPARTITEUR ADMISSION",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,998L ET INJECTION ET DEPOLLUE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

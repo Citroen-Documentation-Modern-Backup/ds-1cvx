@@ -1,0 +1,18 @@
+{
+ "ref": "026907741510",
+ "refDisplay": "0269 07 741510",
+ "title": "BERCEAU AV",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 05368",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0109"
+  }
+ ]
+}

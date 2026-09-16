@@ -1,0 +1,18 @@
+{
+ "ref": "026901334220",
+ "refDisplay": "0269 01 334220",
+ "title": "LIGNE PRIMAIRE BVM",
+ "nature": "",
+ "applicability": "ME5T ET ESSENCE ET 1,998L ET INJECTION TURBO ECHANGEUR",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0017"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "026905501220B",
+ "refDisplay": "0269 05 501220B",
+ "title": "FAISCEAU MOTEUR",
+ "nature": "",
+ "applicability": "ESSENCE ET 24SOUPAPES DEPUIS OPR 05810",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0308"
+  }
+ ]
+}

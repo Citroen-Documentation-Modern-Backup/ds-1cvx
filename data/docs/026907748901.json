@@ -1,0 +1,18 @@
+{
+ "ref": "026907748901",
+ "refDisplay": "0269 07 748901",
+ "title": "PLANCHER CHARGE PANNEAU PROTECTION",
+ "nature": "",
+ "applicability": "BREAK ET VAREBILLER ET (N) NORVEGE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0116"
+  }
+ ]
+}

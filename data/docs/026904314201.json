@@ -1,0 +1,18 @@
+{
+ "ref": "026904314201",
+ "refDisplay": "0269 04 314201",
+ "title": "PEDALE EMBRAYAGE CABLE",
+ "nature": "",
+ "applicability": "CONDUITE A GAUCHE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0016"
+  }
+ ]
+}

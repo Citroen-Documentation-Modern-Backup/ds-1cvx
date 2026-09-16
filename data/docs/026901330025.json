@@ -1,0 +1,18 @@
+{
+ "ref": "026901330025",
+ "refDisplay": "0269 01 330025",
+ "title": "BOITE DE VITESSES MECANIQUE",
+ "nature": "",
+ "applicability": "INJECTION ET XU10J2 ET BE3/5VK ET CT19X16 ET BERLINE DEPUIS OPR 04942",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0017"
+  }
+ ]
+}

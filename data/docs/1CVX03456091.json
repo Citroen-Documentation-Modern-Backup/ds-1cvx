@@ -1,0 +1,19 @@
+{
+ "ref": "1CVX03456091",
+ "refDisplay": "1CVX 0 345 6091",
+ "title": "CONTACTEUR(S) DE CAPOT",
+ "nature": "",
+ "applicability": "- OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU -",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0129"
+  }
+ ]
+}

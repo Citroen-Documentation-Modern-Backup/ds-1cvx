@@ -1,0 +1,18 @@
+{
+ "ref": "026908982811",
+ "refDisplay": "0269 08 982811",
+ "title": "PANNEAUX DE PORTE AVANT",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0135"
+  }
+ ]
+}

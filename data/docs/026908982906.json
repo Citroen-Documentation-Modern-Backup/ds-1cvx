@@ -1,0 +1,18 @@
+{
+ "ref": "026908982906",
+ "refDisplay": "0269 08 982906",
+ "title": "PANNEAUX DE PORTE ARRIERE",
+ "nature": "",
+ "applicability": "SENSATION DEPUIS OPR 05623",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0141"
+  }
+ ]
+}

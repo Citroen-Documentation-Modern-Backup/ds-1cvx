@@ -1,0 +1,18 @@
+{
+ "ref": "026905513301",
+ "refDisplay": "0269 05 513301",
+ "title": "PRISE DIAGNOSTIC CAPTEUR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0013"
+  }
+ ]
+}

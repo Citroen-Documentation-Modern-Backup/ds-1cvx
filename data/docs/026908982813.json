@@ -1,0 +1,18 @@
+{
+ "ref": "026908982813",
+ "refDisplay": "0269 08 982813",
+ "title": "PANNEAUX DE PORTE AVANT",
+ "nature": "",
+ "applicability": "HARMONIE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0135"
+  }
+ ]
+}

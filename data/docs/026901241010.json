@@ -1,0 +1,18 @@
+{
+ "ref": "026901241010",
+ "refDisplay": "0269 01 241010",
+ "title": "MOTOVENTILATEUR BUSE CONDUIT D’AIR",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,998L ET CARBURATEUR ET INJ MONOPOINT ET INJECTION",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0009"
+  }
+ ]
+}

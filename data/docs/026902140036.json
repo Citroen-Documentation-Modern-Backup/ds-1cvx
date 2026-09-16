@@ -1,0 +1,18 @@
+{
+ "ref": "026902140036",
+ "refDisplay": "0269 02 140036",
+ "title": "DETAIL POMPE INJECTION ELECTROVANNE",
+ "nature": "",
+ "applicability": "GAZOLE ET 2,088L ET TURBO",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

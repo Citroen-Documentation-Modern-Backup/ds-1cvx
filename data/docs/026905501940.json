@@ -1,0 +1,18 @@
+{
+ "ref": "026905501940",
+ "refDisplay": "0269 05 501940",
+ "title": "FAISCEAU CLIMATISEUR REFRIGERATION",
+ "nature": "",
+ "applicability": "REGULATION CHAUFFAGE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0309"
+  }
+ ]
+}

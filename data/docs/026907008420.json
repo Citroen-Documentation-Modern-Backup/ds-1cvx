@@ -1,0 +1,23 @@
+{
+ "ref": "026907008420",
+ "refDisplay": "0269 07 008420",
+ "title": "PAVILLON - DOUBLURE - PORTE BAGAGES",
+ "nature": "",
+ "applicability": "BREAK 5PTES",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0143"
+  },
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0144"
+  }
+ ]
+}

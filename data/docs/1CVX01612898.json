@@ -1,0 +1,19 @@
+{
+ "ref": "1CVX01612898",
+ "refDisplay": "1CVX 0 161 2898",
+ "title": "SUPPORT CYLINDRE DE SUSPENSION AV 1 COTE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0027"
+  }
+ ]
+}

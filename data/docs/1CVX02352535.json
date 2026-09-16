@@ -1,0 +1,19 @@
+{
+ "ref": "1CVX02352535",
+ "refDisplay": "1CVX 0 235 2535",
+ "title": "TUBE SORTIE MAITRE CYLINDRE/DOSEUR ALIMENTATION FREINS AVANT",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0042"
+  }
+ ]
+}

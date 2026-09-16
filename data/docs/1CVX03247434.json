@@ -1,0 +1,19 @@
+{
+ "ref": "1CVX03247434",
+ "refDisplay": "1CVX 0 324 7434",
+ "title": "PANNEAU COTE PARTIES CENTRALE ET ARG SECTION",
+ "nature": "",
+ "applicability": "- OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU - OU -",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0118"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "ref": "026905614170",
+ "refDisplay": "0269 05 614170",
+ "title": "RELAIS - BRUITEUR - CENTRALE CLIGNOTANTE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0942"
+  },
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0503"
+  }
+ ]
+}

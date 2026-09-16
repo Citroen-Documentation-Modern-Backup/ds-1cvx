@@ -1,0 +1,18 @@
+{
+ "ref": "026906642606A",
+ "refDisplay": "0269 06 642606A",
+ "title": "AEROTHERME - RACCORDS EAU",
+ "nature": "",
+ "applicability": "ESSENCE ET INJECTION TURBO ECHANGEUR ET 1,998L ET BVM",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0347"
+  }
+ ]
+}

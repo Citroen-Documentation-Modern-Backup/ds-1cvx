@@ -1,0 +1,18 @@
+{
+ "ref": "026902170013",
+ "refDisplay": "0269 02 170013",
+ "title": "FILTRE AIR RACCORD RESONATEUR AIR",
+ "nature": "",
+ "applicability": "GAZOLE ET 2,088L ET TURBO SAUF DEPOL EGR",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

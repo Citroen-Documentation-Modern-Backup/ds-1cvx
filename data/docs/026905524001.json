@@ -1,0 +1,18 @@
+{
+ "ref": "026905524001",
+ "refDisplay": "0269 05 524001",
+ "title": "ALARMES",
+ "nature": "",
+ "applicability": " DEPUIS OPR 06079",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVX",
+   "variantKey": "",
+   "fctId": "FCT0311"
+  }
+ ]
+}
