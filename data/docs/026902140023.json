@@ -1,18 +1,1 @@
-{
- "ref": "026902140023",
- "refDisplay": "0269 02 140023",
- "title": "CARBURATEUR DETAILS CORPS INJECTION",
- "nature": "",
- "applicability": "1,998L ET INJ MONOPOINT ET (XT) EXPORT",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0010"
-  }
- ]
-}
+{"ref":"026902140023","refDisplay":"0269 02 140023","title":"CARBURATEUR DETAILS CORPS INJECTION","nature":"","applicability":"1,998L ET INJ MONOPOINT ET (XT) EXPORT","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0010"}],"kind":"pr","appl":"{(?1CVX)(%B0F199)(%DAZ07)(%B0HXT)}","tree":["document",{},[["thesaurus",{"type":"10","code":"007190"},[]],["thesaurus",{"type":"10","code":"000834"},[]],["thesaurus",{"type":"10","code":"010066"},[]],["thesaurus",{"type":"10","code":"004777"},[]],["thesaurus",{"type":"22","code":"P0007090"},[]],["mpr",{"catal":"0269","grp":"34","grp2":"02","maj":"20111022","numfich":"140023"},[["appl",{},["{(?1CVX)(%B0F199)(%DAZ07)(%B0HXT)}"]],["sti",{"ident":"T0088101"},[]],["obspage",{"ident":"P0007090"},[]],["enssup",{},[["fourn",{},["18770B"]],["refd",{},["16008PSA475"]]]],["img",{"numfich":"p1400230","path":"/img/pr/30/p140/p1400230.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"007190","obsnfp":"NFP","ref":"00001920H4","refpg":"1920 H4"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]],["reffour",{},[["four",{},["18770B"]]]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"007190","obsnfp":"NFP","ref":"00001920K1","refpg":"1920 K1"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["ENS SUP"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"007190","obsnfp":"NFP","ref":"00001920K2","refpg":"1920 K2"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["ENS INF"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"000834","obsnfp":"NFP","ref":"00001920E7","refpg":"1920 E7"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"010066","obsnfp":"NFP","ref":"00001920K3","refpg":"1920 K3"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"004777","obsnfp":"NFP","ref":"00001920A8","refpg":"1920 A8"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]]]]]]}

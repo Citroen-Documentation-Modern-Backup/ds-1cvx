@@ -1,18 +1,1 @@
-{
- "ref": "026906175507",
- "refDisplay": "0269 06 175507",
- "title": "DEPOLLUTION CANISTER ABSORBEUR",
- "nature": "",
- "applicability": "INJECTION ET 2,963L ET 2,975L JUSQU’A OPR 05138",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0012"
-  }
- ]
-}
+{"ref":"026906175507","refDisplay":"0269 06 175507","title":"DEPOLLUTION CANISTER ABSORBEUR","nature":"","applicability":"INJECTION ET 2,963L ET 2,975L JUSQU’A OPR 05138","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0012"}],"kind":"pr","appl":"{(?1CVX)(DAZ04)(B0F3J)(B0F3D)/($,,1,05138)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"007514"},[]],["thesaurus",{"type":"10","code":"000001"},[]],["thesaurus",{"type":"10","code":"009767"},[]],["thesaurus",{"type":"10","code":"004663"},[]],["thesaurus",{"type":"10","code":"004647"},[]],["thesaurus",{"type":"10","code":"001778"},[]],["thesaurus",{"type":"10","code":"010753"},[]],["thesaurus",{"type":"10","code":"006142"},[]],["thesaurus",{"type":"22","code":"P0007174"},[]],["mpr",{"catal":"0269","grp":"53","grp2":"06","maj":"20111022","numfich":"175507"},[["appl",{},["{(?1CVX)(DAZ04)(B0F3J)(B0F3D)/($,,1,05138)/}"]],["sti",{"ident":"T0088474"},[]],["obspage",{"ident":"P0007174"},[]],["img",{"numfich":"p1755070","path":"/img/pr/70/p175/p1755070.jpg","ext":"jpg"},[]],["repere",{"rep":"07"},[["pr",{"codesi":"007514","obsnfp":"NFP","ref":"96055197","refpg":"96 055 197"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 7 LON 270"]]]]]]]],["repere",{"rep":"08"},[["pr",{"codesi":"007514","obsnfp":"NFP","ref":"96055205","refpg":"96 055 205"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM INT 7 (70X70)"]]]]]]]],["repere",{"rep":"09"},[["pr",{"codesi":"000001","ref":"0000150245","refpg":"1502 45"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(%24S)}"]]]]]]]],["repere",{"rep":"10"},[["pr",{"codesi":"009767","obsnfp":"NFP","ref":"00001628F0","refpg":"1628 F0"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(%24S)}"]]]]]]]],["repere",{"rep":"11"},[["pr",{"codesi":"009767","obsnfp":"NFP","ref":"00001628R1","refpg":"1628 R1"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["COUPURE CANISTER"]]]]]]]],["repere",{"rep":"13"},[["pr",{"codesi":"004663","ref":"0000698361","refpg":"6983 61"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 25 HAUT 10"]]]]]]]],["repere",{"rep":"14"},[["pr",{"codesi":"004647","obsnfp":"NFP","ref":"96081104","refpg":"96 081 104"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["1T 12"]]]]]]]],["repere",{"rep":"15"},[["pr",{"codesi":"001778","obsnfp":"NFP","ref":"0000156582","refpg":"1565 82"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["1T 7 TROU 6 H18"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"010753","obsnfp":"NFP","ref":"0000691308","refpg":"6913 08"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X125-25"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"006142","ref":"0000693651","refpg":"6936 51"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(%24S)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X125-8-13"]]]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "026903391315",
- "refDisplay": "0269 03 391315",
- "title": "SUPPORT TENDEUR POMPE HP",
- "nature": "",
- "applicability": "ESSENCE ET 2,975L ET INJECTION ET 24SOUPAPES",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0337"
-  }
- ]
-}
+{"ref":"026903391315","refDisplay":"0269 03 391315","title":"SUPPORT TENDEUR POMPE HP","nature":"","applicability":"ESSENCE ET 2,975L ET INJECTION ET 24SOUPAPES","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0337"}],"kind":"pr","appl":"{(?1CVX)(DCD10)(B0F3D)(DAZ04)(%24S)}","tree":["document",{},[["thesaurus",{"type":"10","code":"001661"},[]],["thesaurus",{"type":"10","code":"007750"},[]],["thesaurus",{"type":"10","code":"004675"},[]],["thesaurus",{"type":"10","code":"013981"},[]],["thesaurus",{"type":"10","code":"006028"},[]],["mpr",{"catal":"0269","grp":"267","grp2":"03","maj":"20111022","numfich":"391315"},[["appl",{},["{(?1CVX)(DCD10)(B0F3D)(DAZ04)(%24S)}"]],["sti",{"ident":"T0088209"},[]],["img",{"numfich":"p3913150","path":"/img/pr/50/p391/p3913150.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001661","obsnfp":"NFP","ref":"96040211","refpg":"96 040 211"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"007750","obsnfp":"NFP","ref":"96050999","refpg":"96 050 999"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8X1,25"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"007750","obsnfp":"NFP","ref":"96051000","refpg":"96 051 000"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8X1,25-85"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004675","obsnfp":"NFP","ref":"0000692136","refpg":"6921 36"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 10X150-75"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"013981","ref":"96143825","refpg":"96 143 825"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 10"]]]]]]]],["repere",{"rep":"32"},[["pr",{"codesi":"006028","ref":"0000693680","refpg":"6936 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8X125-9,7-13"]]]]]]]]]]]]}

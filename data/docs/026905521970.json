@@ -1,18 +1,1 @@
-{
- "ref": "026905521970",
- "refDisplay": "0269 05 521970",
- "title": "INTERRUPTEURS HABITACLE",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0216"
-  }
- ]
-}
+{"ref":"026905521970","refDisplay":"0269 05 521970","title":"INTERRUPTEURS HABITACLE","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0216"}],"kind":"pr","appl":"{(?1CVX)}","tree":["document",{},[["thesaurus",{"type":"10","code":"002076"},[]],["thesaurus",{"type":"10","code":"007741"},[]],["thesaurus",{"type":"21","code":"L1457425"},[]],["thesaurus",{"type":"21","code":"L1457426"},[]],["thesaurus",{"type":"21","code":"L1457427"},[]],["mpr",{"catal":"0269","grp":"388","grp2":"05","maj":"20111022","numfich":"521970"},[["appl",{},["{(?1CVX)}"]],["sti",{"ident":"T0088420"},[]],["img",{"numfich":"p5219700","path":"/img/pr/00/p521/p5219700.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"002076","ref":"96026787ZL","refpg":"96 026 787 ZL"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CVX)}"]],["obsligne",{"ident":"L1457425"},[]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"002076","obsnfp":"NFP","ref":"96064754ZL","refpg":"96 064 754 ZL"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]],["obsligne",{"ident":"L1457426"},[]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"002076","ref":"96026788ZL","refpg":"96 026 788 ZL"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]],["obsligne",{"ident":"L1457427"},[]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"007741","obsnfp":"NFP","ref":"95640031ZL","refpg":"95 640 031 ZL"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"007741","ref":"95639982ZL","refpg":"95 639 982 ZL"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"007741","obsnfp":"NFP","ref":"95640030ZL","refpg":"95 640 030 ZL"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVX)}"]]]]]]]]]]]]}

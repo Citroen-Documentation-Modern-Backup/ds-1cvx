@@ -1,18 +1,1 @@
-{
- "ref": "026905521710",
- "refDisplay": "0269 05 521710",
- "title": "REGULATEUR VITESSES",
- "nature": "",
- "applicability": " JUSQU’A OPR 05591",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0344"
-  }
- ]
-}
+{"ref":"026905521710","refDisplay":"0269 05 521710","title":"REGULATEUR VITESSES","nature":"","applicability":" JUSQU’A OPR 05591","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0344"}],"kind":"pr","appl":"{(?1CVX)/($,,1,05591)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"005821"},[]],["thesaurus",{"type":"10","code":"001906"},[]],["thesaurus",{"type":"10","code":"001850"},[]],["thesaurus",{"type":"10","code":"003883"},[]],["thesaurus",{"type":"10","code":"008006"},[]],["thesaurus",{"type":"10","code":"010757"},[]],["thesaurus",{"type":"10","code":"006142"},[]],["thesaurus",{"type":"21","code":"L1457285"},[]],["thesaurus",{"type":"21","code":"L1457287"},[]],["thesaurus",{"type":"21","code":"L1457289"},[]],["mpr",{"catal":"0269","grp":"537","grp2":"05","maj":"20111022","numfich":"521710"},[["appl",{},["{(?1CVX)/($,,1,05591)/}"]],["sti",{"ident":"T0088407"},[]],["img",{"numfich":"p5217100","path":"/img/pr/00/p521/p5217100.jpg","ext":"jpg"},[]],["repere",{"rep":"02"},[["pr",{"codesi":"005821","obsnfp":"NFP","ref":"96031589","refpg":"96 031 589"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(@BVA)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"001906","ref":"0000591885","refpg":"5918 85"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["2 VOIES"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"001906","obsnfp":"NFP","ref":"96008163","refpg":"96 008 163"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"001850","obsnfp":"NFP","ref":"0000666053","refpg":"6660 53"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]],["obsligne",{"ident":"L1457285"},[]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"003883","ref":"0000655568","refpg":"6555 68"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["25 AMP"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"008006","ref":"00006923G8","refpg":"6923 G8"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVX)}"]],["obsligne",{"ident":"L1457287"},[]]]],["descomp",{},[["lib",{"langue":"01"},["5X80-12"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"010757","ref":"00006924C9","refpg":"6924 C9"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 3,5-10"]]]]]]]],["repere",{"rep":"32"},[["pr",{"codesi":"006142","ref":"0000693639","refpg":"6936 39"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]],["obsligne",{"ident":"L1457289"},[]]]],["descomp",{},[["lib",{"langue":"01"},["5 X 80 - 4 - 8"]]]]]]]]]]]]}

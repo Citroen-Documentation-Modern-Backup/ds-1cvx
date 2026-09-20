@@ -1,18 +1,1 @@
-{
- "ref": "026905614160",
- "refDisplay": "0269 05 614160",
- "title": "BOITIER RELAIS",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0942"
-  }
- ]
-}
+{"ref":"026905614160","refDisplay":"0269 05 614160","title":"BOITIER RELAIS","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0942"}],"kind":"pr","appl":"{(?1CVX)}","tree":["document",{},[["thesaurus",{"type":"10","code":"003915"},[]],["thesaurus",{"type":"21","code":"L1457872"},[]],["mpr",{"catal":"0269","grp":"546","grp2":"05","maj":"20111022","numfich":"614160"},[["appl",{},["{(?1CVX)}"]],["sti",{"ident":"T0088447"},[]],["img",{"numfich":"p6141600","path":"/img/pr/00/p614/p6141600.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"003915","obsnfp":"NFP","ref":"96013213","refpg":"96 013 213"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVX)}"]],["obsligne",{"ident":"L1457872"},[]]]]]]]]]]]]}

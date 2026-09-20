@@ -1,18 +1,1 @@
-{
- "ref": "026901330025",
- "refDisplay": "0269 01 330025",
- "title": "BOITE DE VITESSES MECANIQUE",
- "nature": "",
- "applicability": "INJECTION ET XU10J2 ET BE3/5VK ET CT19X16 ET BERLINE DEPUIS OPR 04942",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"026901330025","refDisplay":"0269 01 330025","title":"BOITE DE VITESSES MECANIQUE","nature":"","applicability":"INJECTION ET XU10J2 ET BE3/5VK ET CT19X16 ET BERLINE DEPUIS OPR 04942","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CVX)(%INJ)(%XU10J2)(%BE35VK)(%T19X16)(@BL)/($1,04942,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"009390"},[]],["thesaurus",{"type":"10","code":"009391"},[]],["mpr",{"catal":"0269","grp":"67","grp2":"01","maj":"20111022","numfich":"330025"},[["appl",{},["{(?1CVX)(%INJ)(%XU10J2)(%BE35VK)(%T19X16)(@BL)/($1,04942,,)/}"]],["sti",{"ident":"NL330001"},[]],["img",{"numfich":"p3300250","path":"/img/pr/50/p330/p3300250.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"009390","obsnfp":"NFP","ref":"00002205SN","refpg":"2205 SN"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(%DPL18)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 15X64"]]]],["reporg",{},[["monte",{},["(TA0L)"]],["monte",{},["CH59"]],["monte",{},["CH2A"]],["monte",{},["CH75"]],["monte",{},["CH7S"]],["monte",{},["CJ51"]],["monte",{},["CH21"]],["monte",{},["CJ93"]],["monte",{},["CH76"]],["monte",{},["CJ52"]],["monte",{},["CH50"]],["monte",{},["CJ9C"]],["monte",{},["CH7E"]],["monte",{},["CL9H"]],["monte",{},["CJ64"]],["monte",{},["CL98"]],["monte",{},["CM59"]],["monte",{},["CM5J"]],["monte",{},["CJ81"]],["monte",{},["CM14"]],["monte",{},["TB3B"]],["monte",{},["TA01"]],["monte",{},["CM81"]],["monte",{},["TB32"]],["monte",{},["TA0A"]],["monte",{},["(CM14)"]]]]]],["pr",{"codesi":"009391","obsnfp":"NFP","ref":"00002201PH","refpg":"2201 PH"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(%DPL18)(~2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 15X64"]]]],["reporg",{},[["monte",{},["CJ81"]],["monte",{},["(TAK1)"]],["monte",{},["(TAZA)"]],["monte",{},["CMA4"]],["monte",{},["TA0L"]],["monte",{},["(CMAD)"]],["monte",{},["(TAZ1)"]],["monte",{},["CM14"]],["monte",{},["TA01"]],["monte",{},["CM81"]],["monte",{},["TA0A"]]]]]]]]]]]]}

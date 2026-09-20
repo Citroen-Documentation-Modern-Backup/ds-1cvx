@@ -1,18 +1,1 @@
-{
- "ref": "026903394150",
- "refDisplay": "0269 03 394150",
- "title": "CANALISATION ALIMENT SUSPENSION AR",
- "nature": "",
- "applicability": "DIRECTION ASSISTEE SAUF SUSPENSION HYDRACTIVE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0337"
-  }
- ]
-}
+{"ref":"026903394150","refDisplay":"0269 03 394150","title":"CANALISATION ALIMENT SUSPENSION AR","nature":"","applicability":"DIRECTION ASSISTEE SAUF SUSPENSION HYDRACTIVE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0337"}],"kind":"pr","appl":"{(?1CVX)(DDD02)[(DSJ00)]}","tree":["document",{},[["thesaurus",{"type":"10","code":"001713"},[]],["thesaurus",{"type":"10","code":"001534"},[]],["mpr",{"catal":"0269","grp":"282","grp2":"03","maj":"20111022","numfich":"394150"},[["appl",{},["{(?1CVX)(DDD02)[(DSJ00)]}"]],["sti",{"ident":"T0088224"},[]],["img",{"numfich":"p3941500","path":"/img/pr/00/p394/p3941500.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001713","obsnfp":"NFP","ref":"95639638","refpg":"95 639 638"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 3,5-3181"]]]]]],["pr",{"codesi":"001713","obsnfp":"NFP","ref":"96124326","refpg":"96 124 326"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(@BK)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 3,5-3263"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"001713","obsnfp":"NFP","ref":"95639639","refpg":"95 639 639"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 3,5-525"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"001713","obsnfp":"NFP","ref":"95639643","refpg":"95 639 643"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 3,5-718"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"001713","obsnfp":"NFP","ref":"95639641","refpg":"95 639 641"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 3,5-1493"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"001534","obsnfp":"NFP","ref":"5446900","refpg":"5 446 900"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]]]]]]}

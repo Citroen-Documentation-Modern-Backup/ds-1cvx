@@ -1,18 +1,1 @@
-{
- "ref": "026906642820",
- "refDisplay": "0269 06 642820",
- "title": "CDE CLIMATISEUR",
- "nature": "",
- "applicability": "REFRIGERATION AUTOMATIQUE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0347"
-  }
- ]
-}
+{"ref":"026906642820","refDisplay":"0269 06 642820","title":"CDE CLIMATISEUR","nature":"","applicability":"REFRIGERATION AUTOMATIQUE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0347"}],"kind":"pr","appl":"{(?1CVX)(DRE07)}","tree":["document",{},[["thesaurus",{"type":"6","code":"ZL-"},[]],["thesaurus",{"type":"10","code":"003721"},[]],["thesaurus",{"type":"10","code":"008059"},[]],["thesaurus",{"type":"22","code":"P0007186"},[]],["thesaurus",{"type":"21","code":"L1460737"},[]],["mpr",{"catal":"0269","grp":"463","grp2":"06","maj":"20111022","numfich":"642820"},[["appl",{},["{(?1CVX)(DRE07)}"]],["sti",{"ident":"T0088575"},[]],["obspage",{"ident":"P0007186"},[]],["img",{"numfich":"p6428200","path":"/img/pr/00/p642/p6428200.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"003721","obsnfp":"NFP","ref":"95659456ZL","refpg":"95 659 456 ZL"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]],["complpr",{"couleur":"ZL-"},[]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"008059","obsnfp":"NFP","ref":"00006451H5","refpg":"6451 H5"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]],["obsligne",{"ident":"L1460737"},[]]]]]]]]]]]]}

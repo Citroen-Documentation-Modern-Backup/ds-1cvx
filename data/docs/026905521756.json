@@ -1,18 +1,1 @@
-{
- "ref": "026905521756",
- "refDisplay": "0269 05 521756",
- "title": "CAPSULE CABLE REGULATEUR VITESSES",
- "nature": "",
- "applicability": "INJECTION ET INJECTION TURBO XU10J2TE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0344"
-  }
- ]
-}
+{"ref":"026905521756","refDisplay":"0269 05 521756","title":"CAPSULE CABLE REGULATEUR VITESSES","nature":"","applicability":"INJECTION ET INJECTION TURBO XU10J2TE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0344"}],"kind":"pr","appl":"{(?1CVX)(%INJ)(B0F2K)}","tree":["document",{},[["thesaurus",{"type":"10","code":"006998"},[]],["thesaurus",{"type":"10","code":"007306"},[]],["thesaurus",{"type":"10","code":"007305"},[]],["thesaurus",{"type":"10","code":"004651"},[]],["thesaurus",{"type":"10","code":"006028"},[]],["mpr",{"catal":"0269","grp":"539","grp2":"05","maj":"20111022","numfich":"521756"},[["appl",{},["{(?1CVX)(%INJ)(B0F2K)}"]],["sti",{"ident":"T0088412"},[]],["img",{"numfich":"p5217560","path":"/img/pr/60/p521/p5217560.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"006998","obsnfp":"NFP","ref":"000016281Z","refpg":"1628 1Z"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"007306","obsnfp":"NFP","ref":"000016282A","refpg":"1628 2A"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"007305","obsnfp":"NFP","ref":"000016282B","refpg":"1628 2B"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004651","ref":"0000693238","refpg":"6932 38"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8X125-6,5"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"006028","ref":"0000693997","refpg":"6939 97"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-7-18"]]]]]]]]]]]]}

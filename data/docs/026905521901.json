@@ -1,18 +1,1 @@
-{
- "ref": "026905521901",
- "refDisplay": "0269 05 521901",
- "title": "INTERRUPTEURS ET OBTURATEURS PLANCHE D B",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0212"
-  }
- ]
-}
+{"ref":"026905521901","refDisplay":"0269 05 521901","title":"INTERRUPTEURS ET OBTURATEURS PLANCHE D B","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0212"}],"kind":"pr","appl":"{(?1CVX)}","tree":["document",{},[["thesaurus",{"type":"10","code":"005384"},[]],["thesaurus",{"type":"10","code":"002678"},[]],["thesaurus",{"type":"10","code":"005383"},[]],["thesaurus",{"type":"10","code":"005385"},[]],["thesaurus",{"type":"10","code":"005386"},[]],["thesaurus",{"type":"10","code":"005912"},[]],["thesaurus",{"type":"10","code":"003902"},[]],["thesaurus",{"type":"21","code":"L1457417"},[]],["mpr",{"catal":"0269","grp":"413","grp2":"05","maj":"20111022","numfich":"521901"},[["appl",{},["{(?1CVX)}"]],["sti",{"ident":"T0088418"},[]],["img",{"numfich":"p5219010","path":"/img/pr/10/p521/p5219010.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"005384","obsnfp":"NFP","ref":"95639976ZL","refpg":"95 639 976 ZL"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["AV"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"005384","obsnfp":"NFP","ref":"95639977ZL","refpg":"95 639 977 ZL"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["AR"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"002678","obsnfp":"NFP","ref":"95639964ZL","refpg":"95 639 964 ZL"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"005383","obsnfp":"NFP","ref":"95639975ZL","refpg":"95 639 975 ZL"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["AR"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"005385","obsnfp":"NFP","ref":"95639935","refpg":"95 639 935"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)/($,,1,04982)/}"]]]]]],["pr",{"codesi":"005385","obsnfp":"NFP","ref":"96015683ZL","refpg":"96 015 683 ZL"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)/($1,04983,,)/}"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"005386","obsnfp":"NFP","ref":"95639978ZL","refpg":"95 639 978 ZL"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"005912","obsnfp":"NFP","ref":"96023272ZL","refpg":"96 023 272 ZL"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"08"},[["pr",{"codesi":"005912","obsnfp":"NFP","ref":"95639963ZL","refpg":"95 639 963 ZL"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(%N1XU)}"]]]]]]]],["repere",{"rep":"09"},[["pr",{"codesi":"003902","obsnfp":"NFP","ref":"96009619ZL","refpg":"96 009 619 ZL"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]],["obsligne",{"ident":"L1457417"},[]]]]]]]]]]]]}

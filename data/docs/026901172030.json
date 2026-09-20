@@ -1,18 +1,1 @@
-{
- "ref": "026901172030",
- "refDisplay": "0269 01 172030",
- "title": "ECHANGEUR",
- "nature": "",
- "applicability": "GAZOLE ET 2,088L ET TURBO",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0014"
-  }
- ]
-}
+{"ref":"026901172030","refDisplay":"0269 01 172030","title":"ECHANGEUR","nature":"","applicability":"GAZOLE ET 2,088L ET TURBO","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0014"}],"kind":"pr","appl":"{(?1CVX)(DCD06)(%B0F5VA)(DAZ09)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000256"},[]],["thesaurus",{"type":"10","code":"008417"},[]],["thesaurus",{"type":"10","code":"009679"},[]],["mpr",{"catal":"0269","grp":"56","grp2":"01","maj":"20111022","numfich":"172030"},[["appl",{},["{(?1CVX)(DCD06)(%B0F5VA)(DAZ09)}"]],["sti",{"ident":"T0087948"},[]],["img",{"numfich":"p1720300","path":"/img/pr/00/p172/p1720300.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000256","obsnfp":"NFP","ref":"00000384C0","refpg":"0384 C0"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(@BVM)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(@BVA)}"]]]]]],["pr",{"codesi":"008417","obsnfp":"NFP","ref":"95666891","refpg":"95 666 891"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(@BVM)(~2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["\"E ST\""]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"009679","ref":"0000131306","refpg":"1313 06"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 26X10 EP 19"]]]]]]]]]]]]}

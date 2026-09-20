@@ -1,18 +1,1 @@
-{
- "ref": "026906175607A",
- "refDisplay": "0269 06 175607A",
- "title": "BOITIER SONDE TEMPERATURE ECHAPP",
- "nature": "",
- "applicability": "INJECTION ET 2,963L ET 2,975L ET (J) JAPON",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0012"
-  }
- ]
-}
+{"ref":"026906175607A","refDisplay":"0269 06 175607A","title":"BOITIER SONDE TEMPERATURE ECHAPP","nature":"","applicability":"INJECTION ET 2,963L ET 2,975L ET (J) JAPON","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0012"}],"kind":"pr","appl":"{(?1CVX)(DAZ04)(B0F3J)(B0F3D)(B0H49)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000627"},[]],["thesaurus",{"type":"10","code":"000629"},[]],["thesaurus",{"type":"10","code":"004662"},[]],["thesaurus",{"type":"21","code":"L1458753"},[]],["mpr",{"catal":"0269","grp":"54","grp2":"06","maj":"20111022","numfich":"175607A"},[["appl",{},["{(?1CVX)(DAZ04)(B0F3J)(B0F3D)(B0H49)}"]],["sti",{"ident":"T0088482"},[]],["img",{"numfich":"p175607a","path":"/img/pr/7a/p175/p175607a.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000627","obsnfp":"NFP","ref":"00001628R9","refpg":"1628 R9"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]],["obsligne",{"ident":"L1458753"},[]]]],["descomp",{},[["lib",{"langue":"01"},["LONG 1500"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000629","obsnfp":"NFP","ref":"000016286P","refpg":"1628 6P"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["LONG 2510"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004662","ref":"00006980A7","refpg":"6980 A7"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["LONG 100"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"004662","ref":"00006980A1","refpg":"6980 A1"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["LG 200X5"]]]]]]]]]]]]}

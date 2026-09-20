@@ -1,18 +1,1 @@
-{
- "ref": "026905501823",
- "refDisplay": "0269 05 501823",
- "title": "FAISCEAU PLANCHE DE BORD / CONSOLE",
- "nature": "",
- "applicability": "MONTAGE MULTIPLEXE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0309"
-  }
- ]
-}
+{"ref":"026905501823","refDisplay":"0269 05 501823","title":"FAISCEAU PLANCHE DE BORD / CONSOLE","nature":"","applicability":"MONTAGE MULTIPLEXE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0309"}],"kind":"pr","appl":"{(?1CVX)(%MUX)}","tree":["document",{},[["thesaurus",{"type":"10","code":"003742"},[]],["thesaurus",{"type":"10","code":"004662"},[]],["thesaurus",{"type":"10","code":"007584"},[]],["thesaurus",{"type":"13","code":"D"},[]],["thesaurus",{"type":"13","code":"G"},[]],["thesaurus",{"type":"21","code":"L1456944"},[]],["mpr",{"catal":"0269","grp":"520","grp2":"05","maj":"20111022","numfich":"501823"},[["appl",{},["{(?1CVX)(%MUX)}"]],["sti",{"ident":"T0088378"},[]],["img",{"numfich":"p5018230","path":"/img/pr/30/p501/p5018230.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"003742","obsnfp":"NFP","ref":"00006525VX","refpg":"6525 VX"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"003742","obsnfp":"NFP","ref":"00006525VY","refpg":"6525 VY"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]],["obsligne",{"ident":"L1456944"},[]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004662","ref":"00006980A1","refpg":"6980 A1"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["LG 200X5"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"007584","cote":"D","obsnfp":"NFP","ref":"00006555GY","refpg":"6555 GY"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"32"},[["pr",{"codesi":"007584","cote":"G","obsnfp":"NFP","ref":"00006555GX","refpg":"6555 GX"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]]]]]]}

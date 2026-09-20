@@ -1,18 +1,1 @@
-{
- "ref": "026903416410",
- "refDisplay": "0269 03 416410",
- "title": "MASSES EQUILIBRAGE",
- "nature": "",
- "applicability": "MONTAGE ROUE ALU.",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0023"
-  }
- ]
-}
+{"ref":"026903416410","refDisplay":"0269 03 416410","title":"MASSES EQUILIBRAGE","nature":"","applicability":"MONTAGE ROUE ALU.","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0023"}],"kind":"pr","appl":"{(?1CVX)(%MONTRA)}","tree":["document",{},[["thesaurus",{"type":"10","code":"002128"},[]],["thesaurus",{"type":"10","code":"002236"},[]],["mpr",{"catal":"0269","grp":"142","grp2":"03","maj":"20111022","numfich":"416410"},[["appl",{},["{(?1CVX)(%MONTRA)}"]],["sti",{"ident":"T0088276"},[]],["img",{"numfich":"p4164100","path":"/img/pr/00/p416/p4164100.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"002128","ref":"00005435X2","refpg":"5435 X2"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["10 GR"]]]]]],["pr",{"codesi":"002128","ref":"00005435X3","refpg":"5435 X3"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["15 GR"]]]]]],["pr",{"codesi":"002128","ref":"00005435X5","refpg":"5435 X5"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["25 GR"]]]]]],["pr",{"codesi":"002128","ref":"00005435X6","refpg":"5435 X6"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["30 GR"]]]]]],["pr",{"codesi":"002128","ref":"00005435X7","refpg":"5435 X7"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["35 GR MASSE SANS PLO"]]]]]],["pr",{"codesi":"002128","ref":"00005435X9","refpg":"5435 X9"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["45 GR"]]]]]],["pr",{"codesi":"002128","ref":"00005435Y0","refpg":"5435 Y0"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["50 GR"]]]]]],["pr",{"codesi":"002128","obsnfp":"NFP","ref":"75522920","refpg":"75 522 920"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["55GR"]]]]]],["pr",{"codesi":"002128","obsnfp":"NFP","ref":"75522921","refpg":"75 522 921"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["60GR"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"002236","obsnfp":"NFP","ref":"5508765","refpg":"5 508 765"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CVX)}"]]]]]]]]]]]]}

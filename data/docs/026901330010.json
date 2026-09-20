@@ -1,18 +1,1 @@
-{
- "ref": "026901330010",
- "refDisplay": "0269 01 330010",
- "title": "BOITE DE VITESSES MECANIQUE",
- "nature": "",
- "applicability": "INJECTION ET XU10M ET BE3/5NK ET CT22X18 ET PNEU 185X65X15 JUSQU’A OPR 05683",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"026901330010","refDisplay":"0269 01 330010","title":"BOITE DE VITESSES MECANIQUE","nature":"","applicability":"INJECTION ET XU10M ET BE3/5NK ET CT22X18 ET PNEU 185X65X15 JUSQU’A OPR 05683","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CVX)(%INJ)(%XU10M)(%BE35NK)(%T22X18)(DPL31)/($,,1,05683)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"009390"},[]],["thesaurus",{"type":"10","code":"000048"},[]],["mpr",{"catal":"0269","grp":"67","grp2":"01","maj":"20111022","numfich":"330010"},[["appl",{},["{(?1CVX)(%INJ)(%XU10M)(%BE35NK)(%T22X18)(DPL31)/($,,1,05683)/}"]],["sti",{"ident":"NL330001"},[]],["img",{"numfich":"p3300100","path":"/img/pr/00/p330/p3300100.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"009390","obsnfp":"NFP","ref":"00002205SL","refpg":"2205 SL"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 19X77"]]]],["reporg",{},[["monte",{},[" CJ01"]],["monte",{},[" CM16"]],["monte",{},[" CJ73"]],["monte",{},[" CM12"]],["monte",{},[" CH35"]],["monte",{},[" CM51"]],["monte",{},["(CJ73)"]],["monte",{},[" CM50"]],["monte",{},[" CH99"]],["monte",{},[" CH36"]],["monte",{},[" CH9J"]],["monte",{},["(CH9Y)"]],["monte",{},[" TA00"]]]]]],["pr",{"codesi":"000048","obsnfp":"NFP","ref":"00002201HV","refpg":"2201 HV"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(~2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP16X65"]]]],["reporg",{},[["monte",{},["(CMAF)"]],["monte",{},[" CJ01"]],["monte",{},[" CM16"]],["monte",{},[" CMAB"]],["monte",{},[" CJ73"]],["monte",{},["(CMA6)"]],["monte",{},[" CM12"]],["monte",{},[" CM51"]],["monte",{},[" CM50"]],["monte",{},[" CJG3"]],["monte",{},["(CMEA)"]],["monte",{},[" CMA2"]],["monte",{},["(CJK1)"]],["monte",{},[" CJ88"]],["monte",{},["(CJG3)"]]]]]]]]]]]]}

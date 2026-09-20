@@ -1,18 +1,1 @@
-{
- "ref": "026903394510",
- "refDisplay": "0269 03 394510",
- "title": "FIXATIONS CANALISATIONS HYDRAULIQUES",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0337"
-  }
- ]
-}
+{"ref":"026903394510","refDisplay":"0269 03 394510","title":"FIXATIONS CANALISATIONS HYDRAULIQUES","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0337"}],"kind":"pr","appl":"{(?1CVX)}","tree":["document",{},[["thesaurus",{"type":"10","code":"004769"},[]],["thesaurus",{"type":"10","code":"001456"},[]],["thesaurus",{"type":"10","code":"001455"},[]],["thesaurus",{"type":"10","code":"001647"},[]],["mpr",{"catal":"0269","grp":"272","grp2":"03","maj":"20111022","numfich":"394510"},[["appl",{},["{(?1CVX)}"]],["sti",{"ident":"T0088263"},[]],["img",{"numfich":"p3945100","path":"/img/pr/00/p394/p3945100.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"004769","obsnfp":"NFP","ref":"96055381","refpg":"96 055 381"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"001456","obsnfp":"NFP","ref":"96020900","refpg":"96 020 900"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["2 DIAM 8,2"]]]]]],["pr",{"codesi":"001456","obsnfp":"NFP","ref":"96066353","refpg":"96 066 353"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["2 DIAM 6,5 ET7,5"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"001456","obsnfp":"NFP","ref":"95596537","refpg":"95 596 537"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"001456","obsnfp":"NFP","ref":"96055376","refpg":"96 055 376"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["1 DIAM 9"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"001456","obsnfp":"NFP","ref":"75443736","refpg":"75 443 736"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"001456","obsnfp":"NFP","ref":"96055375","refpg":"96 055 375"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"001455","ref":"96049658","refpg":"96 049 658"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["1 DIAM 22"]]]]]],["pr",{"codesi":"001456","obsnfp":"NFP","ref":"95602149","refpg":"95 602 149"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["1 DIAM 25"]]]]]]]],["repere",{"rep":"08"},[["pr",{"codesi":"001647","obsnfp":"NFP","ref":"96047862","refpg":"96 047 862"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["1 DIAM 22"]]]]]]]],["repere",{"rep":"09"},[["pr",{"codesi":"001456","obsnfp":"NFP","ref":"96068872","refpg":"96 068 872"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"10"},[["pr",{"codesi":"001456","obsnfp":"NFP","ref":"96072086","refpg":"96 072 086"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CVX)}"]]]]]]]]]]]]}

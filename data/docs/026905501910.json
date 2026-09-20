@@ -1,18 +1,1 @@
-{
- "ref": "026905501910",
- "refDisplay": "0269 05 501910",
- "title": "FAISCEAU CLIMATISEUR REFRIGERATION",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0309"
-  }
- ]
-}
+{"ref":"026905501910","refDisplay":"0269 05 501910","title":"FAISCEAU CLIMATISEUR REFRIGERATION","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0309"}],"kind":"pr","appl":"{(?1CVX)}","tree":["document",{},[["thesaurus",{"type":"10","code":"003730"},[]],["thesaurus",{"type":"21","code":"L1456979"},[]],["mpr",{"catal":"0269","grp":"521","grp2":"05","maj":"20111022","numfich":"501910"},[["appl",{},["{(?1CVX)}"]],["sti",{"ident":"T0088382"},[]],["img",{"numfich":"p5019100","path":"/img/pr/00/p501/p5019100.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"003730","obsnfp":"NFP","ref":"96079033","refpg":"96 079 033"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(%DRE10)}"]],["obsligne",{"ident":"L1456979"},[]]]]]]]]]]]]}

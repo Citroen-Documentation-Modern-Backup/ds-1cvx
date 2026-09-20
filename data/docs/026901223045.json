@@ -1,18 +1,1 @@
-{
- "ref": "026901223045",
- "refDisplay": "0269 01 223045",
- "title": "REMPLISSAGE HUILE DECANTEUR CANALISATION",
- "nature": "",
- "applicability": "1,998L ET INJ MONOPOINT ET (XT) EXPORT",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0008"
-  }
- ]
-}
+{"ref":"026901223045","refDisplay":"0269 01 223045","title":"REMPLISSAGE HUILE DECANTEUR CANALISATION","nature":"","applicability":"1,998L ET INJ MONOPOINT ET (XT) EXPORT","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0008"}],"kind":"pr","appl":"{(?1CVX)(%B0F199)(%DAZ07)(%B0HXT)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000698"},[]],["thesaurus",{"type":"10","code":"000724"},[]],["thesaurus",{"type":"10","code":"000072"},[]],["thesaurus",{"type":"10","code":"000460"},[]],["thesaurus",{"type":"10","code":"004777"},[]],["thesaurus",{"type":"10","code":"004675"},[]],["thesaurus",{"type":"10","code":"004650"},[]],["thesaurus",{"type":"22","code":"P0007068"},[]],["mpr",{"catal":"0269","grp":"33","grp2":"01","maj":"20111022","numfich":"223045"},[["appl",{},["{(?1CVX)(%B0F199)(%DAZ07)(%B0HXT)}"]],["sti",{"ident":"T0087972"},[]],["obspage",{"ident":"P0007068"},[]],["img",{"numfich":"p2230450","path":"/img/pr/50/p223/p2230450.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000698","obsnfp":"NFP","ref":"0000119281","refpg":"1192 81"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000698","obsnfp":"NFP","ref":"00001192C1","refpg":"1192 C1"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"000698","obsnfp":"NFP","ref":"0000119287","refpg":"1192 87"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"000698","obsnfp":"NFP","ref":"0000119291","refpg":"1192 91"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"000724","obsnfp":"NFP","ref":"0000117828","refpg":"1178 28"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"000072","ref":"0000118051","refpg":"1180 51"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"000460","ref":"0000025845","refpg":"0258 45"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"08"},[["pr",{"codesi":"004777","obsnfp":"NFP","ref":"0000118116","refpg":"1181 16"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004675","ref":"0000692153","refpg":"6921 53"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-35"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"004650","ref":"00006981L0","refpg":"6981 L0"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 25-47 LARG 9"]]]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "026905521762",
- "refDisplay": "0269 05 521762",
- "title": "CAPSULE CABLE REGULATEUR VITESSES",
- "nature": "",
- "applicability": "GAZOLE ET TURBO ET BVA",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0344"
-  }
- ]
-}
+{"ref":"026905521762","refDisplay":"0269 05 521762","title":"CAPSULE CABLE REGULATEUR VITESSES","nature":"","applicability":"GAZOLE ET TURBO ET BVA","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0344"}],"kind":"pr","appl":"{(?1CVX)(DCD06)(DAZ09)(@BVA)}","tree":["document",{},[["thesaurus",{"type":"10","code":"006998"},[]],["thesaurus",{"type":"10","code":"007306"},[]],["thesaurus",{"type":"10","code":"002155"},[]],["thesaurus",{"type":"10","code":"000115"},[]],["thesaurus",{"type":"10","code":"006143"},[]],["thesaurus",{"type":"10","code":"005366"},[]],["thesaurus",{"type":"10","code":"004667"},[]],["thesaurus",{"type":"10","code":"004651"},[]],["mpr",{"catal":"0269","grp":"539","grp2":"05","maj":"20111022","numfich":"521762"},[["appl",{},["{(?1CVX)(DCD06)(DAZ09)(@BVA)}"]],["sti",{"ident":"T0088417"},[]],["img",{"numfich":"p5217620","path":"/img/pr/20/p521/p5217620.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"006998","ref":"00001628G9","refpg":"1628 G9"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"007306","obsnfp":"NFP","ref":"000016288L","refpg":"1628 8L"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"002155","obsnfp":"NFP","ref":"000016281T","refpg":"1628 1T"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"000115","obsnfp":"NFP","ref":"000016281U","refpg":"1628 1U"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"006143","obsnfp":"NFP","ref":"0000163139","refpg":"1631 39"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"005366","obsnfp":"NFP","ref":"000016281V","refpg":"1628 1V"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004667","ref":"0000694778","refpg":"6947 78"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X16-1,5"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"004651","ref":"0000693238","refpg":"6932 38"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8X125-6,5"]]]]]]]]]]]]}

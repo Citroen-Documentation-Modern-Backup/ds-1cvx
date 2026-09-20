@@ -1,18 +1,1 @@
-{
- "ref": "026906184806",
- "refDisplay": "0269 06 184806",
- "title": "ECHAPPEMENT INTERMEDIAIRE ET AR",
- "nature": "",
- "applicability": "1,998L ET INJECTION TURBO ECHANGEUR",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0011"
-  }
- ]
-}
+{"ref":"026906184806","refDisplay":"0269 06 184806","title":"ECHAPPEMENT INTERMEDIAIRE ET AR","nature":"","applicability":"1,998L ET INJECTION TURBO ECHANGEUR","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0011"}],"kind":"pr","appl":"{(?1CVX)(B0F5T)(DAZ06)}","tree":["document",{},[["thesaurus",{"type":"7","code":"C001-"},[]],["thesaurus",{"type":"10","code":"000833"},[]],["thesaurus",{"type":"10","code":"016514"},[]],["thesaurus",{"type":"10","code":"014896"},[]],["thesaurus",{"type":"10","code":"000623"},[]],["thesaurus",{"type":"10","code":"000662"},[]],["thesaurus",{"type":"10","code":"000188"},[]],["mpr",{"catal":"0269","grp":"50","grp2":"06","maj":"20111022","numfich":"184806"},[["appl",{},["{(?1CVX)(B0F5T)(DAZ06)}"]],["sti",{"ident":"T0088503"},[]],["img",{"numfich":"p1848060","path":"/img/pr/60/p184/p1848060.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000833","ref":"96119136","refpg":"96 119 136"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]],["pr",{"codesi":"016514","ref":"E12847J","refpg":"E12847J","typecommercial":"EUROREPAR"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]],["pr",{"codesi":"014896","ref":"E128C98","refpg":"E128C98","typecommercial":"EUROREPAR"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000623","ref":"96119137","refpg":"96 119 137"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(@BL)}"]]]]]],["pr",{"codesi":"000623","obsnfp":"NFP","ref":"96119138","refpg":"96 119 138"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(@BK)}"]]]]]],["pr",{"codesi":"016514","ref":"E12854L","refpg":"E12854L","typecommercial":"EUROREPAR"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(@BL)}"]]]]]],["pr",{"codesi":"016514","ref":"1607347280","refpg":"16 073 472 80","typecommercial":"EUROREPAR"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(@BK)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"000662","ref":"0000175559","refpg":"1755 59"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]],["complpr",{"matiere":"C001-"},[]]]],["descomp",{},[["lib",{"langue":"01"},["LARG 38"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"000188","ref":"0000171369","refpg":"1713 69"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 74,5"]]]]]],["pr",{"codesi":"014896","ref":"E128E18","refpg":"E128E18","typecommercial":"EUROREPAR"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(@BL)}"]]]],["prremp",{"coef":"01","palges":"P","ref":"1607355980","refpg":"16 073 559 80"},[]]]]]]]]]]}

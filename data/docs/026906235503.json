@@ -1,18 +1,1 @@
-{
- "ref": "026906235503",
- "refDisplay": "0269 06 235503",
- "title": "RADIATEUR",
- "nature": "",
- "applicability": "INJECTION ET 1,998L ET BVA",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0009"
-  }
- ]
-}
+{"ref":"026906235503","refDisplay":"0269 06 235503","title":"RADIATEUR","nature":"","applicability":"INJECTION ET 1,998L ET BVA","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0009"}],"kind":"pr","appl":"{(?1CVX)(DAZ04)(B0F5T)(@BVA)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000714"},[]],["thesaurus",{"type":"10","code":"000713"},[]],["thesaurus",{"type":"10","code":"000748"},[]],["thesaurus",{"type":"10","code":"009679"},[]],["mpr",{"catal":"0269","grp":"21","grp2":"06","maj":"20111022","numfich":"235503"},[["appl",{},["{(?1CVX)(DAZ04)(B0F5T)(@BVA)}"]],["sti",{"ident":"NL235501"},[]],["img",{"numfich":"p2355030","path":"/img/pr/30/p235/p2355030.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000714","obsnfp":"NFP","ref":"00001300N0","refpg":"1300 N0"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(@BL)}"]]]]]],["pr",{"codesi":"000713","obsnfp":"NFP","ref":"00001301A3","refpg":"1301 A3"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(@BL)(~2)}"]]]]]],["pr",{"codesi":"000714","obsnfp":"NFP","ref":"0000133020","refpg":"1330 20"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(@BK)}"]]]],["descomp",{},[["lib",{"langue":"01"},["27 DM2"]]]]]],["pr",{"codesi":"000713","obsnfp":"NFP","ref":"00001331PQ","refpg":"1331 PQ"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(@BK)(~2)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000748","obsnfp":"NFP","ref":"0000131287","refpg":"1312 87"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"009679","ref":"0000131306","refpg":"1313 06"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 26X10 EP 19"]]]]]]]]]]]]}

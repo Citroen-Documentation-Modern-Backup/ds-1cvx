@@ -1,18 +1,1 @@
-{
- "ref": "026903394511",
- "refDisplay": "0269 03 394511",
- "title": "FIXATIONS CANALISATIONS HYDRAULIQUES",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0337"
-  }
- ]
-}
+{"ref":"026903394511","refDisplay":"0269 03 394511","title":"FIXATIONS CANALISATIONS HYDRAULIQUES","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0337"}],"kind":"pr","appl":"{(?1CVX)}","tree":["document",{},[["thesaurus",{"type":"10","code":"001456"},[]],["thesaurus",{"type":"10","code":"001455"},[]],["thesaurus",{"type":"10","code":"000098"},[]],["thesaurus",{"type":"10","code":"001647"},[]],["mpr",{"catal":"0269","grp":"272","grp2":"03","maj":"20111022","numfich":"394511"},[["appl",{},["{(?1CVX)}"]],["sti",{"ident":"T0088264"},[]],["img",{"numfich":"p3945110","path":"/img/pr/10/p394/p3945110.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001456","obsnfp":"NFP","ref":"96027284","refpg":"96 027 284"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"001456","obsnfp":"NFP","ref":"96027285","refpg":"96 027 285"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"001455","ref":"95577400","refpg":"95 577 400"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"000098","obsnfp":"NFP","ref":"96028682","refpg":"96 028 682"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"001456","obsnfp":"NFP","ref":"96099335","refpg":"96 099 335"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"001456","obsnfp":"NFP","ref":"96069995","refpg":"96 069 995"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"001456","obsnfp":"NFP","ref":"96082148","refpg":"96 082 148"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"08"},[["pr",{"codesi":"001647","obsnfp":"NFP","ref":"96069994","refpg":"96 069 994"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"09"},[["pr",{"codesi":"001456","obsnfp":"NFP","ref":"96085182","refpg":"96 085 182"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"10"},[["pr",{"codesi":"001456","obsnfp":"NFP","ref":"96092415","refpg":"96 092 415"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CVX)}"]]]]]]]]]]]]}

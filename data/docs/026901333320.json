@@ -1,18 +1,1 @@
-{
- "ref": "026901333320",
- "refDisplay": "0269 01 333320",
- "title": "DIAPHRAGMES VALVES",
- "nature": "",
- "applicability": "BVA ET 4HP18",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"026901333320","refDisplay":"0269 01 333320","title":"DIAPHRAGMES VALVES","nature":"","applicability":"BVA ET 4HP18","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CVX)(@BVA)(%4HP18)}","tree":["document",{},[["thesaurus",{"type":"10","code":"010543"},[]],["thesaurus",{"type":"10","code":"001005"},[]],["thesaurus",{"type":"10","code":"010648"},[]],["mpr",{"catal":"0269","grp":"610 613","grp2":"01","maj":"20111022","numfich":"333320"},[["appl",{},["{(?1CVX)(@BVA)(%4HP18)}"]],["sti",{"ident":"T0088040"},[]],["img",{"numfich":"p3333200","path":"/img/pr/00/p333/p3333200.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"010543","obsnfp":"NFP","ref":"0000257319","refpg":"2573 19"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"001005","obsnfp":"NFP","ref":"0000257405","refpg":"2574 05"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 4,5"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"001005","ref":"0000257406","refpg":"2574 06"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"010648","ref":"0000257941","refpg":"2579 41"},[["pmont",{"coef":"09"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 5X80-18"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"010648","ref":"0000257942","refpg":"2579 42"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 5X80-25"]]]]]]]]]]]]}

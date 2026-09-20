@@ -1,18 +1,1 @@
-{
- "ref": "026901330035",
- "refDisplay": "0269 01 330035",
- "title": "BOITE DE VITESSES MECANIQUE",
- "nature": "",
- "applicability": "1,998L ET INJECTION TURBO ECHANGEUR DEPUIS OPR 05684",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"026901330035","refDisplay":"0269 01 330035","title":"BOITE DE VITESSES MECANIQUE","nature":"","applicability":"1,998L ET INJECTION TURBO ECHANGEUR DEPUIS OPR 05684","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CVX)(%B0F199)(DAZ06)/($1,05684,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"009390"},[]],["thesaurus",{"type":"10","code":"000049"},[]],["thesaurus",{"type":"10","code":"009391"},[]],["thesaurus",{"type":"10","code":"000048"},[]],["thesaurus",{"type":"22","code":"P0007072"},[]],["thesaurus",{"type":"21","code":"L1449065"},[]],["thesaurus",{"type":"21","code":"L1449063"},[]],["thesaurus",{"type":"21","code":"L1449064"},[]],["thesaurus",{"type":"21","code":"L1449062"},[]],["mpr",{"catal":"0269","grp":"67","grp2":"01","maj":"20111022","numfich":"330035"},[["appl",{},["{(?1CVX)(%B0F199)(DAZ06)/($1,05684,,)/}"]],["sti",{"ident":"NL330001"},[]],["obspage",{"ident":"P0007072"},[]],["img",{"numfich":"p3300350","path":"/img/pr/50/p330/p3300350.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"009390","obsnfp":"NFP","ref":"00002222H6","refpg":"2222 H6"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(@BL)/($7,0179690,,)/}"]],["obsligne",{"ident":"L1449065"},[]]]],["descomp",{},[["lib",{"langue":"01"},["CP(14X59)-CT(21X26)P"]]]],["reporg",{},[["monte",{},["(GM32)"]],["monte",{},[" GM39"]],["monte",{},[" GM32"]],["monte",{},[" GM19"]],["monte",{},["(GM39)"]]]]]],["pr",{"codesi":"000049","obsnfp":"NFP","ref":"00002200TZ","refpg":"2200 TZ"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(@BK)/($7,0179788,,)/}"]],["obsligne",{"ident":"L1449063"},[]]]],["descomp",{},[["lib",{"langue":"01"},["CP 14 X 59"]]]],["reporg",{},[["monte",{},["(GM33)"]],["monte",{},["GM33"]]]]]],["pr",{"codesi":"009391","obsnfp":"NFP","ref":"00002223FW","refpg":"2223 FW"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(@BL)/($7,0179690,,)/(~2)}"]],["obsligne",{"ident":"L1449064"},[]]]],["descomp",{},[["lib",{"langue":"01"},["CP(14X59)-CT 21X26P"]]]],["reporg",{},[["monte",{},["GM39"]],["monte",{},["(GMC9)"]],["monte",{},["GMA9"]],["monte",{},["GMC2"]],["monte",{},["(GMC2)"]],["monte",{},["GMC9"]],["monte",{},["GM19"]],["monte",{},["GM32"]]]]]],["pr",{"codesi":"000048","obsnfp":"NFP","ref":"00002201HZ","refpg":"2201 HZ"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(@BK)/($7,0179788,,)/(~2)}"]],["obsligne",{"ident":"L1449062"},[]]]],["descomp",{},[["lib",{"langue":"01"},["CP 14 X 59"]]]],["reporg",{},[["monte",{},["GM20"]],["monte",{},["(GMC3)"]],["monte",{},["GM33"]]]]]]]]]]]]}

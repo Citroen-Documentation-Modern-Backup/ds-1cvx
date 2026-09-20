@@ -1,18 +1,1 @@
-{
- "ref": "026902211203",
- "refDisplay": "0269 02 211203",
- "title": "ALLUMEUR",
- "nature": "",
- "applicability": "ESSENCE ET 1,998L ET CARBURATEUR ET 1,998L ET INJECTION",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0013"
-  }
- ]
-}
+{"ref":"026902211203","refDisplay":"0269 02 211203","title":"ALLUMEUR","nature":"","applicability":"ESSENCE ET 1,998L ET CARBURATEUR ET 1,998L ET INJECTION","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0013"}],"kind":"pr","appl":"{(?1CVX)(DCD10)(B0F5R)(DAZ08)(B0F5T)(DAZ04)}","tree":["document",{},[["thesaurus",{"type":"10","code":"001781"},[]],["thesaurus",{"type":"10","code":"016977"},[]],["thesaurus",{"type":"10","code":"002169"},[]],["thesaurus",{"type":"10","code":"000689"},[]],["thesaurus",{"type":"10","code":"005554"},[]],["thesaurus",{"type":"10","code":"002116"},[]],["thesaurus",{"type":"10","code":"004660"},[]],["thesaurus",{"type":"10","code":"006142"},[]],["mpr",{"catal":"0269","grp":"44","grp2":"02","maj":"20111022","numfich":"211203"},[["appl",{},["{(?1CVX)(DCD10)(B0F5R)(DAZ08)(B0F5T)(DAZ04)}"]],["sti",{"ident":"NL211201"},[]],["enssup",{},[["fourn",{},["13286R"]]]],["img",{"numfich":"p2112030","path":"/img/pr/30/p211/p2112030.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001781","obsnfp":"NFP","ref":"00005900H9","refpg":"5900 H9"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(DAZ04)(@BVM)/($,,1,04935)/}"]],["reffour",{},[["four",{},["13286R"]]]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(DAZ04)(@BVA)}"]],["reffour",{},[["four",{},["13286R"]]]]]],["descomp",{},[["lib",{"langue":"01"},["C059-D045"]]]]]],["pr",{"codesi":"001781","obsnfp":"NFP","ref":"00005900J1","refpg":"5900 J1"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(DAZ08)}"]]]],["descomp",{},[["lib",{"langue":"01"},["C001 D001"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"016977","ref":"0000593360","refpg":"5933 60"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 36,5"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"002169","ref":"0000590317","refpg":"5903 17"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"000689","ref":"0000595306","refpg":"5953 06"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CL 3,5X8-5000"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"005554","ref":"00005904K8","refpg":"5904 K8"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"002116","ref":"0000594035","refpg":"5940 35"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004660","ref":"0000693022","refpg":"6930 22"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVX)}"]]]],["pmont",{"coef":"02"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["7X100-18-12-13"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"006142","ref":"0000025103","refpg":"0251 03"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVX)}"]]]],["pmont",{"coef":"02"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["7X100-6-14"]]]]]]]]]]]]}

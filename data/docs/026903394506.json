@@ -1,18 +1,1 @@
-{
- "ref": "026903394506",
- "refDisplay": "0269 03 394506",
- "title": "FIXATIONS CANALISATIONS HYDRAULIQUES",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0337"
-  }
- ]
-}
+{"ref":"026903394506","refDisplay":"0269 03 394506","title":"FIXATIONS CANALISATIONS HYDRAULIQUES","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0337"}],"kind":"pr","appl":"{(?1CVX)}","tree":["document",{},[["thesaurus",{"type":"10","code":"015290"},[]],["thesaurus",{"type":"10","code":"001647"},[]],["thesaurus",{"type":"10","code":"004647"},[]],["thesaurus",{"type":"10","code":"000903"},[]],["thesaurus",{"type":"21","code":"L1454761"},[]],["mpr",{"catal":"0269","grp":"272","grp2":"03","maj":"20111022","numfich":"394506"},[["appl",{},["{(?1CVX)}"]],["sti",{"ident":"T0088262"},[]],["img",{"numfich":"p3945060","path":"/img/pr/60/p394/p3945060.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"015290","ref":"0000699468","refpg":"6994 68"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CVX)}"]],["obsligne",{"ident":"L1454761"},[]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 20-22"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"001647","ref":"95499136","refpg":"95 499 136"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"001647","ref":"95499137","refpg":"95 499 137"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"004647","obsnfp":"NFP","ref":"0000528030","refpg":"5280 30"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["2T 13-5"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"000903","obsnfp":"NFP","ref":"00004814J6","refpg":"4814 J6"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["2T 4,8 1T 6,9A8,1"]]]]]]]]]]]]}

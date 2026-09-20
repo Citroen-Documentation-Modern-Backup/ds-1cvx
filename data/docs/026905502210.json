@@ -1,18 +1,1 @@
-{
- "ref": "026905502210",
- "refDisplay": "0269 05 502210",
- "title": "FAISCEAU SIEGES ET CEINTURES",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0309"
-  }
- ]
-}
+{"ref":"026905502210","refDisplay":"0269 05 502210","title":"FAISCEAU SIEGES ET CEINTURES","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0309"}],"kind":"pr","appl":"{(?1CVX)}","tree":["document",{},[["thesaurus",{"type":"10","code":"005242"},[]],["thesaurus",{"type":"21","code":"L1457022"},[]],["mpr",{"catal":"0269","grp":"524","grp2":"05","maj":"20111022","numfich":"502210"},[["appl",{},["{(?1CVX)}"]],["sti",{"ident":"NL502201"},[]],["enssup",{},[["refd",{},["SIEGES AR"]]]],["img",{"numfich":"p5022100","path":"/img/pr/00/p502/p5022100.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"005242","obsnfp":"NFP","ref":"96023225","refpg":"96 023 225"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVX)}"]],["obsligne",{"ident":"L1457022"},[]]]]]]]]]]]]}

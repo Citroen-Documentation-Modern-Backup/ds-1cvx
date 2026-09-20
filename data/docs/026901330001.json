@@ -1,18 +1,1 @@
-{
- "ref": "026901330001",
- "refDisplay": "0269 01 330001",
- "title": "BOITE DE VITESSES MECANIQUE",
- "nature": "",
- "applicability": "CARBURATION ET XU102C ET BE3/5LK ET CT22X18 ET PA7 JUSQU’A OPR 05806",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"026901330001","refDisplay":"0269 01 330001","title":"BOITE DE VITESSES MECANIQUE","nature":"","applicability":"CARBURATION ET XU102C ET BE3/5LK ET CT22X18 ET PA7 JUSQU’A OPR 05806","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CVX)(%CARBU)(%XU102C)(%BE35LK)(%T22X18)(%PA7)/($,,1,05806)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"009390"},[]],["thesaurus",{"type":"10","code":"000048"},[]],["mpr",{"catal":"0269","grp":"67","grp2":"01","maj":"20111022","numfich":"330001"},[["appl",{},["{(?1CVX)(%CARBU)(%XU102C)(%BE35LK)(%T22X18)(%PA7)/($,,1,05806)/}"]],["sti",{"ident":"NL330001"},[]],["img",{"numfich":"p3300010","path":"/img/pr/10/p330/p3300010.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"009390","obsnfp":"NFP","ref":"00002200PA","refpg":"2200 PA"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(DPL43)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP16X63"]]]],["reporg",{},[["monte",{},[" CJ04"]],["monte",{},["(CJ77)"]],["monte",{},["(CM2F)"]],["monte",{},[" CM26"]],["monte",{},[" CJ77"]]]]]],["pr",{"codesi":"000048","obsnfp":"NFP","ref":"95666866","refpg":"95 666 866"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(DPL43)(~2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP16X63"]]]],["reporg",{},[["monte",{},[" CJ04"]],["monte",{},[" CJK4"]],["monte",{},[" CJG7"]],["monte",{},["(CMBF)"]],["monte",{},[" CJ77"]]]]]]]]]]]]}

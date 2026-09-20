@@ -1,18 +1,1 @@
-{
- "ref": "026905501221B",
- "refDisplay": "0269 05 501221B",
- "title": "FAISCEAU MOTEUR",
- "nature": "",
- "applicability": "GAZOLE ET 2,138L DEPUIS OPR 05810",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0308"
-  }
- ]
-}
+{"ref":"026905501221B","refDisplay":"0269 05 501221B","title":"FAISCEAU MOTEUR","nature":"","applicability":"GAZOLE ET 2,138L DEPUIS OPR 05810","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0308"}],"kind":"pr","appl":"{(?1CVX)(DCD06)(B0F5U)/($1,05810,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"003753"},[]],["thesaurus",{"type":"10","code":"010539"},[]],["thesaurus",{"type":"10","code":"004647"},[]],["thesaurus",{"type":"10","code":"004777"},[]],["mpr",{"catal":"0269","grp":"514","grp2":"05","maj":"20111022","numfich":"501221B"},[["appl",{},["{(?1CVX)(DCD06)(B0F5U)/($1,05810,,)/}"]],["sti",{"ident":"NL501201"},[]],["img",{"numfich":"p501221b","path":"/img/pr/1b/p501/p501221b.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"003753","obsnfp":"NFP","ref":"96169542","refpg":"96 169 542"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]],["pr",{"codesi":"003753","obsnfp":"NFP","ref":"96169541","refpg":"96 169 541"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(%DRE10)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"003753","obsnfp":"NFP","ref":"000065444C","refpg":"6544 4C"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(%XUD11A)}"]],["nlcfr",{},[["livre",{},["9617230080"]]]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"010539","ref":"0000156398","refpg":"1563 98"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["34X43-LG18"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"004647","ref":"0000698681","refpg":"6986 81"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 17"]]]]]]]],["repere",{"rep":"32"},[["pr",{"codesi":"004647","ref":"00006992A6","refpg":"6992 A6"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6-12-30"]]]]]]]],["repere",{"rep":"33"},[["pr",{"codesi":"004777","obsnfp":"NFP","ref":"00006995H9","refpg":"6995 H9"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "026905544201",
- "refDisplay": "0269 05 544201",
- "title": "ECLAIRAGE PLAQUE DE POLICE",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0203"
-  }
- ]
-}
+{"ref":"026905544201","refDisplay":"0269 05 544201","title":"ECLAIRAGE PLAQUE DE POLICE","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0203"}],"kind":"pr","appl":"{(?1CVX)}","tree":["document",{},[["thesaurus",{"type":"10","code":"002562"},[]],["thesaurus",{"type":"10","code":"004792"},[]],["thesaurus",{"type":"21","code":"L1457611"},[]],["mpr",{"catal":"0269","grp":"405","grp2":"05","maj":"20111022","numfich":"544201"},[["appl",{},["{(?1CVX)}"]],["sti",{"ident":"NL544201"},[]],["img",{"numfich":"00051305","path":"/img/pr/05/0005/00051305.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"002562","ref":"0000634087","refpg":"6340 87"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CVX)(@BK)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"357, 338, 11","shape":"circle"},[]]]]]],["repere",{"rep":"10"},[["pr",{"codesi":"004792","ref":"00006216A1","refpg":"6216 A1"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["12V-W5W"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"90, 371, 11","shape":"circle"},[]]]]]],["repere",{"rep":"51"},[["pr",{"codesi":"002562","ref":"0000634087","refpg":"6340 87"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CVX)(@BK)(B0H49)}"]],["obsligne",{"ident":"L1457611"},[]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"384, 339, 11","shape":"circle"},[]]]]]]]]]]}

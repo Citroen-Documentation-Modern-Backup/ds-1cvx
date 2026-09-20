@@ -1,18 +1,1 @@
-{
- "ref": "026901330065",
- "refDisplay": "0269 01 330065",
- "title": "BOITE DE VITESSES MECANIQUE",
- "nature": "",
- "applicability": "GAZOLE ET 2,088L ET TURBO",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"026901330065","refDisplay":"0269 01 330065","title":"BOITE DE VITESSES MECANIQUE","nature":"","applicability":"GAZOLE ET 2,088L ET TURBO","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CVX)(DCD06)(%B0F5VA)(DAZ09)}","tree":["document",{},[["thesaurus",{"type":"10","code":"009390"},[]],["thesaurus",{"type":"10","code":"009391"},[]],["thesaurus",{"type":"22","code":"P0007073"},[]],["thesaurus",{"type":"21","code":"L1449080"},[]],["thesaurus",{"type":"21","code":"L1449078"},[]],["mpr",{"catal":"0269","grp":"67","grp2":"01","maj":"20111022","numfich":"330065"},[["appl",{},["{(?1CVX)(DCD06)(%B0F5VA)(DAZ09)}"]],["sti",{"ident":"NL330001"},[]],["obspage",{"ident":"P0007073"},[]],["img",{"numfich":"p3300650","path":"/img/pr/50/p330/p3300650.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"009390","obsnfp":"NFP","ref":"00002222H5","refpg":"2222 H5"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]],["obsligne",{"ident":"L1449080"},[]]]],["descomp",{},[["lib",{"langue":"01"},["CP(15X59)-CT(21X26)P"]]]],["reporg",{},[["monte",{},[" GM09"]],["monte",{},[" GM31"]],["monte",{},["(GM38)"]],["monte",{},[" GM38"]],["monte",{},[" GM03"]],["monte",{},["(GM31)"]]]]]],["pr",{"codesi":"009391","obsnfp":"NFP","ref":"00002201V8","refpg":"2201 V8"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)/($,,1,05368)/(~2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 15X59 - CT 20X25"]]]],["reporg",{},[["monte",{},[" GM03"]],["monte",{},["(GMK3)"]],["monte",{},[" GM04"]],["monte",{},[" GMK3"]]]]]],["pr",{"codesi":"009391","obsnfp":"NFP","ref":"00002223FV","refpg":"2223 FV"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)/($1,05369,,)/(~2)}"]],["obsligne",{"ident":"L1449078"},[]]]],["descomp",{},[["lib",{"langue":"01"},["CP(15X59)-CT 21X26P"]]]],["reporg",{},[["monte",{},["GM09"]],["monte",{},["GMC1"]],["monte",{},["GMK3"]],["monte",{},["(GMC8)"]],["monte",{},["GMK9"]],["monte",{},["GMC8"]],["monte",{},["(GMC1)"]],["monte",{},["GM03"]],["monte",{},["GM31"]],["monte",{},["GM38"]]]]]]]]]]]]}

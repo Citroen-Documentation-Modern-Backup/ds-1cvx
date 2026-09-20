@@ -1,18 +1,1 @@
-{
- "ref": "026901322501",
- "refDisplay": "0269 01 322501",
- "title": "CONVERTISSEUR",
- "nature": "",
- "applicability": "BVA ET 4HP18",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0016"
-  }
- ]
-}
+{"ref":"026901322501","refDisplay":"0269 01 322501","title":"CONVERTISSEUR","nature":"","applicability":"BVA ET 4HP18","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0016"}],"kind":"pr","appl":"{(?1CVX)(@BVA)(%4HP18)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000197"},[]],["mpr",{"catal":"0269","grp":"63","grp2":"01","maj":"20111022","numfich":"322501"},[["appl",{},["{(?1CVX)(@BVA)(%4HP18)}"]],["sti",{"ident":"T0087999"},[]],["img",{"numfich":"p3225010","path":"/img/pr/10/p322/p3225010.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000197","obsnfp":"NFP","ref":"00002004A4","refpg":"2004 A4"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(%INJ)(%XU10J2)}"]]]],["reporg",{},[["monte",{},["I9"]]]]]],["pr",{"codesi":"000197","obsnfp":"NFP","ref":"00002004J1","refpg":"2004 J1"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(%INJ)(B0F2K)}"]]]],["reporg",{},[["monte",{},[" J14"]]]]]],["pr",{"codesi":"000197","obsnfp":"NFP","ref":"00002004A5","refpg":"2004 A5"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(%INJ)(%ZPJ)}"]]]],["reporg",{},[["monte",{},["D9"]]]]]],["pr",{"codesi":"000197","obsnfp":"NFP","ref":"00002004C4","refpg":"2004 C4"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(%DIESEL)(%D11ATE)}"]]]],["reporg",{},[["monte",{},["L10"]]]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "026906175608",
- "refDisplay": "0269 06 175608",
- "title": "BOITIER SONDE TEMPERATURE ECHAPP",
- "nature": "",
- "applicability": "ESSENCE ET 24SOUPAPES",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0012"
-  }
- ]
-}
+{"ref":"026906175608","refDisplay":"0269 06 175608","title":"BOITIER SONDE TEMPERATURE ECHAPP","nature":"","applicability":"ESSENCE ET 24SOUPAPES","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0012"}],"kind":"pr","appl":"{(?1CVX)(DCD10)(%24S)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000627"},[]],["thesaurus",{"type":"10","code":"004662"},[]],["thesaurus",{"type":"21","code":"L1458757"},[]],["thesaurus",{"type":"21","code":"L1458758"},[]],["mpr",{"catal":"0269","grp":"54","grp2":"06","maj":"20111022","numfich":"175608"},[["appl",{},["{(?1CVX)(DCD10)(%24S)}"]],["sti",{"ident":"T0088483"},[]],["img",{"numfich":"p1756080","path":"/img/pr/80/p175/p1756080.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000627","obsnfp":"NFP","ref":"00001628R9","refpg":"1628 R9"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVX)}"]],["obsligne",{"ident":"L1458757"},[]]]],["descomp",{},[["lib",{"langue":"01"},["LONG 1500"]]]]]],["pr",{"codesi":"000627","obsnfp":"NFP","ref":"00001628P6","refpg":"1628 P6"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)/($1,05348,,)/}"]],["obsligne",{"ident":"L1458758"},[]]]],["descomp",{},[["lib",{"langue":"01"},["LONG 800"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004662","ref":"00006980A7","refpg":"6980 A7"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["LONG 100"]]]]]]]]]]]]}

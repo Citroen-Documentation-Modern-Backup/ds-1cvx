@@ -1,18 +1,1 @@
-{
- "ref": "026901222030",
- "refDisplay": "0269 01 222030",
- "title": "POMPE A HUILE - CHAINE - CREPINE",
- "nature": "",
- "applicability": "ESSENCE ET 1,998L ET INJECTION TURBO ECHANGEUR",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0008"
-  }
- ]
-}
+{"ref":"026901222030","refDisplay":"0269 01 222030","title":"POMPE A HUILE - CHAINE - CREPINE","nature":"","applicability":"ESSENCE ET 1,998L ET INJECTION TURBO ECHANGEUR","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0008"}],"kind":"pr","appl":"{(?1CVX)(DCD10)(%B0F2KA)(DAZ06)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000823"},[]],["thesaurus",{"type":"10","code":"000088"},[]],["thesaurus",{"type":"10","code":"000797"},[]],["thesaurus",{"type":"10","code":"000749"},[]],["thesaurus",{"type":"10","code":"000161"},[]],["thesaurus",{"type":"10","code":"000178"},[]],["thesaurus",{"type":"10","code":"008006"},[]],["thesaurus",{"type":"10","code":"000532"},[]],["thesaurus",{"type":"10","code":"008588"},[]],["mpr",{"catal":"0269","grp":"17","grp2":"01","maj":"20111022","numfich":"222030"},[["appl",{},["{(?1CVX)(DCD10)(%B0F2KA)(DAZ06)}"]],["sti",{"ident":"T0087954"},[]],["img",{"numfich":"p2220300","path":"/img/pr/00/p222/p2220300.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000823","ref":"0000100166","refpg":"1001 66"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000088","ref":"0000016393","refpg":"0163 93"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 16X150"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"000797","ref":"0000113313","refpg":"1133 13"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 16X25"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"000749","ref":"0000115711","refpg":"1157 11"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["6 BARS"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"000161","ref":"0000103306","refpg":"1033 06"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["prremp",{"coef":"01","palges":"P","ref":"0000103319","refpg":"1033 19"},[]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"000178","obsnfp":"NFP","ref":"0000104712","refpg":"1047 12"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)[(%DRE10)]}"]]]]]],["pr",{"codesi":"000178","obsnfp":"NFP","ref":"0000104713","refpg":"1047 13"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(%DRE10)}"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"000178","ref":"0000104708","refpg":"1047 08"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"09"},[["pr",{"codesi":"008006","ref":"0000101112","refpg":"1011 12"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 7X100-85"]]]]]]]],["repere",{"rep":"10"},[["pr",{"codesi":"000532","ref":"0000101111","refpg":"1011 11"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 7X100-70"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"008006","ref":"0000692297","refpg":"6922 97"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-20"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"008006","ref":"00006922H3","refpg":"6922 H3"},[["pmont",{"coef":"06"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-25"]]]]]]]],["repere",{"rep":"33"},[["pr",{"codesi":"008588","ref":"0000696204","refpg":"6962 04"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["6X12,2-0,5"]]]]]]]]]]]]}

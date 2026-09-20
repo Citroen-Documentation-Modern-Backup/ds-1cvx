@@ -1,18 +1,1 @@
-{
- "ref": "026901114315",
- "refDisplay": "0269 01 114315",
- "title": "CARTER DE DISTRIBUTION BOUCHONS",
- "nature": "",
- "applicability": "ESSENCE ET 1,998L ET INJ MONOPOINT ET INJECTION ET INJECTION TURBO ECHANGEUR",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0007"
-  }
- ]
-}
+{"ref":"026901114315","refDisplay":"0269 01 114315","title":"CARTER DE DISTRIBUTION BOUCHONS","nature":"","applicability":"ESSENCE ET 1,998L ET INJ MONOPOINT ET INJECTION ET INJECTION TURBO ECHANGEUR","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0007"}],"kind":"pr","appl":"{(?1CVX)(DCD10)(B0F5T)(%DAZ07)(DAZ04)(DAZ06)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000150"},[]],["thesaurus",{"type":"10","code":"004682"},[]],["thesaurus",{"type":"10","code":"008006"},[]],["thesaurus",{"type":"10","code":"004675"},[]],["thesaurus",{"type":"10","code":"008588"},[]],["mpr",{"catal":"0269","grp":"14","grp2":"01","maj":"20111022","numfich":"114315"},[["appl",{},["{(?1CVX)(DCD10)(B0F5T)(%DAZ07)(DAZ04)(DAZ06)}"]],["sti",{"ident":"T0087903"},[]],["img",{"numfich":"p1143150","path":"/img/pr/50/p114/p1143150.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000150","obsnfp":"NFP","ref":"00000320E6","refpg":"0320 E6"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["SUP"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000150","obsnfp":"NFP","ref":"0000032097","refpg":"0320 97"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["INF"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"004682","ref":"00006913F6","refpg":"6913 F6"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-25"]]]],["prremp",{"coef":"01","palges":"P","ref":"00006913N8","refpg":"6913 N8"},[]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"008006","ref":"00006922G1","refpg":"6922 G1"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X125-70"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"004675","obsnfp":"NFP","ref":"0000692296","refpg":"6922 96"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 10X125-70"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"008588","ref":"0000696299","refpg":"6962 99"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["6X12-1,7"]]]]]]]]]]]]}

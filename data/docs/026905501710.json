@@ -1,18 +1,1 @@
-{
- "ref": "026905501710",
- "refDisplay": "0269 05 501710",
- "title": "FAISCEAU D’USURE DE FREINS ABS/ABR",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0308"
-  }
- ]
-}
+{"ref":"026905501710","refDisplay":"0269 05 501710","title":"FAISCEAU D’USURE DE FREINS ABS/ABR","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0308"}],"kind":"pr","appl":"{(?1CVX)}","tree":["document",{},[["thesaurus",{"type":"10","code":"006059"},[]],["thesaurus",{"type":"10","code":"004647"},[]],["thesaurus",{"type":"21","code":"L1456688"},[]],["mpr",{"catal":"0269","grp":"519","grp2":"05","maj":"20111022","numfich":"501710"},[["appl",{},["{(?1CVX)}"]],["sti",{"ident":"T0088368"},[]],["img",{"numfich":"p5017100","path":"/img/pr/00/p501/p5017100.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"006059","obsnfp":"NFP","ref":"95638173","refpg":"95 638 173"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVX)/($,,1,05732)/}"]],["obsligne",{"ident":"L1456688"},[]]]]]],["pr",{"codesi":"006059","obsnfp":"NFP","ref":"96161677","refpg":"96 161 677"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVX)/($1,05733,,)/}"]]]]]],["pr",{"codesi":"006059","obsnfp":"NFP","ref":"96161677","refpg":"96 161 677"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004647","ref":"0000699508","refpg":"6995 08"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["L=6,2X12,2"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"004647","ref":"0000699545","refpg":"6995 45"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8"]]]]]]]]]]]]}

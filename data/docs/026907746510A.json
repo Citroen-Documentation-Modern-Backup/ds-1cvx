@@ -1,18 +1,1 @@
-{
- "ref": "026907746510A",
- "refDisplay": "0269 07 746510A",
- "title": "PIED MILIEU",
- "nature": "",
- "applicability": "BREAK 5PTES DEPUIS OPR 05745",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0128"
-  }
- ]
-}
+{"ref":"026907746510A","refDisplay":"0269 07 746510A","title":"PIED MILIEU","nature":"","applicability":"BREAK 5PTES DEPUIS OPR 05745","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0128"}],"kind":"pr","appl":"{(?1CVX)(%BK5)/($1,05745,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"004525"},[]],["thesaurus",{"type":"13","code":"G"},[]],["thesaurus",{"type":"13","code":"D"},[]],["mpr",{"catal":"0269","grp":"343","grp2":"07","maj":"20111022","numfich":"746510A"},[["appl",{},["{(?1CVX)(%BK5)/($1,05745,,)/}"]],["sti",{"ident":"NL746501"},[]],["img",{"numfich":"p746510a","path":"/img/pr/0a/p746/p746510a.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"004525","cote":"G","obsnfp":"NFP","ref":"95645457","refpg":"95 645 457"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["SUP"]]]]]],["pr",{"codesi":"004525","cote":"D","obsnfp":"NFP","ref":"95645456","refpg":"95 645 456"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["SUP"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"004525","cote":"G","obsnfp":"NFP","ref":"95639246","refpg":"95 639 246"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)/($,,1,06163)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["INF"]]]]]],["pr",{"codesi":"004525","cote":"G","obsnfp":"NFP","ref":"0000901976","refpg":"9019 76"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)/($1,06164,,)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["INF"]]]]]],["pr",{"codesi":"004525","cote":"D","obsnfp":"NFP","ref":"95639245","refpg":"95 639 245"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)/($,,1,06163)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["INF"]]]]]],["pr",{"codesi":"004525","cote":"D","obsnfp":"NFP","ref":"0000901977","refpg":"9019 77"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)/($1,06164,,)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["INF"]]]]]]]]]]]]}

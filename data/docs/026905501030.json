@@ -1,18 +1,1 @@
-{
- "ref": "026905501030",
- "refDisplay": "0269 05 501030",
- "title": "FAISCEAUX COMPLEMENTAIRES AV",
- "nature": "",
- "applicability": "(S) SUEDE ET (N) NORVEGE ET (SF) FINLANDE ET (DK) DANEMARK",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0308"
-  }
- ]
-}
+{"ref":"026905501030","refDisplay":"0269 05 501030","title":"FAISCEAUX COMPLEMENTAIRES AV","nature":"","applicability":"(S) SUEDE ET (N) NORVEGE ET (SF) FINLANDE ET (DK) DANEMARK","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0308"}],"kind":"pr","appl":"{(?1CVX)(B0H09)(B0H08)(B0H07)(B0H15)}","tree":["document",{},[["thesaurus",{"type":"10","code":"005242"},[]],["thesaurus",{"type":"10","code":"016900"},[]],["thesaurus",{"type":"10","code":"004647"},[]],["mpr",{"catal":"0269","grp":"512","grp2":"05","maj":"20111022","numfich":"501030"},[["appl",{},["{(?1CVX)(B0H09)(B0H08)(B0H07)(B0H15)}"]],["sti",{"ident":"T0088313"},[]],["enssup",{},[["refd",{},["GICLEURS"]]]],["img",{"numfich":"p5010300","path":"/img/pr/00/p501/p5010300.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"005242","obsnfp":"NFP","ref":"96132810","refpg":"96 132 810"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(B0F3D)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(B0F3E)(%24S)}"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"016900","ref":"0000699514","refpg":"6995 14"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 10"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"004647","ref":"00006992A8","refpg":"6992 A8"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["1,5-3--6,5"]]]]]]]]]]]]}

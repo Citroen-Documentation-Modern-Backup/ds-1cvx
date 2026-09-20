@@ -1,18 +1,1 @@
-{
- "ref": "026907008510",
- "refDisplay": "0269 07 008510",
- "title": "ARCS DE PAVILLON",
- "nature": "",
- "applicability": "BERLINE 5PTES",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0144"
-  }
- ]
-}
+{"ref":"026907008510","refDisplay":"0269 07 008510","title":"ARCS DE PAVILLON","nature":"","applicability":"BERLINE 5PTES","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0144"}],"kind":"pr","appl":"{(?1CVX)(B0DA5)}","tree":["document",{},[["thesaurus",{"type":"10","code":"003675"},[]],["thesaurus",{"type":"10","code":"005406"},[]],["thesaurus",{"type":"13","code":"G"},[]],["thesaurus",{"type":"13","code":"D"},[]],["mpr",{"catal":"0269","grp":"372","grp2":"07","maj":"20111022","numfich":"008510"},[["appl",{},["{(?1CVX)(B0DA5)}"]],["sti",{"ident":"T0088582"},[]],["img",{"numfich":"00051343","path":"/img/pr/43/0005/00051343.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"003675","cote":"G","obsnfp":"NFP","ref":"95639286","refpg":"95 639 286"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]],["pr",{"codesi":"003675","cote":"D","obsnfp":"NFP","ref":"95639285","refpg":"95 639 285"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"140, 351, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"003675","cote":"G","obsnfp":"NFP","ref":"96019343","refpg":"96 019 343"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]],["pr",{"codesi":"003675","cote":"D","obsnfp":"NFP","ref":"96019342","refpg":"96 019 342"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"262, 380, 11","shape":"circle"},[]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"005406","cote":"G","obsnfp":"NFP","ref":"95256520","refpg":"95 256 520"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]],["pr",{"codesi":"005406","cote":"D","obsnfp":"NFP","ref":"95256519","refpg":"95 256 519"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"34, 336, 11","shape":"circle"},[]]]]]]]]]]}

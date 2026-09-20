@@ -1,18 +1,1 @@
-{
- "ref": "026901114330",
- "refDisplay": "0269 01 114330",
- "title": "CARTER DE DISTRIBUTION BOUCHONS",
- "nature": "",
- "applicability": "GAZOLE ET 2,088L ET TURBO",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0007"
-  }
- ]
-}
+{"ref":"026901114330","refDisplay":"0269 01 114330","title":"CARTER DE DISTRIBUTION BOUCHONS","nature":"","applicability":"GAZOLE ET 2,088L ET TURBO","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0007"}],"kind":"pr","appl":"{(?1CVX)(DCD06)(%B0F5VA)(DAZ09)}","tree":["document",{},[["thesaurus",{"type":"10","code":"001514"},[]],["thesaurus",{"type":"10","code":"004675"},[]],["thesaurus",{"type":"10","code":"008588"},[]],["thesaurus",{"type":"10","code":"004670"},[]],["thesaurus",{"type":"13","code":"D"},[]],["mpr",{"catal":"0269","grp":"14","grp2":"01","maj":"20111022","numfich":"114330"},[["appl",{},["{(?1CVX)(DCD06)(%B0F5VA)(DAZ09)}"]],["sti",{"ident":"T0087906"},[]],["img",{"numfich":"p1143300","path":"/img/pr/00/p114/p1143300.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001514","ref":"00000320A1","refpg":"0320 A1"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["SUP"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"001514","ref":"00000320N0","refpg":"0320 N0"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["INF"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"001514","cote":"D","ref":"00000320A4","refpg":"0320 A4"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"004675","ref":"0000690139","refpg":"6901 39"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-60"]]]],["prremp",{"coef":"01","palges":"P","ref":"0000691858","refpg":"6918 58"},[]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"004675","ref":"0000692203","refpg":"6922 03"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-30"]]]],["prremp",{"coef":"01","palges":"P","ref":"0000692153","refpg":"6921 53"},[]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"004675","ref":"0000692120","refpg":"6921 20"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8X125-60"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"008588","ref":"0000696299","refpg":"6962 99"},[["pmont",{"coef":"05"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["6X12-1,7"]]]]]]]],["repere",{"rep":"08"},[["pr",{"codesi":"004670","ref":"7903058019","refpg":"79 03 058 019"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X16-1,4"]]]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "026905501015",
- "refDisplay": "0269 05 501015",
- "title": "FAISCEAUX COMPLEMENTAIRES AV",
- "nature": "",
- "applicability": "REGULATION VITESSE ET BVA",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0308"
-  }
- ]
-}
+{"ref":"026905501015","refDisplay":"0269 05 501015","title":"FAISCEAUX COMPLEMENTAIRES AV","nature":"","applicability":"REGULATION VITESSE ET BVA","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0308"}],"kind":"pr","appl":"{(?1CVX)(DRG01)(@BVA)}","tree":["document",{},[["thesaurus",{"type":"10","code":"005242"},[]],["thesaurus",{"type":"10","code":"004647"},[]],["thesaurus",{"type":"10","code":"006400"},[]],["thesaurus",{"type":"21","code":"L1455846"},[]],["mpr",{"catal":"0269","grp":"512","grp2":"05","maj":"20111022","numfich":"501015"},[["appl",{},["{(?1CVX)(DRG01)(@BVA)}"]],["sti",{"ident":"T0088311"},[]],["img",{"numfich":"p5010150","path":"/img/pr/50/p501/p5010150.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"005242","obsnfp":"NFP","ref":"96079028","refpg":"96 079 028"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]],["obsligne",{"ident":"L1455846"},[]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004647","ref":"00006995CX","refpg":"6995 CX"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 15-25"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"004647","ref":"00006992H3","refpg":"6992 H3"},[["pmont",{"coef":"06"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 11-18"]]]]]]]],["repere",{"rep":"32"},[["pr",{"codesi":"006400","obsnfp":"NFP","ref":"95499132","refpg":"95 499 132"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["2T 14-11 L 46"]]]]]]]]]]]]}

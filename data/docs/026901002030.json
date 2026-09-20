@@ -1,18 +1,1 @@
-{
- "ref": "026901002030",
- "refDisplay": "0269 01 002030",
- "title": "ENSEMBLE MOTEUR",
- "nature": "",
- "applicability": "ESSENCE ET 1,998L ET INJECTION TURBO ECHANGEUR",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0049"
-  }
- ]
-}
+{"ref":"026901002030","refDisplay":"0269 01 002030","title":"ENSEMBLE MOTEUR","nature":"","applicability":"ESSENCE ET 1,998L ET INJECTION TURBO ECHANGEUR","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0049"}],"kind":"pr","appl":"{(?1CVX)(DCD10)(%B0F2KA)(DAZ06)}","tree":["document",{},[["thesaurus",{"type":"10","code":"013644"},[]],["thesaurus",{"type":"10","code":"013646"},[]],["thesaurus",{"type":"22","code":"P0007050"},[]],["mpr",{"catal":"0269","grp":"4","grp2":"01","maj":"20111022","numfich":"002030"},[["appl",{},["{(?1CVX)(DCD10)(%B0F2KA)(DAZ06)}"]],["sti",{"ident":"T0087883"},[]],["obspage",{"ident":"P0007050"},[]],["img",{"numfich":"00031813","path":"/img/pr/13/0003/00031813.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"013644","obsnfp":"NFP","ref":"00000135S3","refpg":"0135 S3"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(@BVM)/($,,1,06306)/}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(@BVA)}"]]]],["descomp",{},[["lib",{"langue":"01"},["REP RGY"]]]],["reporg",{},[["monte",{},["RGY"]]]]]],["pr",{"codesi":"013646","obsnfp":"NFP","ref":"00000139G2","refpg":"0139 G2"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(@BVM)/($,,1,06306)/(~2)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(@BVA)(~2)}"]]]],["reporg",{},[["monte",{},["(RGY)"]],["monte",{},["RGY"]]]]]],["pr",{"codesi":"013644","obsnfp":"NFP","ref":"00000135Y7","refpg":"0135 Y7"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(@BVM)/($1,06307,,)/}"]]]],["reporg",{},[["monte",{},["RGY"]],["monte",{},["RGX"]]]]]],["pr",{"codesi":"013646","obsnfp":"NFP","ref":"00000139P4","refpg":"0139 P4"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(@BVM)(~2)}"]]]],["reporg",{},[["monte",{},["(RGX)"]],["monte",{},["RGY"]],["monte",{},["RGX"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"313, 94, 11","shape":"circle"},[]]]]]]]]]]}

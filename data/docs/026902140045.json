@@ -1,18 +1,1 @@
-{
- "ref": "026902140045",
- "refDisplay": "0269 02 140045",
- "title": "INJECTEURS - FAISCEAU INJECTION",
- "nature": "",
- "applicability": "ESSENCE ET 1,998L ET INJECTION TURBO ECHANGEUR",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0010"
-  }
- ]
-}
+{"ref":"026902140045","refDisplay":"0269 02 140045","title":"INJECTEURS - FAISCEAU INJECTION","nature":"","applicability":"ESSENCE ET 1,998L ET INJECTION TURBO ECHANGEUR","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0010"}],"kind":"pr","appl":"{(?1CVX)(DCD10)(%B0F2KA)(DAZ06)}","tree":["document",{},[["thesaurus",{"type":"10","code":"011684"},[]],["thesaurus",{"type":"10","code":"000180"},[]],["thesaurus",{"type":"10","code":"000444"},[]],["thesaurus",{"type":"10","code":"000715"},[]],["thesaurus",{"type":"10","code":"000721"},[]],["thesaurus",{"type":"10","code":"005366"},[]],["thesaurus",{"type":"10","code":"000689"},[]],["thesaurus",{"type":"10","code":"008006"},[]],["thesaurus",{"type":"10","code":"004650"},[]],["mpr",{"catal":"0269","grp":"35","grp2":"02","maj":"20111022","numfich":"140045"},[["appl",{},["{(?1CVX)(DCD10)(%B0F2KA)(DAZ06)}"]],["sti",{"ident":"T0088113"},[]],["img",{"numfich":"p1400450","path":"/img/pr/50/p140/p1400450.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"011684","obsnfp":"NFP","ref":"0000198475","refpg":"1984 75"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000180","ref":"0000198214","refpg":"1982 14"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"000444","ref":"0000198125","refpg":"1981 25"},[["pmont",{"coef":"08"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 7,8X3,6"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"000715","obsnfp":"NFP","ref":"0000157068","refpg":"1570 68"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"000721","ref":"0000198505","refpg":"1985 05"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["3 BARS"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"005366","ref":"0000198506","refpg":"1985 06"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"000689","ref":"0000595306","refpg":"5953 06"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CL 3,5X8-5000"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"008006","ref":"0000692297","refpg":"6922 97"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-20"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"004650","ref":"00006981N1","refpg":"6981 N1"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 12 A 22 LARG 9"]]]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "026901231030",
- "refDisplay": "0269 01 231030",
- "title": "POMPE A EAU JOINT COLLECTEUR EAU",
- "nature": "",
- "applicability": "ESSENCE ET 1,998L ET INJECTION TURBO ECHANGEUR",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0009"
-  }
- ]
-}
+{"ref":"026901231030","refDisplay":"0269 01 231030","title":"POMPE A EAU JOINT COLLECTEUR EAU","nature":"","applicability":"ESSENCE ET 1,998L ET INJECTION TURBO ECHANGEUR","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0009"}],"kind":"pr","appl":"{(?1CVX)(DCD10)(%B0F2KA)(DAZ06)}","tree":["document",{},[["thesaurus",{"type":"7","code":"A005-"},[]],["thesaurus",{"type":"10","code":"000821"},[]],["thesaurus",{"type":"10","code":"014194"},[]],["thesaurus",{"type":"10","code":"015838"},[]],["thesaurus",{"type":"10","code":"000455"},[]],["thesaurus",{"type":"10","code":"000185"},[]],["thesaurus",{"type":"10","code":"000393"},[]],["thesaurus",{"type":"10","code":"004675"},[]],["thesaurus",{"type":"10","code":"008699"},[]],["thesaurus",{"type":"21","code":"L1448743"},[]],["mpr",{"catal":"0269","grp":"20","grp2":"01","maj":"20111207","numfich":"231030"},[["appl",{},["{(?1CVX)(DCD10)(%B0F2KA)(DAZ06)}"]],["sti",{"ident":"T0087982"},[]],["img",{"numfich":"p2310300","path":"/img/pr/00/p231/p2310300.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000821","ref":"0000120191","refpg":"1201 91"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 70"]]]]]],["pr",{"codesi":"014194","obsnfp":"NFP","ref":"E111028","refpg":"E111028","typecommercial":"EUROREPAR"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(B0F5T)(DAZ04)}"]]]]]],["pr",{"codesi":"014194","ref":"E111247","refpg":"E111247","typecommercial":"EUROREPAR"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(B0F5T)(DAZ04)}"]]]],["prremp",{"coef":"01","palges":"P","ref":"E111499","refpg":"E111499"},[]]]],["pr",{"codesi":"015838","ref":"VWP416","refpg":"VWP416","typecommercial":"MOTAQUIP"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(B0F5T)(DAZ04)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000455","ref":"00001206A4","refpg":"1206 A4"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"000185","obsnfp":"NFP","ref":"00001336A9","refpg":"1336 A9"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"000393","ref":"0000133960","refpg":"1339 60"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]],["complpr",{"matiere":"A005-"},[]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004675","ref":"0000691536","refpg":"6915 36"},[["pmont",{"coef":"05"},[["appl",{},["{(?1CVX)}"]],["obsligne",{"ident":"L1448743"},[]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 7X100-20"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"008699","ref":"00006913V3","refpg":"6913 V3"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8X125-30"]]]],["prremp",{"coef":"01","palges":"P","ref":"0000691396","refpg":"6913 96"},[]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "026903416401",
- "refDisplay": "0269 03 416401",
- "title": "MASSES EQUILIBRAGE",
- "nature": "",
- "applicability": "MONTAGE ROUE TOLE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0023"
-  }
- ]
-}
+{"ref":"026903416401","refDisplay":"0269 03 416401","title":"MASSES EQUILIBRAGE","nature":"","applicability":"MONTAGE ROUE TOLE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0023"}],"kind":"pr","appl":"{(?1CVX)(%MONTRT)}","tree":["document",{},[["thesaurus",{"type":"10","code":"002128"},[]],["mpr",{"catal":"0269","grp":"142","grp2":"03","maj":"20111022","numfich":"416401"},[["appl",{},["{(?1CVX)(%MONTRT)}"]],["sti",{"ident":"T0088275"},[]],["img",{"numfich":"p4164010","path":"/img/pr/10/p416/p4164010.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"002128","ref":"00005435J6","refpg":"5435 J6"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["10 G"]]]]]],["pr",{"codesi":"002128","ref":"00005435J8","refpg":"5435 J8"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["20 G"]]]]]],["pr",{"codesi":"002128","ref":"00005435K0","refpg":"5435 K0"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["30 G"]]]]]],["pr",{"codesi":"002128","ref":"00005435K2","refpg":"5435 K2"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["40 G"]]]]]],["pr",{"codesi":"002128","ref":"00005435K4","refpg":"5435 K4"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["50 G"]]]]]],["pr",{"codesi":"002128","ref":"00005435K6","refpg":"5435 K6"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["60 G"]]]]]]]]]]]]}

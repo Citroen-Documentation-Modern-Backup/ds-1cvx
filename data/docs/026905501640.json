@@ -1,18 +1,1 @@
-{
- "ref": "026905501640",
- "refDisplay": "0269 05 501640",
- "title": "FAISCEAU SUSPENSION DIRECTION",
- "nature": "",
- "applicability": "MONTAGE MULTIPLEXE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0308"
-  }
- ]
-}
+{"ref":"026905501640","refDisplay":"0269 05 501640","title":"FAISCEAU SUSPENSION DIRECTION","nature":"","applicability":"MONTAGE MULTIPLEXE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0308"}],"kind":"pr","appl":"{(?1CVX)(%MUX)}","tree":["document",{},[["thesaurus",{"type":"10","code":"008047"},[]],["thesaurus",{"type":"10","code":"013261"},[]],["mpr",{"catal":"0269","grp":"518","grp2":"05","maj":"20111022","numfich":"501640"},[["appl",{},["{(?1CVX)(%MUX)}"]],["sti",{"ident":"T0088367"},[]],["img",{"numfich":"p5016400","path":"/img/pr/00/p501/p5016400.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"008047","obsnfp":"NFP","ref":"00006526G6","refpg":"6526 G6"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"013261","obsnfp":"NFP","ref":"95604802","refpg":"95 604 802"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["LONG 300"]]]]]]]]]]]]}

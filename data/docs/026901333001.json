@@ -1,18 +1,1 @@
-{
- "ref": "026901333001",
- "refDisplay": "0269 01 333001",
- "title": "REFROIDISSEMENT D’HUILE",
- "nature": "",
- "applicability": "BVA ET 4HP18",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"026901333001","refDisplay":"0269 01 333001","title":"REFROIDISSEMENT D’HUILE","nature":"","applicability":"BVA ET 4HP18","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CVX)(@BVA)(%4HP18)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000257"},[]],["thesaurus",{"type":"10","code":"000446"},[]],["thesaurus",{"type":"10","code":"010550"},[]],["thesaurus",{"type":"10","code":"010141"},[]],["mpr",{"catal":"0269","grp":"100","grp2":"01","maj":"20111022","numfich":"333001"},[["appl",{},["{(?1CVX)(@BVA)(%4HP18)}"]],["sti",{"ident":"T0088033"},[]],["img",{"numfich":"p3330010","path":"/img/pr/10/p333/p3330010.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000257","obsnfp":"NFP","ref":"0000227540","refpg":"2275 40"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000446","obsnfp":"NFP","ref":"0000227524","refpg":"2275 24"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["67,06X73,42-3,64"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"000446","obsnfp":"NFP","ref":"0000227525","refpg":"2275 25"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["21,59X27,95-3,64"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"010550","obsnfp":"NFP","ref":"0000227527","refpg":"2275 27"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["20X26-1,5"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"010141","obsnfp":"NFP","ref":"0000228414","refpg":"2284 14"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 20X150-82"]]]]]]]]]]]]}

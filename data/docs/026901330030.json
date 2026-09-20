@@ -1,18 +1,1 @@
-{
- "ref": "026901330030",
- "refDisplay": "0269 01 330030",
- "title": "BOITE DE VITESSES MECANIQUE",
- "nature": "",
- "applicability": "INJECTION ET XU10J2 ET BE3/5NKG ET CT22X18 ET BREAK",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"026901330030","refDisplay":"0269 01 330030","title":"BOITE DE VITESSES MECANIQUE","nature":"","applicability":"INJECTION ET XU10J2 ET BE3/5NKG ET CT22X18 ET BREAK","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CVX)(%INJ)(%XU10J2)(%BE3NKG)(%T22X18)(@BK)}","tree":["document",{},[["thesaurus",{"type":"10","code":"009390"},[]],["thesaurus",{"type":"10","code":"000048"},[]],["mpr",{"catal":"0269","grp":"67","grp2":"01","maj":"20111022","numfich":"330030"},[["appl",{},["{(?1CVX)(%INJ)(%XU10J2)(%BE3NKG)(%T22X18)(@BK)}"]],["sti",{"ident":"NL330001"},[]],["img",{"numfich":"p3300300","path":"/img/pr/00/p330/p3300300.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"009390","obsnfp":"NFP","ref":"00002200NY","refpg":"2200 NY"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(%DPL32)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP14X62"]]]],["reporg",{},[["monte",{},["(CM1E)"]],["monte",{},[" CM15"]],["monte",{},[" CJ87"]]]]]],["pr",{"codesi":"000048","obsnfp":"NFP","ref":"00002201AY","refpg":"2201 AY"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(%DPL32)(~2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP14X62"]]]],["reporg",{},[["monte",{},["(CMAE)"]],["monte",{},[" CM15"]],["monte",{},[" CJ87"]],["monte",{},[" CMA5"]]]]]]]]]]]]}

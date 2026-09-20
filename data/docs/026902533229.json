@@ -1,18 +1,1 @@
-{
- "ref": "026902533229",
- "refDisplay": "0269 02 533229",
- "title": "DEMARREUR - DETAILS",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0302"
-  }
- ]
-}
+{"ref":"026902533229","refDisplay":"0269 02 533229","title":"DEMARREUR - DETAILS","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0302"}],"kind":"pr","appl":"{(?1CVX)}","tree":["document",{},[["thesaurus",{"type":"10","code":"002275"},[]],["thesaurus",{"type":"10","code":"002049"},[]],["thesaurus",{"type":"10","code":"006271"},[]],["thesaurus",{"type":"10","code":"002074"},[]],["thesaurus",{"type":"10","code":"002073"},[]],["thesaurus",{"type":"10","code":"002175"},[]],["mpr",{"catal":"0269","grp":"492","grp2":"02","maj":"20111022","numfich":"533229"},[["appl",{},["{(?1CVX)}"]],["sti",{"ident":"NL533201"},[]],["enssup",{},[["fourn",{},["22969R"]],["refd",{},["0 001 108 138"]]]],["img",{"numfich":"p5332290","path":"/img/pr/90/p533/p5332290.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"002275","obsnfp":"NFP","ref":"0000583656","refpg":"5836 56"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"002049","obsnfp":"NFP","ref":"0000585574","refpg":"5855 74"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"006271","obsnfp":"NFP","ref":"0000581711","refpg":"5817 11"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"002074","obsnfp":"NFP","ref":"00005821E3","refpg":"5821 E3"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"002073","obsnfp":"NFP","ref":"00005820A5","refpg":"5820 A5"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"002175","ref":"00005825C5","refpg":"5825 C5"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]]]]]]}

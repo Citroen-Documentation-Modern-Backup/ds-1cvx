@@ -1,18 +1,1 @@
-{
- "ref": "026903416150",
- "refDisplay": "0269 03 416150",
- "title": "ENJOLIVEUR ROUE CABOCHON",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0023"
-  }
- ]
-}
+{"ref":"026903416150","refDisplay":"0269 03 416150","title":"ENJOLIVEUR ROUE CABOCHON","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0023"}],"kind":"pr","appl":"{(?1CVX)}","tree":["document",{},[["thesaurus",{"type":"10","code":"002007"},[]],["mpr",{"catal":"0269","grp":"144","grp2":"03","maj":"20111022","numfich":"416150"},[["appl",{},["{(?1CVX)}"]],["sti",{"ident":"T0088274"},[]],["img",{"numfich":"00051201","path":"/img/pr/01/0005/00051201.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"002007","obsnfp":"NFP","ref":"90292083","refpg":"90 292 083"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CVX)[(DAZ09)]}"]]]],["descomp",{},[["lib",{"langue":"01"},["ROUE TOLE"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"243, 29, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"002007","obsnfp":"NFP","ref":"95292734","refpg":"95 292 734"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CVX)(DAZ09)}"]]]],["descomp",{},[["lib",{"langue":"01"},["ROUE TOLE"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"421, 187, 11","shape":"circle"},[]]]]]]]]]]}

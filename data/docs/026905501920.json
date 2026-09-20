@@ -1,18 +1,1 @@
-{
- "ref": "026905501920",
- "refDisplay": "0269 05 501920",
- "title": "FAISCEAU CLIMATISEUR REFRIGERATION",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0309"
-  }
- ]
-}
+{"ref":"026905501920","refDisplay":"0269 05 501920","title":"FAISCEAU CLIMATISEUR REFRIGERATION","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0309"}],"kind":"pr","appl":"{(?1CVX)}","tree":["document",{},[["thesaurus",{"type":"10","code":"003730"},[]],["thesaurus",{"type":"21","code":"L1456983"},[]],["thesaurus",{"type":"21","code":"L1456988"},[]],["mpr",{"catal":"0269","grp":"521","grp2":"05","maj":"20111022","numfich":"501920"},[["appl",{},["{(?1CVX)}"]],["sti",{"ident":"T0088383"},[]],["img",{"numfich":"00035725","path":"/img/pr/25/0003/00035725.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"003730","obsnfp":"NFP","ref":"95653980","refpg":"95 653 980"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(DCX01)(DDK00)(DRT01)/($,,1,04832)/}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(DCX01)(DRT01)(%DRE10)/($,,1,04832)/}"]]]]]],["pr",{"codesi":"003730","obsnfp":"NFP","ref":"95659375","refpg":"95 659 375"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(DRT01)(DDK00)(DCX01)/($1,04833,,)/}"]],["obsligne",{"ident":"L1456983"},[]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(DRT01)(%DRE10)(DCX01)/($1,04833,,)/}"]]]]]],["pr",{"codesi":"003730","obsnfp":"NFP","ref":"00006445F2","refpg":"6445 F2"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(DCX01)[(DRT01)]}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"228, 433, 11","shape":"circle"},[]]]]]],["repere",{"rep":"51"},[["pr",{"codesi":"003730","obsnfp":"NFP","ref":"95653981","refpg":"95 653 981"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(DCX02)(DDK00)(DRT01)/($,,1,04832)/}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(DCX02)(DRT01)(%DRE10)}"]]]]]],["pr",{"codesi":"003730","obsnfp":"NFP","ref":"95659376","refpg":"95 659 376"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(DRT01)(DDK00)(DCX02)/($1,04833,,)/}"]],["obsligne",{"ident":"L1456988"},[]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(DRT01)(%DRE10)(DCX02)/($1,04833,,)/}"]]]]]],["pr",{"codesi":"003730","obsnfp":"NFP","ref":"00006445F3","refpg":"6445 F3"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(DCX02)[(DRT01)]}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"255, 433, 11","shape":"circle"},[]]]]]]]]]]}

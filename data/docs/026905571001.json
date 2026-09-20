@@ -1,18 +1,1 @@
-{
- "ref": "026905571001",
- "refDisplay": "0269 05 571001",
- "title": "AVERTISSEUR COMPRESSEUR",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0314"
-  }
- ]
-}
+{"ref":"026905571001","refDisplay":"0269 05 571001","title":"AVERTISSEUR COMPRESSEUR","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0314"}],"kind":"pr","appl":"{(?1CVX)}","tree":["document",{},[["thesaurus",{"type":"10","code":"002399"},[]],["thesaurus",{"type":"10","code":"002906"},[]],["thesaurus",{"type":"10","code":"008006"},[]],["thesaurus",{"type":"10","code":"006028"},[]],["thesaurus",{"type":"13","code":"G"},[]],["thesaurus",{"type":"13","code":"D"},[]],["mpr",{"catal":"0269","grp":"531","grp2":"05","maj":"20111022","numfich":"571001"},[["appl",{},["{(?1CVX)}"]],["sti",{"ident":"T0088442"},[]],["img",{"numfich":"p5710010","path":"/img/pr/10/p571/p5710010.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"002399","ref":"00006236E3","refpg":"6236 E3"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]],["pr",{"codesi":"002399","ref":"00006236E4","refpg":"6236 E4"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"002906","cote":"G","obsnfp":"NFP","ref":"96018064","refpg":"96 018 064"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]],["pr",{"codesi":"002906","cote":"D","obsnfp":"NFP","ref":"96018063","refpg":"96 018 063"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"008006","ref":"00006923G6","refpg":"6923 G6"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X125-20"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"006028","ref":"0000693680","refpg":"6936 80"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8X125-9,7-13"]]]]]]]]]]]]}

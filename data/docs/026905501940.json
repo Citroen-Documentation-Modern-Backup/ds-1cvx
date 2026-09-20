@@ -1,18 +1,1 @@
-{
- "ref": "026905501940",
- "refDisplay": "0269 05 501940",
- "title": "FAISCEAU CLIMATISEUR REFRIGERATION",
- "nature": "",
- "applicability": "REGULATION CHAUFFAGE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0309"
-  }
- ]
-}
+{"ref":"026905501940","refDisplay":"0269 05 501940","title":"FAISCEAU CLIMATISEUR REFRIGERATION","nature":"","applicability":"REGULATION CHAUFFAGE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0309"}],"kind":"pr","appl":"{(?1CVX)(DRT01)}","tree":["document",{},[["thesaurus",{"type":"10","code":"003730"},[]],["thesaurus",{"type":"10","code":"005242"},[]],["thesaurus",{"type":"22","code":"P0007157"},[]],["mpr",{"catal":"0269","grp":"521","grp2":"05","maj":"20111022","numfich":"501940"},[["appl",{},["{(?1CVX)(DRT01)}"]],["sti",{"ident":"T0088385"},[]],["obspage",{"ident":"P0007157"},[]],["img",{"numfich":"00035726","path":"/img/pr/26/0003/00035726.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"003730","obsnfp":"NFP","ref":"00006445G0","refpg":"6445 G0"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(DCX01)}"]],["reffour",{},[["four",{},["16796F02"]]]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"256, 502, 11","shape":"circle"},[]]]]]],["repere",{"rep":"51"},[["pr",{"codesi":"005242","obsnfp":"NFP","ref":"00006445G1","refpg":"6445 G1"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(DCX02)}"]],["reffour",{},[["four",{},["16796F02"]]]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"283, 502, 11","shape":"circle"},[]]]]]]]]]]}

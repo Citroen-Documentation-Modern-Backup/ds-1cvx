@@ -1,18 +1,1 @@
-{
- "ref": "026901330105",
- "refDisplay": "0269 01 330105",
- "title": "BOITE DE VITESSES AUTOMATIQUE",
- "nature": "",
- "applicability": "INJECTION ET XU10J2 ET BVA ET 4HP18",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"026901330105","refDisplay":"0269 01 330105","title":"BOITE DE VITESSES AUTOMATIQUE","nature":"","applicability":"INJECTION ET XU10J2 ET BVA ET 4HP18","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CVX)(%INJ)(%XU10J2)(@BVA)(%4HP18)}","tree":["document",{},[["thesaurus",{"type":"10","code":"009392"},[]],["thesaurus",{"type":"10","code":"009393"},[]],["thesaurus",{"type":"21","code":"L1449082"},[]],["thesaurus",{"type":"21","code":"L1449081"},[]],["mpr",{"catal":"0269","grp":"91","grp2":"01","maj":"20111022","numfich":"330105"},[["appl",{},["{(?1CVX)(%INJ)(%XU10J2)(@BVA)(%4HP18)}"]],["sti",{"ident":"NL330101"},[]],["img",{"numfich":"p3301050","path":"/img/pr/50/p330/p3301050.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"009392","obsnfp":"NFP","ref":"00002205R2","refpg":"2205 R2"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]],["obsligne",{"ident":"L1449082"},[]],["reffour",{},[["four",{},["99589Y"]]]]]],["descomp",{},[["lib",{"langue":"01"},["CP 18X77 - CD 56X55"]]]],["reporg",{},[["monte",{},["GZ8E"]],["monte",{},["GZ84"]],["monte",{},["GZ5C"]],["monte",{},["GZ95"]],["monte",{},["GZ96"]],["monte",{},["GZ85"]]]]]],["pr",{"codesi":"009393","obsnfp":"NFP","ref":"00002201VG","refpg":"2201 VG"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(~2)}"]],["obsligne",{"ident":"L1449081"},[]],["reffour",{},[["four",{},["99669K"]]]]]],["descomp",{},[["lib",{"langue":"01"},["CP 18X77 - CD 56X55"]]]],["reporg",{},[["monte",{},["GZ8E"]],["monte",{},["GZ84"]],["monte",{},["GZ5C"]],["monte",{},["GZ95"]],["monte",{},["GZ96"]],["monte",{},["GZ85"]]]]]]]]]]]]}

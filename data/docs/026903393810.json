@@ -1,18 +1,1 @@
-{
- "ref": "026903393810",
- "refDisplay": "0269 03 393810",
- "title": "CANALISATION DIRECTION ALIMENT",
- "nature": "",
- "applicability": "DIRECTION ASSISTEE ET CONDUITE A GAUCHE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0339"
-  }
- ]
-}
+{"ref":"026903393810","refDisplay":"0269 03 393810","title":"CANALISATION DIRECTION ALIMENT","nature":"","applicability":"DIRECTION ASSISTEE ET CONDUITE A GAUCHE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0339"}],"kind":"pr","appl":"{(?1CVX)(DDD02)(DCX01)}","tree":["document",{},[["thesaurus",{"type":"10","code":"001713"},[]],["thesaurus",{"type":"10","code":"011181"},[]],["thesaurus",{"type":"10","code":"001537"},[]],["thesaurus",{"type":"10","code":"003458"},[]],["thesaurus",{"type":"10","code":"001284"},[]],["mpr",{"catal":"0269","grp":"275","grp2":"03","maj":"20111022","numfich":"393810"},[["appl",{},["{(?1CVX)(DDD02)(DCX01)}"]],["sti",{"ident":"T0088216"},[]],["img",{"numfich":"p3938100","path":"/img/pr/00/p393/p3938100.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001713","obsnfp":"NFP","ref":"96069110","refpg":"96 069 110"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(B0F5T)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(DCD06)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 4,5-960"]]]]]],["pr",{"codesi":"001713","obsnfp":"NFP","ref":"96069570","refpg":"96 069 570"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(DCD06)(DAZ09)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(DCD10)(DAZ06)(%B0F2KA)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 4,5-937"]]]]]],["pr",{"codesi":"001713","obsnfp":"NFP","ref":"96074400","refpg":"96 074 400"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(B0F3D)(@BVM)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 4,5-942"]]]]]],["pr",{"codesi":"001713","obsnfp":"NFP","ref":"96069569","refpg":"96 069 569"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(@BVA)[(B0F3D)]}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 4,5-1090"]]]]]],["pr",{"codesi":"001713","obsnfp":"NFP","ref":"96091438","refpg":"96 091 438"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(B0F3D)(@BVA)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 4,5-908"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"001713","obsnfp":"NFP","ref":"0000402359","refpg":"4023 59"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"011181","ref":"000040207W","refpg":"4020 7W"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"001537","obsnfp":"NFP","ref":"96069496","refpg":"96 069 496"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)/($,,1,05609)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["1 DIAM 4,5-6,35"]]]]]],["pr",{"codesi":"003458","obsnfp":"NFP","ref":"96153495","refpg":"96 153 495"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)/($1,05610,,)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["2X2 VOIES"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"001284","ref":"96085783","refpg":"96 085 783"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["TUBE 6,35"]]]]]]]]]]]]}

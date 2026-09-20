@@ -1,18 +1,1 @@
-{
- "ref": "026907746801",
- "refDisplay": "0269 07 746801",
- "title": "CADRE TOIT OUVRANT - MOTOREDUCTEUR",
- "nature": "",
- "applicability": "TOIT OUVRANT CDE ELECT",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0149"
-  }
- ]
-}
+{"ref":"026907746801","refDisplay":"0269 07 746801","title":"CADRE TOIT OUVRANT - MOTOREDUCTEUR","nature":"","applicability":"TOIT OUVRANT CDE ELECT","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0149"}],"kind":"pr","appl":"{(?1CVX)(%DTC11)}","tree":["document",{},[["thesaurus",{"type":"10","code":"002132"},[]],["thesaurus",{"type":"10","code":"003883"},[]],["thesaurus",{"type":"10","code":"008626"},[]],["thesaurus",{"type":"10","code":"007873"},[]],["thesaurus",{"type":"10","code":"007875"},[]],["thesaurus",{"type":"10","code":"003808"},[]],["thesaurus",{"type":"10","code":"004647"},[]],["thesaurus",{"type":"10","code":"008606"},[]],["thesaurus",{"type":"13","code":"G"},[]],["thesaurus",{"type":"13","code":"D"},[]],["thesaurus",{"type":"21","code":"L1461468"},[]],["thesaurus",{"type":"21","code":"L1461467"},[]],["thesaurus",{"type":"21","code":"L1461466"},[]],["mpr",{"catal":"0269","grp":"474","grp2":"07","maj":"20111022","numfich":"746801"},[["appl",{},["{(?1CVX)(%DTC11)}"]],["sti",{"ident":"T0088613"},[]],["img",{"numfich":"p7468010","path":"/img/pr/10/p746/p7468010.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"002132","obsnfp":"NFP","ref":"0000665118","refpg":"6651 18"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"003883","obsnfp":"NFP","ref":"0000665111","refpg":"6651 11"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]],["obsligne",{"ident":"L1461468"},[]]]]]],["pr",{"codesi":"003883","obsnfp":"NFP","ref":"0000665109","refpg":"6651 09"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]],["obsligne",{"ident":"L1461467"},[]]]]]],["pr",{"codesi":"008626","ref":"0000665116","refpg":"6651 16"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)/($,,1,05935)/}"]],["obsligne",{"ident":"L1461466"},[]]]]]],["pr",{"codesi":"003883","obsnfp":"NFP","ref":"0000665117","refpg":"6651 17"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(DTC10)/($1,05936,,)/}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"007873","cote":"G","obsnfp":"NFP","ref":"95655297","refpg":"95 655 297"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]],["pr",{"codesi":"007873","cote":"D","obsnfp":"NFP","ref":"95655296","refpg":"95 655 296"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"007875","obsnfp":"NFP","ref":"0000840612","refpg":"8406 12"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"003808","obsnfp":"NFP","ref":"96060431","refpg":"96 060 431"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"004647","obsnfp":"NFP","ref":"96086564","refpg":"96 086 564"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["1T5 PINC E2,5 L10X12"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"008606","obsnfp":"NFP","ref":"0000841614","refpg":"8416 14"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]]]]]]}

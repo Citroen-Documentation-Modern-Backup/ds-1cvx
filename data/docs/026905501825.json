@@ -1,18 +1,1 @@
-{
- "ref": "026905501825",
- "refDisplay": "0269 05 501825",
- "title": "FAISCEAU PLANCHE DE BORD / CONSOLE",
- "nature": "",
- "applicability": "ALARME ANTIVOL DEPUIS OPR 05992",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0309"
-  }
- ]
-}
+{"ref":"026905501825","refDisplay":"0269 05 501825","title":"FAISCEAU PLANCHE DE BORD / CONSOLE","nature":"","applicability":"ALARME ANTIVOL DEPUIS OPR 05992","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0309"}],"kind":"pr","appl":"{(?1CVX)(DAB04)/($1,05992,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"005242"},[]],["thesaurus",{"type":"10","code":"008998"},[]],["thesaurus",{"type":"10","code":"004658"},[]],["thesaurus",{"type":"10","code":"010441"},[]],["thesaurus",{"type":"10","code":"004647"},[]],["thesaurus",{"type":"10","code":"007584"},[]],["thesaurus",{"type":"21","code":"L1456955"},[]],["mpr",{"catal":"0269","grp":"520","grp2":"05","maj":"20111022","numfich":"501825"},[["appl",{},["{(?1CVX)(DAB04)/($1,05992,,)/}"]],["sti",{"ident":"T0088379"},[]],["img",{"numfich":"p5018250","path":"/img/pr/50/p501/p5018250.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"005242","obsnfp":"NFP","ref":"00006525VA","refpg":"6525 VA"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]],["nlcfr",{},[["livre",{},["9616680380"]]]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"008998","ref":"0000198244","refpg":"1982 44"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"004658","obsnfp":"NFP","ref":"95499092","refpg":"95 499 092"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["4,2X21-12"]]]]]]]],["repere",{"rep":"32"},[["pr",{"codesi":"010441","ref":"00006925W3","refpg":"6925 W3"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["4,2X13"]]]]]]]],["repere",{"rep":"33"},[["pr",{"codesi":"004647","ref":"0000699508","refpg":"6995 08"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["L=6,2X12,2"]]]]]]]],["repere",{"rep":"34"},[["pr",{"codesi":"007584","obsnfp":"NFP","ref":"96149750","refpg":"96 149 750"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"35"},[["pr",{"codesi":"004647","ref":"0000699505","refpg":"6995 05"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"36"},[["pr",{"codesi":"007584","obsnfp":"NFP","ref":"96044601","refpg":"96 044 601"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]],["obsligne",{"ident":"L1456955"},[]]]]]]]]]]]]}

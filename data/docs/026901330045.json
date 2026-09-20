@@ -1,18 +1,1 @@
-{
- "ref": "026901330045",
- "refDisplay": "0269 01 330045",
- "title": "BOITE DE VITESSES MECANIQUE",
- "nature": "",
- "applicability": "2,975L ET INJECTION ET BLINDE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"026901330045","refDisplay":"0269 01 330045","title":"BOITE DE VITESSES MECANIQUE","nature":"","applicability":"2,975L ET INJECTION ET BLINDE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CVX)(B0F3D)(DAZ04)(%B0JF1)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000049"},[]],["mpr",{"catal":"0269","grp":"67","grp2":"01","maj":"20111022","numfich":"330045"},[["appl",{},["{(?1CVX)(B0F3D)(DAZ04)(%B0JF1)}"]],["sti",{"ident":"NL330001"},[]],["img",{"numfich":"p3300450","path":"/img/pr/50/p330/p3300450.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000049","obsnfp":"NFP","ref":"95657607","refpg":"95 657 607"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)/($1,05163,,)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 12 X 62"]]]],["reporg",{},[["monte",{},[" GM06"]],["monte",{},[" GM11"]],["monte",{},["(GM11)"]]]]]]]]]]]]}

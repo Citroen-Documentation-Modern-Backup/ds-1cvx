@@ -1,18 +1,1 @@
-{
- "ref": "026906640805",
- "refDisplay": "0269 06 640805",
- "title": "CONDENSEUR - DESHYDRATEUR",
- "nature": "",
- "applicability": " DEPUIS DATE 19930901",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0347"
-  }
- ]
-}
+{"ref":"026906640805","refDisplay":"0269 06 640805","title":"CONDENSEUR - DESHYDRATEUR","nature":"","applicability":" DEPUIS DATE 19930901","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0347"}],"kind":"pr","appl":"{(?1CVX)/($5,19930901,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"002513"},[]],["thesaurus",{"type":"10","code":"002546"},[]],["thesaurus",{"type":"10","code":"014164"},[]],["thesaurus",{"type":"10","code":"006396"},[]],["thesaurus",{"type":"10","code":"009679"},[]],["thesaurus",{"type":"10","code":"005705"},[]],["thesaurus",{"type":"10","code":"004675"},[]],["thesaurus",{"type":"10","code":"004667"},[]],["mpr",{"catal":"0269","grp":"467 476","grp2":"06","maj":"20111022","numfich":"640805"},[["appl",{},["{(?1CVX)/($5,19930901,,)/}"]],["sti",{"ident":"T0088552"},[]],["enssup",{},[["refd",{},["R134A"]]]],["img",{"numfich":"00040767","path":"/img/pr/67/0004/00040767.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"002513","obsnfp":"NFP","ref":"00006455Y6","refpg":"6455 Y6"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"200, 130, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"002546","ref":"00006453Z0","refpg":"6453 Z0"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]],["pr",{"codesi":"014164","obsnfp":"NFP","ref":"E164016","refpg":"E164016","typecommercial":"EUROREPAR"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]],["pr",{"codesi":"014164","ref":"E164167","refpg":"E164167","typecommercial":"EUROREPAR"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"291, 169, 11","shape":"circle"},[]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"006396","ref":"00006455T2","refpg":"6455 T2"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"253, 107, 11","shape":"circle"},[]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"009679","ref":"0000131306","refpg":"1313 06"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 26X10 EP 19"]]]]]],["interactivite",{"order":"04"},[["area",{"coords":"254, 487, 11","shape":"circle"},[]],["area",{"coords":"72, 381, 11","shape":"circle"},[]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"005705","ref":"00006460C2","refpg":"6460 C2"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]],["interactivite",{"order":"05"},[["area",{"coords":"298, 127, 11","shape":"circle"},[]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004675","ref":"0000691792","refpg":"6917 92"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-20"]]]]]],["interactivite",{"order":"06"},[["area",{"coords":"419, 292, 11","shape":"circle"},[]],["area",{"coords":"44, 5, 11","shape":"circle"},[]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"004667","ref":"00006947G6","refpg":"6947 G6"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X18-2"]]]]]],["interactivite",{"order":"07"},[["area",{"coords":"399, 279, 11","shape":"circle"},[]],["area",{"coords":"101, 5, 11","shape":"circle"},[]]]]]]]]]]}

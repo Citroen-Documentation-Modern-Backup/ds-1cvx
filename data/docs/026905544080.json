@@ -1,18 +1,1 @@
-{
- "ref": "026905544080",
- "refDisplay": "0269 05 544080",
- "title": "FEU STOP SUPPLEMENTAIRE",
- "nature": "",
- "applicability": "(AUS) AUSTRALIE ET (JM) JAMAIQUE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0314"
-  }
- ]
-}
+{"ref":"026905544080","refDisplay":"0269 05 544080","title":"FEU STOP SUPPLEMENTAIRE","nature":"","applicability":"(AUS) AUSTRALIE ET (JM) JAMAIQUE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0314"}],"kind":"pr","appl":"{(?1CVX)(B0H75)(B0H74)}","tree":["document",{},[["thesaurus",{"type":"10","code":"003569"},[]],["thesaurus",{"type":"10","code":"004792"},[]],["thesaurus",{"type":"10","code":"008006"},[]],["thesaurus",{"type":"21","code":"L1457605"},[]],["mpr",{"catal":"0269","grp":"439","grp2":"05","maj":"20111022","numfich":"544080"},[["appl",{},["{(?1CVX)(B0H75)(B0H74)}"]],["sti",{"ident":"T0088429"},[]],["img",{"numfich":"p5440800","path":"/img/pr/00/p544/p5440800.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"003569","obsnfp":"NFP","ref":"96055817","refpg":"96 055 817"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)/($1,04983,,)/}"]],["obsligne",{"ident":"L1457605"},[]]]]]]]],["repere",{"rep":"10"},[["pr",{"codesi":"004792","ref":"00006216A1","refpg":"6216 A1"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["12V-W5W"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"008006","ref":"0000692273","refpg":"6922 73"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVX)/($1,04983,,)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-12"]]]]]]]]]]]]}

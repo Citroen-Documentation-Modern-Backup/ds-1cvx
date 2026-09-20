@@ -1,18 +1,1 @@
-{
- "ref": "026901333050",
- "refDisplay": "0269 01 333050",
- "title": "REFROIDISSEMENT D’HUILE",
- "nature": "",
- "applicability": "XU10J2 ET INJECTION TURBO XU10J2TE ET 4HP18 SAUF PAYS CHAUDS SAUF TAXI",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"026901333050","refDisplay":"0269 01 333050","title":"REFROIDISSEMENT D’HUILE","nature":"","applicability":"XU10J2 ET INJECTION TURBO XU10J2TE ET 4HP18 SAUF PAYS CHAUDS SAUF TAXI","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CVX)(%XU10J2)(B0F2K)(%4HP18)[(DCK04)][(%TAXI)]}","tree":["document",{},[["thesaurus",{"type":"10","code":"010598"},[]],["thesaurus",{"type":"10","code":"010550"},[]],["thesaurus",{"type":"10","code":"010141"},[]],["thesaurus",{"type":"10","code":"008220"},[]],["thesaurus",{"type":"10","code":"010599"},[]],["thesaurus",{"type":"10","code":"004650"},[]],["thesaurus",{"type":"10","code":"006400"},[]],["thesaurus",{"type":"10","code":"015290"},[]],["thesaurus",{"type":"21","code":"L1449400"},[]],["thesaurus",{"type":"21","code":"L1449401"},[]],["thesaurus",{"type":"21","code":"L1449402"},[]],["thesaurus",{"type":"21","code":"L1449403"},[]],["mpr",{"catal":"0269","grp":"100","grp2":"01","maj":"20111022","numfich":"333050"},[["appl",{},["{(?1CVX)(%XU10J2)(B0F2K)(%4HP18)[(DCK04)][(%TAXI)]}"]],["sti",{"ident":"T0088034"},[]],["img",{"numfich":"p3330500","path":"/img/pr/00/p333/p3330500.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"010598","obsnfp":"NFP","ref":"95656425","refpg":"95 656 425"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"010550","ref":"0000221912","refpg":"2219 12"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVX)}"]]]],["pmont",{"coef":"02"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["14,2X17,9-15"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"010141","obsnfp":"NFP","ref":"0000228421","refpg":"2284 21"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 14X150-32"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"008220","obsnfp":"NFP","ref":"0000226901","refpg":"2269 01"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(%INJ)(B0F2K)(@BVA)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"010599","obsnfp":"NFP","ref":"0000226903","refpg":"2269 03"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(%INJ)(B0F2K)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM INT 7,4 ET 19,2"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004650","ref":"00006981L6","refpg":"6981 L6"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]],["obsligne",{"ident":"L1449400"},[]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 10-18 LARG 5"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"004650","ref":"00006981N3","refpg":"6981 N3"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]],["obsligne",{"ident":"L1449401"},[]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 20 A 35 LARG 9"]]]]]]]],["repere",{"rep":"32"},[["pr",{"codesi":"006400","obsnfp":"NFP","ref":"00005280G5","refpg":"5280 G5"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]],["obsligne",{"ident":"L1449402"},[]]]],["descomp",{},[["lib",{"langue":"01"},["2T 6-20"]]]]]]]],["repere",{"rep":"33"},[["pr",{"codesi":"015290","ref":"0000699472","refpg":"6994 72"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]],["obsligne",{"ident":"L1449403"},[]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 14-16"]]]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "026905501218B",
- "refDisplay": "0269 05 501218B",
- "title": "FAISCEAU MOTEUR",
- "nature": "",
- "applicability": "ESSENCE ET 2,975L ET INJECTION DEPUIS OPR 05810",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0308"
-  }
- ]
-}
+{"ref":"026905501218B","refDisplay":"0269 05 501218B","title":"FAISCEAU MOTEUR","nature":"","applicability":"ESSENCE ET 2,975L ET INJECTION DEPUIS OPR 05810","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0308"}],"kind":"pr","appl":"{(?1CVX)(DCD10)(B0F3D)(DAZ04)/($1,05810,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"008610"},[]],["thesaurus",{"type":"10","code":"004647"},[]],["thesaurus",{"type":"10","code":"000903"},[]],["thesaurus",{"type":"10","code":"004662"},[]],["thesaurus",{"type":"10","code":"006354"},[]],["thesaurus",{"type":"21","code":"L1456589"},[]],["mpr",{"catal":"0269","grp":"514","grp2":"05","maj":"20111022","numfich":"501218B"},[["appl",{},["{(?1CVX)(DCD10)(B0F3D)(DAZ04)/($1,05810,,)/}"]],["sti",{"ident":"NL501201"},[]],["enssup",{},[["refd",{},["COMPLEMENTAIRE"]]]],["img",{"numfich":"p501218b","path":"/img/pr/8b/p501/p501218b.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"008610","obsnfp":"NFP","ref":"00006544AN","refpg":"6544 AN"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(DNX01)/($,,1,06569)/}"]],["obsligne",{"ident":"L1456589"},[]],["nlcfr",{},[["livre",{},["9614631180"]]]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"004647","ref":"0000699789","refpg":"6997 89"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 22-23"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"000903","ref":"95585426","refpg":"95 585 426"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["1T DIAM 14-16"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"004647","ref":"00006995CW","refpg":"6995 CW"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["6X12-0,7-4"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"004662","ref":"00006980A1","refpg":"6980 A1"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["LG 200X5"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"006354","ref":"0000650023","refpg":"6500 23"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["23 VOIES"]]]]]]]]]]]]}

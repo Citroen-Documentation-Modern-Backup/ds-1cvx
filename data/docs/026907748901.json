@@ -1,18 +1,1 @@
-{
- "ref": "026907748901",
- "refDisplay": "0269 07 748901",
- "title": "PLANCHER CHARGE PANNEAU PROTECTION",
- "nature": "",
- "applicability": "BREAK ET VAREBILLER ET (N) NORVEGE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0116"
-  }
- ]
-}
+{"ref":"026907748901","refDisplay":"0269 07 748901","title":"PLANCHER CHARGE PANNEAU PROTECTION","nature":"","applicability":"BREAK ET VAREBILLER ET (N) NORVEGE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0116"}],"kind":"pr","appl":"{(?1CVX)(@BK)(B0JJB)(B0H08)}","tree":["document",{},[["thesaurus",{"type":"7","code":"C001-"},[]],["thesaurus",{"type":"10","code":"004041"},[]],["thesaurus",{"type":"10","code":"002620"},[]],["thesaurus",{"type":"10","code":"008718"},[]],["thesaurus",{"type":"10","code":"003984"},[]],["thesaurus",{"type":"10","code":"002796"},[]],["thesaurus",{"type":"10","code":"005879"},[]],["thesaurus",{"type":"10","code":"005284"},[]],["thesaurus",{"type":"10","code":"010441"},[]],["thesaurus",{"type":"13","code":"G"},[]],["thesaurus",{"type":"13","code":"D"},[]],["mpr",{"catal":"0269","grp":"323","grp2":"07","maj":"20111022","numfich":"748901"},[["appl",{},["{(?1CVX)(@BK)(B0JJB)(B0H08)}"]],["sti",{"ident":"T0088616"},[]],["img",{"numfich":"p7489010","path":"/img/pr/10/p748/p7489010.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"004041","obsnfp":"NFP","ref":"96142691","refpg":"96 142 691"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]],["pr",{"codesi":"004041","obsnfp":"NFP","ref":"96162519","refpg":"96 162 519"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(DTC10)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"002620","cote":"G","obsnfp":"NFP","ref":"96142693","refpg":"96 142 693"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]],["pr",{"codesi":"002620","cote":"D","obsnfp":"NFP","ref":"96142692","refpg":"96 142 692"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"008718","ref":"00007467N0","refpg":"7467 N0"},[["pmont",{"coef":"05"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"003984","obsnfp":"NFP","ref":"95606630","refpg":"95 606 630"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVX)}"]],["complpr",{"matiere":"C001-"},[]]]],["descomp",{},[["lib",{"langue":"01"},["AR"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"002796","obsnfp":"NFP","ref":"96141196","refpg":"96 141 196"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"005879","obsnfp":"NFP","ref":"0000723985","refpg":"7239 85"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"005284","ref":"96093121","refpg":"96 093 121"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6,4"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"010441","ref":"96995463","refpg":"96 995 463"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6,3-25"]]]],["prremp",{"coef":"01","palges":"P","ref":"00006912A4","refpg":"6912 A4"},[]]]]]]]]]]}

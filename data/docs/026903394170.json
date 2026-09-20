@@ -1,18 +1,1 @@
-{
- "ref": "026903394170",
- "refDisplay": "0269 03 394170",
- "title": "CANALISATION ALIMENT SUSPENSION AR",
- "nature": "",
- "applicability": "DIRAVI ET SUSPENSION HYDRACTIVE DEPUIS OPR 05929",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0337"
-  }
- ]
-}
+{"ref":"026903394170","refDisplay":"0269 03 394170","title":"CANALISATION ALIMENT SUSPENSION AR","nature":"","applicability":"DIRAVI ET SUSPENSION HYDRACTIVE DEPUIS OPR 05929","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0337"}],"kind":"pr","appl":"{(?1CVX)(DDD03)(DSJ00)/($1,05929,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"001713"},[]],["thesaurus",{"type":"10","code":"001536"},[]],["thesaurus",{"type":"21","code":"L1454120"},[]],["mpr",{"catal":"0269","grp":"282","grp2":"03","maj":"20111022","numfich":"394170"},[["appl",{},["{(?1CVX)(DDD03)(DSJ00)/($1,05929,,)/}"]],["sti",{"ident":"T0088228"},[]],["img",{"numfich":"p3941700","path":"/img/pr/00/p394/p3941700.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001713","obsnfp":"NFP","ref":"0000527063","refpg":"5270 63"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(@BL)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 3,5 L=2713"]]]]]],["pr",{"codesi":"001713","obsnfp":"NFP","ref":"0000527064","refpg":"5270 64"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(@BK)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 3,5 L=2779"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"001713","obsnfp":"NFP","ref":"0000527065","refpg":"5270 65"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 3,5 L=690"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"001713","obsnfp":"NFP","ref":"0000527066","refpg":"5270 66"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 3,5 L=328"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"001713","obsnfp":"NFP","ref":"0000527067","refpg":"5270 67"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 3,5 L=397"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"001713","obsnfp":"NFP","ref":"00005270EL","refpg":"5270 EL"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 16X150"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"001713","obsnfp":"NFP","ref":"96048944","refpg":"96 048 944"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 16X150"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"001536","obsnfp":"NFP","ref":"95567472","refpg":"95 567 472"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]],["obsligne",{"ident":"L1454120"},[]]]],["descomp",{},[["lib",{"langue":"01"},["3 DIAM 3,5 AV"]]]]]]]]]]]]}

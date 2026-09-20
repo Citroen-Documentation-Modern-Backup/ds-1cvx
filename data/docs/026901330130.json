@@ -1,18 +1,1 @@
-{
- "ref": "026901330130",
- "refDisplay": "0269 01 330130",
- "title": "BOITE DE VITESSES AUTOMATIQUE",
- "nature": "",
- "applicability": "DIESEL ET D11ATE ET BVA ET 4HP18",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"026901330130","refDisplay":"0269 01 330130","title":"BOITE DE VITESSES AUTOMATIQUE","nature":"","applicability":"DIESEL ET D11ATE ET BVA ET 4HP18","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CVX)(%DIESEL)(%D11ATE)(@BVA)(%4HP18)}","tree":["document",{},[["thesaurus",{"type":"10","code":"009392"},[]],["thesaurus",{"type":"10","code":"009393"},[]],["thesaurus",{"type":"21","code":"L1449099"},[]],["thesaurus",{"type":"21","code":"L1449100"},[]],["mpr",{"catal":"0269","grp":"91","grp2":"01","maj":"20111022","numfich":"330130"},[["appl",{},["{(?1CVX)(%DIESEL)(%D11ATE)(@BVA)(%4HP18)}"]],["sti",{"ident":"NL330101"},[]],["img",{"numfich":"p3301300","path":"/img/pr/00/p330/p3301300.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"009392","obsnfp":"LE-0107","ref":"00002205Q4","refpg":"2205 Q4"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]],["obsligne",{"ident":"L1449099"},[]],["reffour",{},[["four",{},["99589Y"]]]]]],["descomp",{},[["lib",{"langue":"01"},["CP 21X75 - CD 56X55"]]]],["reporg",{},[["monte",{},[" GZ98"]],["monte",{},[" GZ8D"]],["monte",{},[" GZ4A"]],["monte",{},[" GZ5A"]],["monte",{},[" GZ7D"]],["monte",{},[" GZ2A"]]]]]],["pr",{"codesi":"009393","obsnfp":"NFP","ref":"00002201TX","refpg":"2201 TX"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(~2)}"]],["obsligne",{"ident":"L1449100"},[]],["reffour",{},[["four",{},["99669K"]]]]]],["descomp",{},[["lib",{"langue":"01"},["CP 21X75 - CD 56X55"]]]],["reporg",{},[["monte",{},["GZ4A"]],["monte",{},["GZ5A"]],["monte",{},["GZ2A"]],["monte",{},["GZ98"]],["monte",{},["GZ7D"]],["monte",{},["GZ8D"]]]]]]]]]]]]}

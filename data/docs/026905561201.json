@@ -1,18 +1,1 @@
-{
- "ref": "026905561201",
- "refDisplay": "0269 05 561201",
- "title": "ESSUIE VITRE ARRIERE",
- "nature": "",
- "applicability": "BERLINE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0322"
-  }
- ]
-}
+{"ref":"026905561201","refDisplay":"0269 05 561201","title":"ESSUIE VITRE ARRIERE","nature":"","applicability":"BERLINE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0322"}],"kind":"pr","appl":"{(?1CVX)(@BL)}","tree":["document",{},[["thesaurus",{"type":"10","code":"006544"},[]],["thesaurus",{"type":"10","code":"016994"},[]],["thesaurus",{"type":"10","code":"003057"},[]],["thesaurus",{"type":"10","code":"009513"},[]],["thesaurus",{"type":"10","code":"014149"},[]],["thesaurus",{"type":"10","code":"004651"},[]],["thesaurus",{"type":"10","code":"004656"},[]],["thesaurus",{"type":"10","code":"004667"},[]],["thesaurus",{"type":"10","code":"008588"},[]],["thesaurus",{"type":"10","code":"004675"},[]],["thesaurus",{"type":"10","code":"006142"},[]],["mpr",{"catal":"0269","grp":"386","grp2":"05","maj":"20111022","numfich":"561201"},[["appl",{},["{(?1CVX)(@BL)}"]],["sti",{"ident":"NL561201"},[]],["img",{"numfich":"p5612010","path":"/img/pr/10/p561/p5612010.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"006544","obsnfp":"NFP","ref":"95652999","refpg":"95 652 999"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"016994","obsnfp":"NFP","ref":"95653000","refpg":"95 653 000"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)[(DDF01)]}"]]]]]],["pr",{"codesi":"016994","obsnfp":"NFP","ref":"95653001","refpg":"95 653 001"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(DDF01)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"003057","ref":"00006426SS","refpg":"6426 SS"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]],["pr",{"codesi":"009513","ref":"00006426R1","refpg":"6426 R1"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["BOSCH - LONG 450"]]]],["prremp",{"coef":"01","palges":"P","ref":"00006426SS","refpg":"6426 SS"},[]]]],["pr",{"codesi":"014149","ref":"E429005","refpg":"E429005","typecommercial":"EUROREPAR"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["LONG 450"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"004651","obsnfp":"NFP","ref":"0000693239","refpg":"6932 39"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["16X100-5"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004656","ref":"0000694160","refpg":"6941 60"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["6X100-13-9,9"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"004667","ref":"00006947G6","refpg":"6947 G6"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X18-2"]]]]]]]],["repere",{"rep":"32"},[["pr",{"codesi":"008588","ref":"0000696299","refpg":"6962 99"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["6X12-1,7"]]]]]]]],["repere",{"rep":"33"},[["pr",{"codesi":"004675","ref":"0000691858","refpg":"6918 58"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-65"]]]]]]]],["repere",{"rep":"34"},[["pr",{"codesi":"006142","ref":"0000693509","refpg":"6935 09"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X125-7,3-13"]]]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "026905653015",
- "refDisplay": "0269 05 653015",
- "title": "ANTIPARASITAGE (SPEC MULTIFONCTION)",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0350"
-  }
- ]
-}
+{"ref":"026905653015","refDisplay":"0269 05 653015","title":"ANTIPARASITAGE (SPEC MULTIFONCTION)","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0350"}],"kind":"pr","appl":"{(?1CVX)}","tree":["document",{},[["thesaurus",{"type":"10","code":"003655"},[]],["thesaurus",{"type":"10","code":"005567"},[]],["thesaurus",{"type":"10","code":"004675"},[]],["thesaurus",{"type":"10","code":"010441"},[]],["thesaurus",{"type":"21","code":"L1457953"},[]],["thesaurus",{"type":"21","code":"L1457954"},[]],["thesaurus",{"type":"21","code":"L1457955"},[]],["mpr",{"catal":"0269","grp":"541","grp2":"05","maj":"20111022","numfich":"653015"},[["appl",{},["{(?1CVX)}"]],["sti",{"ident":"T0088452"},[]],["img",{"numfich":"p6530150","path":"/img/pr/50/p653/p6530150.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"003655","obsnfp":"NFP","ref":"95632840","refpg":"95 632 840"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"005567","ref":"0000563896","refpg":"5638 96"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVX)}"]],["obsligne",{"ident":"L1457953"},[]]]],["descomp",{},[["lib",{"langue":"01"},["LONG 220"]]]]]],["pr",{"codesi":"005567","obsnfp":"NFP","ref":"00005638H0","refpg":"5638 H0"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]],["obsligne",{"ident":"L1457954"},[]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004675","ref":"0000691584","refpg":"6915 84"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-12"]]]]]],["pr",{"codesi":"010441","ref":"0000692562","refpg":"6925 62"},[["pmont",{"coef":"09"},[["appl",{},["{(?1CVX)(%N1XU)}"]],["obsligne",{"ident":"L1457955"},[]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 3,5-32"]]]],["prremp",{"coef":"01","palges":"P","ref":"00006924K1","refpg":"6924 K1"},[]]]]]]]]]]}

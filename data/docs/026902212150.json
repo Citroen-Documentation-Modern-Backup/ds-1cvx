@@ -1,18 +1,1 @@
-{
- "ref": "026902212150",
- "refDisplay": "0269 02 212150",
- "title": "BOUGIE - BOITIER PRECHAUFFAGE",
- "nature": "",
- "applicability": "GAZOLE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0304"
-  }
- ]
-}
+{"ref":"026902212150","refDisplay":"0269 02 212150","title":"BOUGIE - BOITIER PRECHAUFFAGE","nature":"","applicability":"GAZOLE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0304"}],"kind":"pr","appl":"{(?1CVX)(DCD06)}","tree":["document",{},[["thesaurus",{"type":"10","code":"005382"},[]],["thesaurus",{"type":"10","code":"014153"},[]],["thesaurus",{"type":"10","code":"015878"},[]],["thesaurus",{"type":"10","code":"001888"},[]],["thesaurus",{"type":"10","code":"001849"},[]],["thesaurus",{"type":"10","code":"002279"},[]],["thesaurus",{"type":"10","code":"004651"},[]],["thesaurus",{"type":"10","code":"008588"},[]],["thesaurus",{"type":"21","code":"L1453224"},[]],["mpr",{"catal":"0269","grp":"482","grp2":"02","maj":"20111207","numfich":"212150"},[["appl",{},["{(?1CVX)(DCD06)}"]],["sti",{"ident":"T0088165"},[]],["img",{"numfich":"p2121500","path":"/img/pr/00/p212/p2121500.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"005382","ref":"000059623J","refpg":"5962 3J"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CVX)}"]]]],["prremp",{"coef":"01","palges":"P","ref":"00005960G7","refpg":"5960 G7"},[]]]],["pr",{"codesi":"014153","ref":"E161003","refpg":"E161003","typecommercial":"EUROREPAR"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CVX)}"]]]]]],["pr",{"codesi":"015878","ref":"VGP147","refpg":"VGP147","typecommercial":"MOTAQUIP"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"001888","ref":"0000596978","refpg":"5969 78"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"001849","obsnfp":"NFP","ref":"0000598120","refpg":"5981 20"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]],["obsligne",{"ident":"L1453224"},[]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"002279","obsnfp":"NFP","ref":"96067058","refpg":"96 067 058"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DE PRECHAUFFAGE"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004651","ref":"0000693322","refpg":"6933 22"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["5X80"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"008588","ref":"0000696226","refpg":"6962 26"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["5X10,2-0,5"]]]]]]]]]]]]}

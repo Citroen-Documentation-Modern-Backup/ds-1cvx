@@ -1,18 +1,1 @@
-{
- "ref": "026902533223",
- "refDisplay": "0269 02 533223",
- "title": "DEMARREUR - DETAILS",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0302"
-  }
- ]
-}
+{"ref":"026902533223","refDisplay":"0269 02 533223","title":"DEMARREUR - DETAILS","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0302"}],"kind":"pr","appl":"{(?1CVX)}","tree":["document",{},[["thesaurus",{"type":"10","code":"002275"},[]],["thesaurus",{"type":"10","code":"002049"},[]],["thesaurus",{"type":"10","code":"002117"},[]],["thesaurus",{"type":"10","code":"007556"},[]],["thesaurus",{"type":"10","code":"007056"},[]],["thesaurus",{"type":"10","code":"005156"},[]],["mpr",{"catal":"0269","grp":"492","grp2":"02","maj":"20111022","numfich":"533223"},[["appl",{},["{(?1CVX)}"]],["sti",{"ident":"NL533201"},[]],["enssup",{},[["fourn",{},["76253H01"]],["refd",{},["D6RA66"]]]],["img",{"numfich":"p5332230","path":"/img/pr/30/p533/p5332230.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"002275","obsnfp":"NFP","ref":"0000583661","refpg":"5836 61"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"002049","ref":"0000585577","refpg":"5855 77"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"002117","obsnfp":"NFP","ref":"00005835A0","refpg":"5835 A0"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"007556","ref":"0000581714","refpg":"5817 14"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"007056","obsnfp":"NFP","ref":"00005828A0","refpg":"5828 A0"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"005156","ref":"0000582781","refpg":"5827 81"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]]]]]]}

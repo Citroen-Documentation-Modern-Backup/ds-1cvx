@@ -1,18 +1,1 @@
-{
- "ref": "026905501310",
- "refDisplay": "0269 05 501310",
- "title": "FAISCEAU ANTIPOLLTION ELECTROVANNE",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0308"
-  }
- ]
-}
+{"ref":"026905501310","refDisplay":"0269 05 501310","title":"FAISCEAU ANTIPOLLTION ELECTROVANNE","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0308"}],"kind":"pr","appl":"{(?1CVX)}","tree":["document",{},[["thesaurus",{"type":"10","code":"008610"},[]],["thesaurus",{"type":"10","code":"003753"},[]],["mpr",{"catal":"0269","grp":"515","grp2":"05","maj":"20111022","numfich":"501310"},[["appl",{},["{(?1CVX)}"]],["sti",{"ident":"T0088362"},[]],["img",{"numfich":"00051247","path":"/img/pr/47/0005/00051247.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"008610","obsnfp":"NFP","ref":"0000653398","refpg":"6533 98"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(%XUD11A)(%GAZOLE)}"]],["nlcfr",{},[["livre",{},["9614154180"]]]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(%XUD11A)(%GAZOLE)(%TURECH)}"]],["nlcfr",{},[["livre",{},["9614154180"]]]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(%MUX)}"]],["nlcfr",{},[["livre",{},["9614154180"]]]]]],["descomp",{},[["lib",{"langue":"01"},["AV DROIT EGR"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"213, 125, 11","shape":"circle"},[]]]]]],["repere",{"rep":"51"},[["pr",{"codesi":"003753","obsnfp":"NFP","ref":"0000653397","refpg":"6533 97"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(%XUD11A)(%GAZOLE)(%TURECH)}"]],["nlcfr",{},[["livre",{},["9610579280"]]]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"254, 125, 11","shape":"circle"},[]]]]]]]]]]}

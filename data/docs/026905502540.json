@@ -1,18 +1,1 @@
-{
- "ref": "026905502540",
- "refDisplay": "0269 05 502540",
- "title": "FAISCEAU VOLET/PORTE AR BATT/COFFRE",
- "nature": "",
- "applicability": "MONTAGE MULTIPLEXE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0310"
-  }
- ]
-}
+{"ref":"026905502540","refDisplay":"0269 05 502540","title":"FAISCEAU VOLET/PORTE AR BATT/COFFRE","nature":"","applicability":"MONTAGE MULTIPLEXE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0310"}],"kind":"pr","appl":"{(?1CVX)(%MUX)}","tree":["document",{},[["thesaurus",{"type":"10","code":"003750"},[]],["thesaurus",{"type":"10","code":"004647"},[]],["thesaurus",{"type":"10","code":"003763"},[]],["thesaurus",{"type":"21","code":"L1457110"},[]],["mpr",{"catal":"0269","grp":"527 528","grp2":"05","maj":"20111022","numfich":"502540"},[["appl",{},["{(?1CVX)(%MUX)}"]],["sti",{"ident":"T0088397"},[]],["enssup",{},[["refd",{},["VOLET"]]]],["img",{"numfich":"p5025400","path":"/img/pr/00/p502/p5025400.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"003750","obsnfp":"NFP","ref":"00006534K6","refpg":"6534 K6"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004647","ref":"0000699545","refpg":"6995 45"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"004647","ref":"0000699505","refpg":"6995 05"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"32"},[["pr",{"codesi":"003763","obsnfp":"NFP","ref":"96028669","refpg":"96 028 669"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]],["obsligne",{"ident":"L1457110"},[]]]],["descomp",{},[["lib",{"langue":"01"},["10 VOIES"]]]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "026901002070",
- "refDisplay": "0269 01 002070",
- "title": "ENSEMBLE MOTEUR",
- "nature": "",
- "applicability": "GAZOLE ET 2,138L",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0049"
-  }
- ]
-}
+{"ref":"026901002070","refDisplay":"0269 01 002070","title":"ENSEMBLE MOTEUR","nature":"","applicability":"GAZOLE ET 2,138L","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0049"}],"kind":"pr","appl":"{(?1CVX)(DCD06)(B0F5U)}","tree":["document",{},[["thesaurus",{"type":"10","code":"013645"},[]],["thesaurus",{"type":"10","code":"013647"},[]],["thesaurus",{"type":"22","code":"P0007051"},[]],["mpr",{"catal":"0269","grp":"4","grp2":"01","maj":"20111022","numfich":"002070"},[["appl",{},["{(?1CVX)(DCD06)(B0F5U)}"]],["sti",{"ident":"T0087886"},[]],["obspage",{"ident":"P0007051"},[]],["img",{"numfich":"p0020700","path":"/img/pr/00/p002/p0020700.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"013645","obsnfp":"NFP","ref":"00000135K2","refpg":"0135 K2"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["reporg",{},[["monte",{},["(PJZ)"]],["monte",{},["P9A"]],["monte",{},["PJZ"]]]]]],["pr",{"codesi":"013647","obsnfp":"NFP","ref":"00000139C3","refpg":"0139 C3"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(~2)}"]]]],["reporg",{},[["monte",{},["(P9A)"]],["monte",{},["(PJZ)"]],["monte",{},["P9A"]],["monte",{},["PJZ"]]]]]]]]]]]]}

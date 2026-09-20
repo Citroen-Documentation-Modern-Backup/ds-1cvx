@@ -1,18 +1,1 @@
-{
- "ref": "026906175606",
- "refDisplay": "0269 06 175606",
- "title": "BOITIER SONDE TEMPERATURE ECHAPP",
- "nature": "",
- "applicability": "1,998L ET INJECTION TURBO ECHANGEUR",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0012"
-  }
- ]
-}
+{"ref":"026906175606","refDisplay":"0269 06 175606","title":"BOITIER SONDE TEMPERATURE ECHAPP","nature":"","applicability":"1,998L ET INJECTION TURBO ECHANGEUR","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0012"}],"kind":"pr","appl":"{(?1CVX)(B0F5T)(DAZ06)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000627"},[]],["thesaurus",{"type":"10","code":"006112"},[]],["thesaurus",{"type":"10","code":"004647"},[]],["thesaurus",{"type":"10","code":"016900"},[]],["thesaurus",{"type":"10","code":"004662"},[]],["thesaurus",{"type":"10","code":"000629"},[]],["mpr",{"catal":"0269","grp":"54","grp2":"06","maj":"20111022","numfich":"175606"},[["appl",{},["{(?1CVX)(B0F5T)(DAZ06)}"]],["sti",{"ident":"T0088480"},[]],["img",{"numfich":"p1756060","path":"/img/pr/60/p175/p1756060.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000627","obsnfp":"NFP","ref":"00001628T2","refpg":"1628 T2"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["11W LONG 1500"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"006112","ref":"00006991A6","refpg":"6991 A6"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["7-9--2,5-7,5"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"004647","ref":"00006992N1","refpg":"6992 N1"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["7,5"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"016900","ref":"0000597986","refpg":"5979 86"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["2T 5A8-8A11"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004662","ref":"00006980A1","refpg":"6980 A1"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["LG 200X5"]]]]]]]],["repere",{"rep":"70"},[["pr",{"codesi":"000629","obsnfp":"NFP","ref":"000016286P","refpg":"1628 6P"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(B0H49)}"]]]],["descomp",{},[["lib",{"langue":"01"},["LONG 2510"]]]]]]]]]]]]}

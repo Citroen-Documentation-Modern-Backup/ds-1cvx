@@ -1,18 +1,1 @@
-{
- "ref": "026905653201",
- "refDisplay": "0269 05 653201",
- "title": "ANTENNE AUTO-RADIO",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0350"
-  }
- ]
-}
+{"ref":"026905653201","refDisplay":"0269 05 653201","title":"ANTENNE AUTO-RADIO","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0350"}],"kind":"pr","appl":"{(?1CVX)}","tree":["document",{},[["thesaurus",{"type":"10","code":"003349"},[]],["thesaurus",{"type":"10","code":"003614"},[]],["thesaurus",{"type":"10","code":"003639"},[]],["thesaurus",{"type":"10","code":"003625"},[]],["thesaurus",{"type":"10","code":"003872"},[]],["thesaurus",{"type":"10","code":"006028"},[]],["thesaurus",{"type":"21","code":"L1457962"},[]],["thesaurus",{"type":"21","code":"L1457963"},[]],["thesaurus",{"type":"21","code":"L1457964"},[]],["thesaurus",{"type":"21","code":"L1457965"},[]],["mpr",{"catal":"0269","grp":"542","grp2":"05","maj":"20111022","numfich":"653201"},[["appl",{},["{(?1CVX)}"]],["sti",{"ident":"T0088453"},[]],["img",{"numfich":"p6532010","path":"/img/pr/10/p653/p6532010.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"003349","ref":"0000656110","refpg":"6561 10"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"003614","ref":"0000656143","refpg":"6561 43"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["LONG 850"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"003614","ref":"0000656101","refpg":"6561 01"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["LONG 420"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"003639","ref":"0000656141","refpg":"6561 41"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"003625","obsnfp":"NFP","ref":"96165396","refpg":"96 165 396"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]],["obsligne",{"ident":"L1457962"},[]]]],["descomp",{},[["lib",{"langue":"01"},["LONG 3250"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"003625","obsnfp":"NFP","ref":"96054119","refpg":"96 054 119"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]],["obsligne",{"ident":"L1457963"},[]]]],["descomp",{},[["lib",{"langue":"01"},["LONG 4700"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"003872","obsnfp":"NFP","ref":"96066750","refpg":"96 066 750"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(@BL)}"]],["obsligne",{"ident":"L1457964"},[]]]],["descomp",{},[["lib",{"langue":"01"},["LONG 400"]]]]]],["pr",{"codesi":"003872","obsnfp":"NFP","ref":"96107612","refpg":"96 107 612"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(@BK)}"]],["obsligne",{"ident":"L1457965"},[]]]],["descomp",{},[["lib",{"langue":"01"},["LONG 1700"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"006028","ref":"0000693648","refpg":"6936 48"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["5X80-6-15"]]]]]]]]]]]]}

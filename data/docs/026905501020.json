@@ -1,18 +1,1 @@
-{
- "ref": "026905501020",
- "refDisplay": "0269 05 501020",
- "title": "FAISCEAUX COMPLEMENTAIRES AV",
- "nature": "",
- "applicability": "MONTAGE MULTIPLEXE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0308"
-  }
- ]
-}
+{"ref":"026905501020","refDisplay":"0269 05 501020","title":"FAISCEAUX COMPLEMENTAIRES AV","nature":"","applicability":"MONTAGE MULTIPLEXE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0308"}],"kind":"pr","appl":"{(?1CVX)(%MUX)}","tree":["document",{},[["thesaurus",{"type":"10","code":"003757"},[]],["thesaurus",{"type":"10","code":"004647"},[]],["thesaurus",{"type":"13","code":"G"},[]],["thesaurus",{"type":"13","code":"D"},[]],["mpr",{"catal":"0269","grp":"512","grp2":"05","maj":"20111022","numfich":"501020"},[["appl",{},["{(?1CVX)(%MUX)}"]],["sti",{"ident":"T0088312"},[]],["img",{"numfich":"p5010200","path":"/img/pr/00/p501/p5010200.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"003757","cote":"G","obsnfp":"NFP","ref":"00006511VX","refpg":"6511 VX"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]],["nlcfr",{},[["livre",{},["9617769680"]]]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"003757","cote":"D","obsnfp":"NFP","ref":"00006511VW","refpg":"6511 VW"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]],["nlcfr",{},[["livre",{},["9617769780"]]]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004647","ref":"00006992H3","refpg":"6992 H3"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 11-18"]]]]]]]]]]]]}

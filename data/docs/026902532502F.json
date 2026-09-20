@@ -1,18 +1,1 @@
-{
- "ref": "026902532502F",
- "refDisplay": "0269 02 532502F",
- "title": "ALTERNATEUR - DETAILS",
- "nature": "",
- "applicability": " JUSQU’A OPR 04921",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0303"
-  }
- ]
-}
+{"ref":"026902532502F","refDisplay":"0269 02 532502F","title":"ALTERNATEUR - DETAILS","nature":"","applicability":" JUSQU’A OPR 04921","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0303"}],"kind":"pr","appl":"{(?1CVX)/($,,1,04921)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"002208"},[]],["thesaurus",{"type":"10","code":"001843"},[]],["thesaurus",{"type":"10","code":"002081"},[]],["mpr",{"catal":"0269","grp":"497","grp2":"02","maj":"20111022","numfich":"532502F"},[["appl",{},["{(?1CVX)/($,,1,04921)/}"]],["sti",{"ident":"NL532501"},[]],["enssup",{},[["fourn",{},["71367X"]],["refd",{},["A 002 T 17491"]]]],["img",{"numfich":"p532502f","path":"/img/pr/2f/p532/p532502f.jpg","ext":"jpg"},[]],["repere",{"rep":"03"},[["pr",{"codesi":"002208","obsnfp":"NFP","ref":"0000576180","refpg":"5761 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"001843","obsnfp":"NFP","ref":"00005744A4","refpg":"5744 A4"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"002081","obsnfp":"NFP","ref":"95659457","refpg":"95 659 457"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]]]]]]}

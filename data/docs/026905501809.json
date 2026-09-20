@@ -1,18 +1,1 @@
-{
- "ref": "026905501809",
- "refDisplay": "0269 05 501809",
- "title": "FAISCEAU PLANCHE DE BORD / CONSOLE",
- "nature": "",
- "applicability": "REGULATION VITESSE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0309"
-  }
- ]
-}
+{"ref":"026905501809","refDisplay":"0269 05 501809","title":"FAISCEAU PLANCHE DE BORD / CONSOLE","nature":"","applicability":"REGULATION VITESSE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0309"}],"kind":"pr","appl":"{(?1CVX)(DRG01)}","tree":["document",{},[["thesaurus",{"type":"10","code":"006233"},[]],["thesaurus",{"type":"21","code":"L1456907"},[]],["mpr",{"catal":"0269","grp":"520","grp2":"05","maj":"20111022","numfich":"501809"},[["appl",{},["{(?1CVX)(DRG01)}"]],["sti",{"ident":"T0088375"},[]],["img",{"numfich":"p5018090","path":"/img/pr/90/p501/p5018090.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"006233","obsnfp":"NFP","ref":"96051704","refpg":"96 051 704"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]],["obsligne",{"ident":"L1456907"},[]]]]]]]]]]]]}

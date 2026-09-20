@@ -1,18 +1,1 @@
-{
- "ref": "026905520905",
- "refDisplay": "0269 05 520905",
- "title": "COMBINE DE BORD COMPLET",
- "nature": "",
- "applicability": "MONTAGE MULTIPLEXE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0213"
-  }
- ]
-}
+{"ref":"026905520905","refDisplay":"0269 05 520905","title":"COMBINE DE BORD COMPLET","nature":"","applicability":"MONTAGE MULTIPLEXE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0213"}],"kind":"pr","appl":"{(?1CVX)(DMW01)}","tree":["document",{},[["thesaurus",{"type":"10","code":"001935"},[]],["thesaurus",{"type":"10","code":"007604"},[]],["thesaurus",{"type":"22","code":"P0007159"},[]],["thesaurus",{"type":"21","code":"L1457134"},[]],["mpr",{"catal":"0269","grp":"416","grp2":"05","maj":"20111022","numfich":"520905"},[["appl",{},["{(?1CVX)(DMW01)}"]],["sti",{"ident":"NL520901"},[]],["obspage",{"ident":"P0007159"},[]],["img",{"numfich":"p5209050","path":"/img/pr/50/p520/p5209050.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001935","obsnfp":"NFP","ref":"00006100H7","refpg":"6100 H7"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]],["obsligne",{"ident":"L1457134"},[]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"007604","ref":"95499232","refpg":"95 499 232"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]]]]]]}

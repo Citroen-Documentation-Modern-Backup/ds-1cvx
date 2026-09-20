@@ -1,18 +1,1 @@
-{
- "ref": "026903391730",
- "refDisplay": "0269 03 391730",
- "title": "SUPPORT CONJONTEUR",
- "nature": "",
- "applicability": "DIRAVI",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0337"
-  }
- ]
-}
+{"ref":"026903391730","refDisplay":"0269 03 391730","title":"SUPPORT CONJONTEUR","nature":"","applicability":"DIRAVI","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0337"}],"kind":"pr","appl":"{(?1CVX)(DDD03)}","tree":["document",{},[["thesaurus",{"type":"10","code":"001650"},[]],["thesaurus",{"type":"10","code":"008006"},[]],["thesaurus",{"type":"10","code":"004675"},[]],["thesaurus",{"type":"10","code":"008588"},[]],["thesaurus",{"type":"10","code":"004667"},[]],["mpr",{"catal":"0269","grp":"268","grp2":"03","maj":"20111022","numfich":"391730"},[["appl",{},["{(?1CVX)(DDD03)}"]],["sti",{"ident":"T0088212"},[]],["img",{"numfich":"p3917300","path":"/img/pr/00/p391/p3917300.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001650","obsnfp":"NFP","ref":"0000527408","refpg":"5274 08"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"001650","obsnfp":"NFP","ref":"96037191","refpg":"96 037 191"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(@BVA)}"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"008006","ref":"0000692319","refpg":"6923 19"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 7X100-75"]]]]]]]],["repere",{"rep":"32"},[["pr",{"codesi":"004675","ref":"0000082009","refpg":"0820 09"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 7X100-18"]]]]]]]],["repere",{"rep":"33"},[["pr",{"codesi":"008588","ref":"0000696270","refpg":"6962 70"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["7X18-1,4"]]]]]]]],["repere",{"rep":"34"},[["pr",{"codesi":"008006","ref":"00006923G7","refpg":"6923 G7"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8X125-35"]]]]]]]],["repere",{"rep":"35"},[["pr",{"codesi":"004667","ref":"0000694779","refpg":"6947 79"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X22-2,5"]]]]]]]]]]]]}

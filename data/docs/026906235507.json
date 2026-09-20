@@ -1,18 +1,1 @@
-{
- "ref": "026906235507",
- "refDisplay": "0269 06 235507",
- "title": "RADIATEUR",
- "nature": "",
- "applicability": "2,963L ET 2,975L",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0009"
-  }
- ]
-}
+{"ref":"026906235507","refDisplay":"0269 06 235507","title":"RADIATEUR","nature":"","applicability":"2,963L ET 2,975L","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0009"}],"kind":"pr","appl":"{(?1CVX)(B0F3J)(B0F3D)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000714"},[]],["thesaurus",{"type":"10","code":"000713"},[]],["thesaurus",{"type":"10","code":"000748"},[]],["thesaurus",{"type":"10","code":"009679"},[]],["thesaurus",{"type":"21","code":"L1459470"},[]],["thesaurus",{"type":"21","code":"L1459472"},[]],["mpr",{"catal":"0269","grp":"21","grp2":"06","maj":"20111022","numfich":"235507"},[["appl",{},["{(?1CVX)(B0F3J)(B0F3D)}"]],["sti",{"ident":"NL235501"},[]],["img",{"numfich":"p2355070","path":"/img/pr/70/p235/p2355070.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000714","obsnfp":"NFP","ref":"00001301E5","refpg":"1301 E5"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(@BVM)(%DRE10)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(@BVA)/($,,1,06202)/}"]]]]]],["pr",{"codesi":"000713","obsnfp":"NFP","ref":"00001301A7","refpg":"1301 A7"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(@BVM)(%DRE10)(~2)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(@BVA)/($,,1,06202)/(~2)}"]]]]]],["pr",{"codesi":"000714","obsnfp":"LE-0202","ref":"96086717","refpg":"96 086 717"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(@BVM)[(%DRE10)]}"]]]]]],["pr",{"codesi":"000713","obsnfp":"LE-0005","ref":"95655364","refpg":"95 655 364"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(@BVM)[(%DRE10)](~2)}"]],["obsligne",{"ident":"L1459470"},[]]]]]],["pr",{"codesi":"000713","obsnfp":"LE-0008","ref":"00001301ES","refpg":"1301 ES"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(@BVM)(DRE00)(~2)}"]],["obsligne",{"ident":"L1459472"},[]]]]]],["pr",{"codesi":"000714","obsnfp":"NFP","ref":"00001301R2","refpg":"1301 R2"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(@BVA)/($1,06203,,)/}"]]]]]],["pr",{"codesi":"000713","obsnfp":"NFP","ref":"00001331P1","refpg":"1331 P1"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(@BVA)/($1,06203,,)/(~2)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000748","obsnfp":"NFP","ref":"0000131287","refpg":"1312 87"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVX)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"009679","ref":"0000131306","refpg":"1313 06"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 26X10 EP 19"]]]]]]]]]]]]}

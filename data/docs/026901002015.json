@@ -1,18 +1,1 @@
-{
- "ref": "026901002015",
- "refDisplay": "0269 01 002015",
- "title": "ENSEMBLE MOTEUR",
- "nature": "",
- "applicability": "ESSENCE ET 1,998L ET INJ MONOPOINT ET (XT) EXPORT",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0049"
-  }
- ]
-}
+{"ref":"026901002015","refDisplay":"0269 01 002015","title":"ENSEMBLE MOTEUR","nature":"","applicability":"ESSENCE ET 1,998L ET INJ MONOPOINT ET (XT) EXPORT","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0049"}],"kind":"pr","appl":"{(?1CVX)(DCD10)(%B0F199)(%DAZ07)(%B0HXT)}","tree":["document",{},[["thesaurus",{"type":"10","code":"013644"},[]],["thesaurus",{"type":"10","code":"013646"},[]],["thesaurus",{"type":"22","code":"P0007048"},[]],["mpr",{"catal":"0269","grp":"4","grp2":"01","maj":"20111022","numfich":"002015"},[["appl",{},["{(?1CVX)(DCD10)(%B0F199)(%DAZ07)(%B0HXT)}"]],["sti",{"ident":"T0087881"},[]],["obspage",{"ident":"P0007048"},[]],["img",{"numfich":"p0020150","path":"/img/pr/50/p002/p0020150.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"013644","obsnfp":"NFP","ref":"95654072","refpg":"95 654 072"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["REP:RDZ"]]]],["reporg",{},[["monte",{},["RDZ"]]]]]],["pr",{"codesi":"013646","obsnfp":"NFP","ref":"95668938","refpg":"95 668 938"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(~2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["REP RDZ"]]]]]]]]]]]]}

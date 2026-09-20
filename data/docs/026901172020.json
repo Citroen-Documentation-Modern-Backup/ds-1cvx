@@ -1,18 +1,1 @@
-{
- "ref": "026901172020",
- "refDisplay": "0269 01 172020",
- "title": "ECHANGEUR",
- "nature": "",
- "applicability": "ESSENCE ET 1,998L ET INJECTION TURBO ECHANGEUR",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0014"
-  }
- ]
-}
+{"ref":"026901172020","refDisplay":"0269 01 172020","title":"ECHANGEUR","nature":"","applicability":"ESSENCE ET 1,998L ET INJECTION TURBO ECHANGEUR","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0014"}],"kind":"pr","appl":"{(?1CVX)(DCD10)(%B0F2KA)(DAZ06)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000256"},[]],["thesaurus",{"type":"10","code":"008417"},[]],["thesaurus",{"type":"10","code":"009679"},[]],["thesaurus",{"type":"21","code":"L1448134"},[]],["thesaurus",{"type":"21","code":"L1448135"},[]],["mpr",{"catal":"0269","grp":"56","grp2":"01","maj":"20111022","numfich":"172020"},[["appl",{},["{(?1CVX)(DCD10)(%B0F2KA)(DAZ06)}"]],["sti",{"ident":"T0087947"},[]],["img",{"numfich":"p1720200","path":"/img/pr/00/p172/p1720200.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000256","obsnfp":"NFP","ref":"00000384C0","refpg":"0384 C0"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]]]],["pr",{"codesi":"008417","obsnfp":"NFP","ref":"95666891","refpg":"95 666 891"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(~2)}"]],["obsligne",{"ident":"L1448134"},[]]]],["descomp",{},[["lib",{"langue":"01"},["\"E ST\""]]]]]],["pr",{"codesi":"008417","obsnfp":"NFP","ref":"00000384E9","refpg":"0384 E9"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(~2)}"]],["obsligne",{"ident":"L1448135"},[]]]],["descomp",{},[["lib",{"langue":"01"},["E ST"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"009679","ref":"0000131306","refpg":"1313 06"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 26X10 EP 19"]]]]]]]]]]]]}

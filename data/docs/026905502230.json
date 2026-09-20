@@ -1,18 +1,1 @@
-{
- "ref": "026905502230",
- "refDisplay": "0269 05 502230",
- "title": "FAISCEAU SIEGES ET CEINTURES",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVX",
-   "variantKey": "",
-   "fctId": "FCT0309"
-  }
- ]
-}
+{"ref":"026905502230","refDisplay":"0269 05 502230","title":"FAISCEAU SIEGES ET CEINTURES","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVX","variantKey":"","fctId":"FCT0309"}],"kind":"pr","appl":"{(?1CVX)}","tree":["document",{},[["thesaurus",{"type":"10","code":"005242"},[]],["thesaurus",{"type":"10","code":"004658"},[]],["thesaurus",{"type":"10","code":"004662"},[]],["thesaurus",{"type":"10","code":"010441"},[]],["thesaurus",{"type":"21","code":"L1457030"},[]],["mpr",{"catal":"0269","grp":"524","grp2":"05","maj":"20111022","numfich":"502230"},[["appl",{},["{(?1CVX)}"]],["sti",{"ident":"NL502201"},[]],["enssup",{},[["refd",{},["SIEGE PASSAGE"]]]],["img",{"numfich":"p5022300","path":"/img/pr/00/p502/p5022300.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"005242","obsnfp":"NFP","ref":"95638147","refpg":"95 638 147"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)(%MUX)}"]],["obsligne",{"ident":"L1457030"},[]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004658","obsnfp":"NFP","ref":"7903046073","refpg":"79 03 046 073"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["0,8X19,9-12"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"004662","ref":"00006980A1","refpg":"6980 A1"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["LG 200X5"]]]]]]]],["repere",{"rep":"32"},[["pr",{"codesi":"010441","ref":"0000692578","refpg":"6925 78"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVX)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 4,8X13"]]]],["prremp",{"coef":"01","palges":"P","ref":"0000692588","refpg":"6925 88"},[]]]]]]]]]]}
